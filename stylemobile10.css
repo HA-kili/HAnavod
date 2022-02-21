@@ -185,17 +185,6 @@ div.contentCol {
     border-radius: 2px;
     position: relative;
 }
-div.chat .logo2 {
-    height: 50px;
-    width: 50px;
-    position: absolute;
-    z-index: 20;
-    right: 5px;
-    bottom: 5px;
-    margin: 0 10px 80px 0;
-    cursor: pointer;
-    border-radius: 50%;
-}
 div.contentCol .post {
     background-color: #67ABD6;
     display: block;
