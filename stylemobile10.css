@@ -1,3 +1,4 @@
+/*body*/
 body {
     background-color: #67ABD6;
     margin: 0;
@@ -7,6 +8,8 @@ body {
     font: 12px/1.6em "Asap", sans-serif;
         font-size: 12px;
 }
+
+/*header*/
 header.header {
     position:fixed;
     top: 0;
@@ -80,15 +83,13 @@ header.header nav.topMenu {
     padding: 2px 5px;
 }
 .item button:hover {
-    background-color: rgb(255, 0, 0); 
+    background-color: rgb(247, 115, 115); 
     border-radius: 10px;
-    font-weight: bold;
 }
 
 
 
-
-
+/*page*/
 div.page {
     display: flex;
     background-color: transparent;
@@ -98,6 +99,10 @@ div.page {
     margin: 50px auto 0 auto;
     min-height: calc(100vh - 130px);
 }
+
+
+
+/*leftCol*/
 div.leftCol.active {
     display: block;
 }
@@ -108,20 +113,17 @@ div.leftCol {
     min-width: 155px;
     width: 193px;
     max-width: 193px;
-    margin: 1px 1px 0 5px;
+    margin: 1px 1px 0px 5px;
     display: none;
 }
 nav.menuLeft {
     position: fixed;
-    width: 155px;
+    min-width: 155px;
+    width: 155px; 
+    max-width: 193px;
     margin-top: 1px;
     font-weight: bold;
     z-index: 5;
-}
-nav.menuLeft .head {
-    background-color: #125a9b;
-    color: #f9f7f7;
-    text-transform: uppercase;  
 }
 nav.menuLeft a {
     display: block;
@@ -143,45 +145,75 @@ nav.menuLeft a.level1 {
     background-color: #f9f7f7;
     color: #000; 
 }
-#rout a.head:hover {
+#rout a.head:hover,
+#rout a.dropdown-btn:hover,
+#rout a.drop:hover,
+#rout a.hlp:hover {
     background: red;
     border-radius:7px;
-}
-#rout a.dropdown-btn:hover {
-    background: red;
-    border-radius:7px;
-}
-#rout a.drop:hover {
-    background: red;
-    border-radius: 7px;
 }
 #rout a.level1:hover {
     background-color: rgb(247, 115, 115);   
     border-radius:5px;
 }
-.drop {
+nav.menuLeft .head {
+    background-color: #125a9b;
+    color: #f9f7f7;
+    text-transform: uppercase;  
+    margin-bottom: 15px;
+}
+nav.menuLeft .hlp {
+    background-color: #125a9b;
+    color: #f9f7f7;
+    text-transform: uppercase;  
+    margin-top: 15px;
+}
+nav.menuLeft .drop {
     background-color: #daebf5;
 }
-.dropdown-btn {
+nav.menuLeft .dropdown-btn {
     background-color: #daebf5;
     cursor: pointer;
     text-decoration: none;
     display: block;
     padding: 4px 8px;
 }
+li {
+    position: relative;
+}
+li a {
+    display: block;
+    background-color: #f9f7f7;
+    color: #000;
+    padding: left;
+    text-decoration: none;
+    visibility: visible;
+}
+li ul {
+    display: none;
+    position: relative;
+    visibility: hidden;
+}
+li ul li {
+    display: block;
+}
+
+
+
+/*contentCol*/
 div.contentCol {
     min-width: 200px;
     max-width: 800px;
     min-height: 550px;
     width: 100%;
     padding-bottom: 20px;
-    padding: 5px 5px 5px 5px;
+    padding: 7px 10px;
+    margin: 13px 13px 0px 13px;
     background-color: #f9f7f7;
     order: 2;
     flex: 1 1 auto;
     overflow-x: visible;
     overflow-y: hidden;
-    margin: 15px auto 0 auto;
     border-radius: 2px;
     position: relative;
 }
@@ -206,9 +238,51 @@ div.contentCol .post .icon:hover {
     background-color: rgb(247, 115, 115); 
     border-radius: 50%; 
 }
+div.contentCol .vyrok {
+    display: block;
+    text-align: center;
+    line-height: 1.4em;
+    margin: 70px auto 0px auto;
+    border: 4px double #495867;
+    color: red;
+    font-size: 18px;
+    font-weight: bold;
+    min-width: 150px;
+    width: 500px;
+    background-color: rgb(235, 235, 160);
+}
+div.contentCol .podpis {
+    margin: 0px auto 60px auto;
+    text-align: right;
+}
+div.contentCol .autor {
+    color: red;
+    font-weight: bold;
+    font-size: 14px;
+    min-width: 150px;
+    width: 500px;
+}
+div.contentCol .podakovanie  {
+    font-size: 13px;
+    font-weight: bold;
+    text-align: center;
+}
+div.contentCol .button {
+    background-color:#daebf5 ;
+    border-radius: 5px;
+    width: 150px;
+}
+div.contentCol .button:hover {
+    background-color: rgb(247, 115, 115);   
+    border-radius: 10px;
+}
+div.contentCol .pobutton {
+    padding-left: 10px;
+}
 
 
 
+/*footer*/
 .footer {
     font-size: 12px;
     background-color: #10182d;
@@ -247,24 +321,3 @@ div.copyright2 .znaky:after {
 
 
 
-
-
-li {
-    position: relative;
-}
-li a {
-    display: block;
-    background-color: #f9f7f7;
-    color: #000;
-    padding: left;
-    text-decoration: none;
-    visibility: visible;
-}
-li ul {
-    display: none;
-    position: relative;
-    visibility: hidden;
-}
-li ul li {
-    display: block;
-}
