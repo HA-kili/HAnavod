@@ -1,0 +1,30 @@
+/*zoznam_hlp*/
+div.contentCol .sk,
+div.contentCol .cz {
+    display: block;
+    text-align: center;  
+    margin: 20px auto;
+    border: 3mm ridge #4958679c;
+    color: black;
+    font-size: 62px;
+    font-weight: bold;
+    min-width: 150px;
+    width: 400px;
+    height: 150px;
+    background-color: #daebf5;
+    list-style-type: none;
+}
+div.contentCol a:hover {
+    background-color: rgb(235, 235, 160);
+    list-style-type: none;
+    cursor: pointer;
+}
+
+/* collapsed sidebar styles */
+@media only screen and (max-width: 389px)
+{
+    div.contentCol .sk,
+    div.contentCol .cz {
+        width: 90%;
+    }
+}
