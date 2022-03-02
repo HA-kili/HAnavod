@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> HA | Návod </title>
+    <link rel="shortcuts icon" href="./images/puk.gif">
+    <link rel="stylesheet" type="text/css" href="./css/stylemobile10.css">
+    <link rel="stylesheet" type="text/css" href="./css/stylenormal10.css">
+    <link rel="stylesheet" type="text/css" href="./css/style10.css">
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"
+        integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous">
+    </script>
+
+</head>
+
+
+<body>
+    <header class="header">
+        <div class="inner">
+            <a href="index.html">
+                <img class="logo" src="https://www.hockeyarena.net/images/n/email_banner.png">
+            </a>
+            <div class="noSelect menuToggle" data-toggle="offmenu">
+                <div class="iconBar"></div>
+                <div class="iconBar"></div>
+                <div class="iconBar"></div>
+            </div>
+            <nav class="topMenu">
+                <span class="item"><a> Hockeyarena Návod </a></span>
+                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                <span class="item">
+                    <a href="https://www.hockeyarena.net/sk/index.php?p=manager_discussion_detail.php">
+                        <button> Návrat do HA </button>
+                    </a>
+                </span>
+            </nav>
+        </div>
+    </header>
+
+
+
+    <div class="page">
+        <div class="leftCol">
+            <script>
+            $(function() {
+                // alert($(this));
+
+                $('body').on('click', '.dropdown-btn', function() {
+                    var cls = $(this).data('submenu');
+                    // console.log(cls);
+
+                    if ($('ul.' + cls).css('display') == 'block') {
+                        // if the clicked submenu is already active just close it
+                        $('ul.' + cls).css({
+                            'display': 'none',
+                        });
+                    } else {
+                        // close all submenus
+                        $('ul.sub').css({
+                            'display': 'none',
+                        });
+                        // display newly clicked submenu
+                        $('ul.' + cls).css({
+                            'display': 'block',
+                        });
+                    }
+
+                });
+
+                $('[data-toggle=offmenu]').click(function() {
+                    $('.leftCol').toggleClass('active');
+                });
+
+
+            });
+            </script>
+            <nav class="menuLeft">
+                <ul id="rout">
+                    <li><a data-submenu="sub" class=" head " href="index.php?navod=home.html"> HOME </a></li>
+                    <li><a data-submenu="submreg" class=" dropdown-btn " onclick="return false;" href="index.php?navod=registracia.html">Registrácia, mužstvo, úlohy </a>
+                        <ul class="sub submreg">
+                            <li><a class="level1" href="index.php?navod=registracia.html">Registrácia </a></li>
+                            <li><a class="level1" href="index.php?navod=pridelenie_muzstva.html">Pridelenie mužstva </a></li>
+                            <li><a class="level1" href="index.php?navod=ulohy.html">Úlohy </a></li>
+                        </ul>
+                    </li>
+                    <li><a data-submenu="sub" class=" drop " href="index.php?navod=system_hry.html">Systém hry </a></li>
+                    <li><a data-submenu="submsys" class=" dropdown-btn " onclick="return false;" href="index.php?navod=system_ligy">Systém ligy, turnajov, repre </a>
+                        <ul class="sub submsys">
+                            <li><a class="level1" href="index.php?navod=system_ligy">Systém ligy </a></li>
+                            <li><a class="level1" href="index.php?navod=system_turnajov">Systém turnajov</a></li>
+                            <li><a class="level1" href="index.php?navod=system_repre">Systém repre</a></li>
+                        </ul>
+                    </li>
+                    <li><a data-submenu="subminf" class=" dropdown-btn " onclick="return false;" href="index.php?navod=novinky_muzstve">Informácie o mužstve</a>
+                        <ul class="sub subminf">
+                            <li><a class="level1" href="index.php?navod=novinky_muzstve">Novinky v mužstve</a></li>
+                            <li><a class="level1" href="index.php?navod=informacie_muzstve">Detailné informácie o mužstve</a></li>
+                            <li><a class="level1" href="index.php?navod=pocet_hracov_muzstve">Počet hráčov v mužstve</a></li>
+                            <li><a class="level1" href="index.php?navod=fanklub">Počet členov fanklubu</a></li>
+                            <li><a class="level1" href="index.php?navod=nalada_muzstve">Nálada v mužstve</a></li>
+                            <li><a class="level1" href="index.php?navod=dovera_majitelov">Dôvera majiteľov</a></li>
+                            <li><a class="level1" href="index.php?navod=zastup">Zástup</a></li>
+                            <li><a class="level1" href="index.php?navod=kalendar">Kalendár</a></li>
+                            <li><a class="level1" href="index.php?navod=priatelsky_zapas">Priateľský zápas</a></li>
+                            <li><a class="level1" href="index.php?navod=priatelsky_zapas_vyzva">Odoslanie výzvy na priateľský zápas</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li><a data-submenu="submplayer" class=" dropdown-btn " onclick="return false;" href="index.php?navod=zakladne_atributy">Hráči</a>
+                        <ul class="sub  submplayer">
+                            <li><a class="level1" href="index.php?navod=zakladne_atributy">Základné atribúty</a></li>
+                            <li><a class="level1" href="index.php?navod=dalsie_atributy">Ďalšie atribúty hráča</a></li>
+                            <li><a class="level1" href="index.php?navod=hviezdy">Hviezdy</a></li>
+                            <li><a class="level1" href="index.php?navod=hviezda_tyzdna">Hviezda týždňa</a></li>
+                            <li><a class="level1" href="index.php?navod=klucovy_hrac">Kľúčový hráč </a></li>
+                            <li><a class="level1" href="index.php?navod=specialne_dresy">Špeciálne dresy hráčov</a></li>
+                            <li><a class="level1" href="index.php?navod=darovanie_dresu">Darovanie dresu</a></li>
+                            <li><a class="level1" href="index.php?navod=zranenia_choroby">Zranenia a choroby</a></li>
+                            <li><a class="level1" href="index.php?navod=zivotnost_hraca">Životnosť hráčov </a></li>
+                        </ul>
+                    </li>
+                    <li><a data-submenu="submfor" class=" dropdown-btn " onclick="return false;" href="index.php?navod=nastavenie_zostavy">Formácie a taktiky</a>
+                        <ul class="sub  submfor">
+                            <li><a class="level1" href="index.php?navod=nastavenie_zostavy">Nastavenie zostavy (formácií) a náhradníkov</a></li>
+                            <li><a class="level1" href="index.php?navod=specialne_formacie">Špeciálne formácie (PP / PK )</a></li>
+                            <li><a class="level1" href="index.php?navod=najazdy">Nájazdy </a></li>
+                            <li><a class="level1" href="index.php?navod=takticke_specializacie">Taktické špecializácie formácií </a></li>
+                            <li><a class="level1" href="index.php?navod=takticke_moznosti">Taktické možnosti formácií </a></li>
+                            <li><a class="level1" href="index.php?navod=zohranost_formacie">Zohranosť formácie</a></li>
+                        </ul>
+                    </li>
+                    <li><a data-submenu="submmatch" class=" dropdown-btn " onclick="return false;" href="index.php?navod=cena_vstupenky">Nastavenie zápasu</a>
+                        <ul class="sub  submmatch">
+                            <li><a class="level1" href="index.php?navod=cena_vstupenky">Cena vstupenky </a></li>
+                            <li><a class="level1" href="index.php?navod=dolezitost_zapasu">Dôležitosť zápasu </a></li>
+                            <li><a class="level1" href="index.php?navod=motivacna_odmena">Motivačná odmena</a></li>
+                            <li><a class="level1" href="index.php?navod=mierenie_strelby">Mierenie streľby</a></li>
+                            <li><a class="level1" href="index.php?navod=rozdelenie_casu">Rozdelenie času na ľade </a></li>
+                            <li><a class="level1" href="index.php?navod=pokrocile_taktiky">Pokročilé zápasové taktiky </a></li>
+                            <li><a class="level1" href="index.php?navod=hra_telom">Hra telom </a></li>
+                            <li><a class="level1" href="index.php?navod=vypustanie_zapasov">Vypúšťanie zápasov </a></li>
+                        </ul>
+                    </li>
+                    <li><a data-submenu="submtrain" class=" dropdown-btn " onclick="return false;" href="index.php?navod=trening">Tréning, režimy, prospecty</a>
+                        <ul class="sub  submtrain">
+                            <li><a class="level1" href="index.php?navod=trening">Tréning </a></li>
+                            <li><a class="level1" href="index.php?navod=rezimy">Režimy </a></li>
+                            <li><a class="level1" href="index.php?navod=klesanie_atributov_%">Klesanie atribútov v % </a></li>
+                            <li><a class="level1" href="index.php?navod=prospecty">Prospecty </a></li>
+                        </ul>
+                    </li>
+                    <li><a data-submenu="submmarket" class=" dropdown-btn " onclick="return false;" href="index.php?navod=volni_hraci">Trh</a>
+                        <ul class="sub  submmarket">
+                            <li><a class="level1" href="index.php?navod=volni_hraci">Voľní chránení hráči</a></li>
+                            <li><a class="level1" href="index.php?navod=hraci_na_predaj">Hráči na predaj</a></li>
+                            <li><a class="level1" href="index.php?navod=nechraneni_hraci">Nechránení hráči</a></li>
+                            <li><a class="level1" href="index.php?navod=vyhladavanie">Vyhľadávanie</a></li>
+                            <li><a class="level1" href="index.php?navod=posledne_ponuky">Zoznam posledných ponúk</a></li>
+                            <li><a class="level1" href="index.php?navod=porovnanie_hracov">Porovnanie hráčov</a></li>
+                        </ul>
+                    </li>
+                    <li><a data-submenu="submstad" class=" dropdown-btn " onclick="return false;" href="index.php?navod=stadion">Štadión a zázemie</a>
+                        <ul class="sub  submstad">
+                            <li><a class="level1" href="index.php?navod=stadion">Štadión </a></li>
+                            <li><a class="level1" href="index.php?navod=zazemie">Zázemie </a></li>
+                            <li><a class="level1" href="index.php?navod=juniori">Juniorská prípravka – juniori </a></li>
+                            <li><a class="level1" href="index.php?navod=draft">Draft </a></li>
+                            <li><a class="level1" href="index.php?navod=informacie_op">Informácie z odd. prieskumu </a></li>
+                        </ul>
+                    </li>
+                    <li><a data-submenu="submfinance" class=" dropdown-btn " onclick="return false;" href="index.php?navod=financie"> Financie</a>
+                        <ul class="sub  submfinance">
+                            <li><a class="level1" href="index.php?navod=financie">Základné informácie </a></li>
+                            <li><a class="level1" href="index.php?navod=hotovost">Hotovosť v hornej lište</a></li>
+                            <li><a class="level1" href="index.php?navod=sponzor">Sponzor / reklamný partneri v lige </a></li>
+                            <li><a class="level1" href="index.php?navod=odmeny">Odmeny </a></li>
+                            <li><a class="level1" href="index.php?navod=kseftovanie">Kšeftovanie</a></li>
+                        </ul>
+                    </li>
+                    <li><a data-submenu="submB" class=" dropdown-btn " onclick="return false;" href="index.php?navod=b_muzstvo"> B / U23 / repre </a>
+                        <ul class="sub  submB">
+                            <li><a class="level1" href="index.php?navod=b_muzstvo">B mužstvo </a></li>
+                            <li><a class="level1" href="index.php?navod=u23_muzstvo">U23 mužstvo </a></li>
+                            <li><a class="level1" href="index.php?navod=reprezentacia">Reprezentácia </a></li>
+                        </ul>
+                    </li>
+                    <li><a data-submenu="submother" class=" dropdown-btn " onclick="return false;" href="index.php?navod=narocnost_ligy">Rôzne</a>
+                        <ul class="sub  submother">
+                            <li><a class="level1" href="index.php?navod=narocnost_ligy">Náročnosť ligy</a></li>
+                            <li><a class="level1" href="index.php?navod=nastavenie_zapasu">Nastavenie názvu </a></li>
+                            <li><a class="level1" href="index.php?navod=stavkova_kancelaria">Stávková kancelária </a></li>
+                            <li><a class="level1" href="index.php?navod=posta">Pošta </a></li>
+                            <li><a class="level1" href="index.php?navod=skratky">Skratky</a></li>
+                        </ul>
+                    </li>
+                    <li><a data-submenu="sub" class=" drop " href="index.php?navod=sponzorsky_balik">Sponzorský balík</a></li>
+                    <li><a data-submenu="sub" class=" hlp " href="index.php?navod=zoznam_hlp">Zoznam _ HLP</a></li>
+
+                </ul>
+            </nav>
+
+        </div>
+
+
+        <div class="contentCol">
+            <div class="advTop"></div>
+            <?php
+                include('menu/' . $_GET['navod'] . '.html');
+            ?>
+            <a class="post" title="Napíš kili | HLP" href="https://www.hockeyarena.net/sk/index.php?p=manager_mail_new_mail_form.php&whom=kili">
+                <img class="icon" src="./images/obalka.png" alt="">
+            </a>
+            </div>
+        </div>
+    </div>
+    
+
+
+    <footer class="footer">
+        <div class="copyright">
+            <div class="copyright2">
+                <a>© 2021 - 2022 HOCKEY ARENA NAVOD
+                    <br> created by &nbsp; &nbsp;
+                        <a class="znaky"> kili | HLP </a>
+                    <br> version 2.01
+                </a>
+            </div>
+        </div>
+
+    </footer>
+    
+
+</body>
+</html>
