@@ -17,6 +17,12 @@ h5 {
 h6 {
     font-size: 24px;
 }
+#modre {
+    color: blue;
+}
+#cervene {
+    columns: red;
+}
 
 
 
