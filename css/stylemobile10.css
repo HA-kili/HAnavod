@@ -93,8 +93,8 @@ header.header nav.topMenu {
     min-height: 22px;
     color: #f9f7f7;  
   }
-  .topMenu {
-      text-align: center;
+.topMenu {
+    text-align: center;
   }
 
 
@@ -174,12 +174,23 @@ nav.menuLeft a.level1 {
 #rout a.dropdown-btn:hover,
 #rout a.drop:hover,
 #rout a.hlp:hover {
-    background: red;
+    background: rgb(255, 84, 84);
     border-radius:7px;
+    border-left: 5px solid yellow;
 }
 #rout a.level1:hover {
     background-color: rgb(247, 115, 115);   
     border-radius:5px;
+    border-right: 5px solid yellow;
+}
+#rout a.head:focus,
+#rout a.dropdown-btn:focus,
+#rout a.drop:focus,
+#rout a.hlp:focus {
+    background: rgb(72, 235, 72);
+    border-radius:7px;
+    border-left: 5px solid yellow;
+    border-right: 5px solid yellow;
 }
 nav.menuLeft .head {
     background-color: #125a9b;
@@ -203,6 +214,7 @@ nav.menuLeft .dropdown-btn {
     display: block;
     padding: 4px 8px;
 }
+
 
 
 li a {
