@@ -17,7 +17,6 @@
         line-height: 1.6em;
         margin: 30px 10px 0px 10px;
         font-size: 16px;
-        width: 210px;
     }
     div.contentCol .podpis {
         padding-right: 0px;
@@ -43,7 +42,6 @@
     div.contentCol .podpis {
         margin: 0px auto 40px auto;
         padding-right: 60px;
-      
     }
       
 }   
@@ -77,7 +75,6 @@
     /*leftCol*/
     div.leftCol {
         display: block;
-        position: fixed;
     }
 
     nav.menuLeft a.level1 {
@@ -94,7 +91,7 @@
     /*contenCol*/
     div.contentCol {
         padding: 5px 15px 77px 15px;
-        margin: 16px 13px 0px 212px;
+        margin: 14px 13px 7px 13px;
         width: 580px;
         min-width: 580px;
     }
@@ -120,6 +117,4 @@
         overflow: hidden !important;
         padding: 0 33px 0 233px;
     }
-
-
 }

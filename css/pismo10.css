@@ -20,8 +20,11 @@ h6 {
 #modre {
     color: blue;
 }
-#cervene {
+#cervene,
+.cervene,
+.red {
     color: red;
+    font-weight: bold;
 }
 
 
@@ -34,10 +37,11 @@ h6 {
     text-align: center;
     color: #fff;
 }
+/**
 a {
-    background-color: #fff;
     color: #000;
 }
+**/
 .icons {
     height: 14px;
 }
@@ -45,5 +49,9 @@ a {
     height: 80px;
 }
 .addons {
+    width: 100%;
+}
+.images,
+.trofeje2 {
     width: 100%;
 }

@@ -9,6 +9,7 @@ body {
         font-size: 12px;
 }
 
+
 /*header*/
 header.header {
     position:fixed;
@@ -16,7 +17,7 @@ header.header {
     display: block;
     background-color:  #112d4e; 
         background: #112d4e url('../images/logorot.png?v=7') no-repeat left -30px;
-        background-color: rgb(17, 45, 78);
+        background-color: #112d4e;
         background-position-x: left;
         background-position-y: -30px;
         background-repeat: no-repeat;
@@ -92,11 +93,10 @@ header.header nav.topMenu {
     line-height: 44px;
     min-height: 22px;
     color: #f9f7f7;  
-  }
+}
 .topMenu {
     text-align: center;
-  }
-
+}
 
 
 /*page*/
@@ -107,9 +107,8 @@ div.page {
     width: 100%;
     padding: 0;
     margin: 50px auto 0 auto;
-    min-height: calc(100vh - 130px);
+    min-height: calc(100vh - 90px);
 }
-
 
 
 /*leftCol*/
@@ -127,7 +126,7 @@ div.leftCol {
     display: none;
 }
 nav.menuLeft {
-    position: fixed; 
+    position: relative; 
     min-width: 155px;
     width: 155px; 
     max-width: 193px;
@@ -170,18 +169,24 @@ nav.menuLeft a.level1 {
 #rout li ul li {
     display: block;
 }
+#rout li ul li .level1 {
+    display: block;
+    background-color: #fff;
+    color: #000;
+    padding: left;
+    text-decoration: none;
+    visibility: visible;
+}
 #rout a.head:hover,
 #rout a.dropdown-btn:hover,
 #rout a.drop:hover,
 #rout a.hlp:hover {
     background: rgb(255, 84, 84);
     border-radius:7px;
-    border-left: 5px solid yellow;
 }
 #rout a.level1:hover {
-    background-color: rgb(247, 115, 115);   
+    background-color: rgb(250, 144, 144);   
     border-radius:5px;
-    border-right: 5px solid yellow;
 }
 #rout a.head:focus,
 #rout a.dropdown-btn:focus,
@@ -189,8 +194,6 @@ nav.menuLeft a.level1 {
 #rout a.hlp:focus {
     background: rgb(72, 235, 72);
     border-radius:7px;
-    border-left: 5px solid yellow;
-    border-right: 5px solid yellow;
 }
 nav.menuLeft .head {
     background-color: #125a9b;
@@ -216,18 +219,6 @@ nav.menuLeft .dropdown-btn {
 }
 
 
-
-li a {
-    display: block;
-    background-color: #fff;
-    color: #000;
-    padding: left;
-    text-decoration: none;
-    visibility: visible;
-}
-
-
-
 /*contentCol*/
 div.contentCol {
     min-width: 200px;
@@ -236,7 +227,7 @@ div.contentCol {
     width: 100%;
     padding-bottom: 20px;
     padding: 4px 15px 77px 15px;
-    margin: 14px 13px 0px 13px;
+    margin: 14px 13px 7px 13px;
     background-color: #f9f7f7;
     order: 2;
     flex: 1 1 auto;
@@ -276,8 +267,6 @@ div.contentCol .vyrok {
     color: red;
     font-size: 18px;
     font-weight: bold;
-    min-width: 150px;
-    width: 500px;
     background-color: rgb(235, 235, 160);
 }
 div.contentCol .podpis {
@@ -289,29 +278,24 @@ div.contentCol .autor {
     font-weight: bold;
     font-size: 14px;
     min-width: 150px;
-    width: 500px;
+    width: 100%;
     text-decoration: none;
 }
 div.contentCol .podakovanie  {
     font-size: 13px;
-    font-weight: bold;
+    font-weight: normal;
     text-align: center;
 }
-div.contentCol .button {
+div.contentCol .nick {
     background-color:#daebf5 ;
     border-radius: 5px;
     width: 150px;
 }
-div.contentCol .button:hover {
+div.contentCol .nick:hover {
     background-color: rgb(235, 235, 160);   
     border-radius: 10px;
     border: 2px solid #495867;
 }
-div.contentCol .pobutton {
-    padding-left: 10px;
-}
-
-
 
 
 /*footer*/
@@ -322,20 +306,16 @@ div.contentCol .pobutton {
     color: #dfe1df;
     text-align: center;
     margin: 0px;
-  }
+}
 footer.footer {
-    background-color: #300000;
-    background-color: inherit;
+    background-color: #112d4e;
     clear: both;
     position: relative;
-    height: 130px;
-  }
+    height: 100px;
+}
 .footer a {
     color: #dfe1df;
-  }
-div.copyright {
-    overflow: hidden !important;
-  }
+}
 div.copyright2 { 
     margin: 7px auto 10px auto;
     border: 0;
@@ -343,13 +323,19 @@ div.copyright2 {
     max-width: 800px;
     text-align: center;
     font-size: 11px;
-  }
+}
+div.copyright2 .znaky {
+    text-decoration: none;
+}
+div.copyright2 .znaky:hover {
+    color: red;
+}
 div.copyright2 .znaky:before {
     content: " ▶ ";
-  }
+}
 div.copyright2 .znaky:after {
     content: " ◀ ";
-  }
+}
 
 
 
