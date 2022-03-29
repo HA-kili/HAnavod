@@ -40,6 +40,9 @@
             </nav>
         </div>
     </header>
+
+
+
     <div class="page">
         <div class="leftCol">
             <script>
@@ -67,8 +70,7 @@
                     }
 
                 });
-                
-                //menuToggle header
+                     //menuToggle header
                 $('[data-toggle=offmenu]').click(function() {
                     $('.leftCol').toggleClass('active');
                 });
@@ -80,12 +82,12 @@
                 include 'nav.php';
             ?>
         </div>
-        
+
 
         <div class="contentCol">
             <div class="advTop"></div>
             <?php
-                include('menu/' . $_GET['navod'] . '.php');
+                include('menu/' . $_GET['navod'] . '.html');
             ?>
             <a class="post" title="Napíš kili | HLP" href="https://www.hockeyarena.net/sk/index.php?p=manager_mail_new_mail_form.php&whom=kili">
                 <img class="icon" src="./images/obalka.png" alt="">
