@@ -115,6 +115,7 @@ div.page {
 div.leftCol.active {
     display: block;
 }
+
 div.leftCol {
     background-color: #67ABD6;
     color: #929a9e;
@@ -149,6 +150,9 @@ nav.menuLeft a.level1 {
     font-weight: normal;
     background-color: #f9f7f7;
     color: #000; 
+}
+nav.menuLeft a.level1.active {
+    display: block;
 }
 #rout {
     list-style-type: none;
