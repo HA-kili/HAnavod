@@ -47,7 +47,7 @@
                 <br><br>
                 <b> Poznámky </b> 
                 <br> 
-                Ku každému hráčovi si môžeš zapísať krátky text <span class="red">(maximálne 500 znakov)</span> . Poznámku je možné zapísať alebo zmeniť cez odkaz 'Poznámka' v detailom okne hráča. Jeden manažér môže mať naraz <span class="red"> najviac 100 poznámok. </span>
+                Ku každému hráčovi si môžeš zapísať krátky text <span class="red">(maximálne 500 znakov)</span> . Poznámku je možné zapísať alebo zmeniť cez odkaz 'Poznámka' v detailnom okne hráča. Jeden manažér môže mať naraz <span class="red"> najviac 100 poznámok. </span>
                 <br><br>
                 <b> Služba e-mailových notifikácií </b> 
                 <br> 
