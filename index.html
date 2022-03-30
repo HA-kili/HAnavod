@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -15,6 +16,8 @@
     </script>
 
 </head>
+
+
 <body>
     <header class="header">
         <div class="inner">
@@ -76,14 +79,16 @@
             });
             </script>
             <?php
-                include('menu.php');
+                include 'menu.php';
             ?>
+
         </div>
+
 
         <div class="contentCol">
             <div class="advTop"></div>
             <?php
-                include('menu/' . $_GET['navod'] . '.php');
+                include('menu/' . $_GET['navod'] . '.html');
             ?>
             <a class="post" title="Napíš kili | HLP" href="https://www.hockeyarena.net/sk/index.php?p=manager_mail_new_mail_form.php&whom=kili">
                 <img class="icon" src="./images/obalka.png" alt="">
@@ -108,6 +113,3 @@
 
 </body>
 </html>
-
-            
-      
