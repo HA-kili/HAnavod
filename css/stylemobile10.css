@@ -84,7 +84,8 @@ header.header nav.topMenu {
     padding: 2px 5px;
 }
 .item button:hover {
-    background-color: rgb(247, 115, 115); 
+    background-color: #6c8aa5;
+    color: white;
     border-radius: 10px;
 }
 .topMenu a {
@@ -115,7 +116,6 @@ div.page {
 div.leftCol.active {
     display: block;
 }
-
 div.leftCol {
     background-color: #67ABD6;
     color: #929a9e;
@@ -185,19 +185,19 @@ nav.menuLeft a.level1.active {
 #rout a.dropdown-btn:hover,
 #rout a.drop:hover,
 #rout a.hlp:hover {
-    background: rgb(255, 84, 84);
-    border-radius:7px;
+    background-color: #44586a;
+    color: #86b3d0;
 }
 #rout a.level1:hover {
-    background-color: rgb(250, 144, 144);   
-    border-radius:5px;
+    background-color: #6c8aa5;
+    color: white;
 }
 #rout a.head:focus,
 #rout a.dropdown-btn:focus,
 #rout a.drop:focus,
 #rout a.hlp:focus {
-    background: rgb(72, 235, 72);
-    border-radius:7px;
+    background-color: #44586a;
+    color: #86b3d0;
 }
 nav.menuLeft .head {
     background-color: #125a9b;
@@ -259,7 +259,8 @@ div.contentCol .post .icon {
     padding: 18px;    
 }
 div.contentCol .post .icon:hover {
-    background-color: rgb(247, 115, 115); 
+    background-color: #6c8aa5;
+    color: white;    
     border-radius: 50%; 
 }
 div.contentCol .vyrok {

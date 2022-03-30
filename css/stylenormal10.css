@@ -86,6 +86,10 @@
         z-index: auto;
         width: auto;
     }
+    
+    .active {
+        display: block!important;
+    }
 
 
     /*contenCol*/
@@ -118,6 +122,3 @@
     }
 }
 
-.active {
-    display: block!important;
-}
