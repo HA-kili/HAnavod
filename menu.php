@@ -44,10 +44,10 @@
                         </ul>
                     </li>
                     <li><a data-submenu="submplayer" class=" dropdown-btn " onclick="return false;" href="index.php?navod=zakladne_atributy">Hráči</a>
-                        <ul class="sub  submplayer <?php active(explode(",", "zakladne_atributy,dalsie_atributy,hviezdy,hviezda_tyzdna,klucovy_hrac,specialne_dresy,darovanie_dresu,zranenia_choroby,zivotnost_hraca"))?>">
+                        <ul class="sub  submplayer <?php active(explode(",", "zakladne_atributy,dalsie_atributy,statistiky_hviezdy,hviezda_tyzdna,klucovy_hrac,specialne_dresy,darovanie_dresu,zranenia_choroby,zivotnost_hraca"))?>">
                             <li><a class="level1" href="index.php?navod=zakladne_atributy">Základné atribúty</a></li>
                             <li><a class="level1" href="index.php?navod=dalsie_atributy">Ďalšie atribúty hráča</a></li>
-                            <li><a class="level1" href="index.php?navod=hviezdy">Hviezdy</a></li>
+                            <li><a class="level1" href="index.php?navod=statistiky_hviezdy">Štatistiky / Hviezdy</a></li>
                             <li><a class="level1" href="index.php?navod=hviezda_tyzdna">Hviezda týždňa</a></li>
                             <li><a class="level1" href="index.php?navod=klucovy_hrac">Kľúčový hráč </a></li>
                             <li><a class="level1" href="index.php?navod=specialne_dresy">Špeciálne dresy hráčov</a></li>
