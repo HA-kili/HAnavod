@@ -1,5 +1,5 @@
 
-                <div class="section-name">Doplnok_(addons)</div>
+                <div class="section-name">Doplnky pre HA_(addons)</div>
                     <br>
                     <br>
                     Manažér <a href="https://www.hockeyarena.net/sk/index.php?p=manager_manager_info.php&id=227387"> airen </a> pre Vás vytvoril doplnok - addons - 

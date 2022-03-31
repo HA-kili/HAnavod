@@ -1,5 +1,5 @@
 
-                <div class="section-name"> Systém repre </div>
+                <div class="section-name"> Systém reprezentácie </div>
                     <br>
                     <b><h4> Majstrovstvá sveta </h4></b>
                     Mužstvá sú do základných skupín (A, B, C, D) nasadzované po štyroch. Hrá sa systémom každý s každým. Prvé tri tímy postupujú ďalej do skupín (E, F), 
