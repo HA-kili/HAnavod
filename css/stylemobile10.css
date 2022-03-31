@@ -28,6 +28,7 @@ header.header {
         background-clip: border-box;
     background-size: 150px;
     width: 100%;
+    height: 55px;
     border-bottom: #125a9a 3px solid;
     z-index: 10; 
     font-size: 0,85em;
@@ -316,7 +317,7 @@ footer.footer {
     background-color: #112d4e;
     clear: both;
     position: relative;
-    height: 100px;
+    height: 80px;
 }
 .footer a {
     color: #dfe1df;
