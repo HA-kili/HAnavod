@@ -1,0 +1,347 @@
+/*body*/
+body {
+    background-color: #67ABD6;
+    margin: 0;
+    padding: 0;
+    color: #111;
+    min-height: 101vh;
+    font: 12px/1.6em "Asap", sans-serif;
+        font-size: 12px;
+}
+
+
+/*header*/
+header.header {
+    position:fixed;
+    top: 0;
+    display: block;
+    background-color:  #112d4e; 
+        background: #112d4e url('../images/logorot.png?v=7') no-repeat left -30px;
+        background-color: #112d4e;
+        background-position-x: left;
+        background-position-y: -30px;
+        background-repeat: no-repeat;
+        background-attachment: scroll;
+        background-image: url("../images/logorot.png?v=7");
+        background-size: auto;
+        background-origin: padding-box;
+        background-clip: border-box;
+    background-size: 150px;
+    width: 100%;
+    height: 55px;
+    border-bottom: #125a9a 3px solid;
+    z-index: 10; 
+    font-size: 0,85em;
+}
+header.header .inner {
+    position: relative;
+    display: block;
+    max-width: 980px;
+    height: 43px;
+    margin: 5px auto 5px auto;
+    white-space: nowrap;
+}
+header.header .a {
+    color: #1154b1;
+}
+header.header .logo {
+    display: none;
+    position: absolute;
+    width: 120px;
+    top: -15px;
+    left: 3px;
+    z-index: 5;
+}
+div.menuToggle {
+    width: 36px;
+    height: 34px;
+    background: transparent;
+        background-color: transparent;
+        background-position-x: 0%;
+        background-position-y: 0%;
+        background-repeat: repeat;
+        background-attachment: scroll;
+        background-image: none;
+        background-size: auto;
+        background-origin: padding-box;
+        background-clip: border-box;
+    cursor: pointer;
+    display: block;
+    margin: 4px 0 0 3px;
+    position: absolute;
+}
+div.iconBar {
+    width: 30px;
+    height: 3px;
+    background-color: white;
+    margin: 6px 2px;
+}
+header.header nav.topMenu {
+    margin: 0 10px 0 44px;
+}
+.item button {
+    background-color: #daebf5; 
+    border-radius: 5px;
+    padding: 2px 5px;
+}
+.item button:hover {
+    background-color: #6c8aa5;
+    color: white;
+    border-radius: 10px;
+}
+.topMenu a {
+    font-weight: bold;
+    white-space: nowrap;
+    line-height: 44px;
+    min-height: 22px;
+    color: #f9f7f7;  
+}
+.topMenu {
+    text-align: center;
+}
+
+
+/*page*/
+div.page {
+    display: flex;
+    background-color: transparent;
+    max-width: 1020px;
+    width: 100%;
+    padding: 0;
+    margin: 50px auto 0 auto;
+    min-height: calc(100vh - 90px);
+}
+
+
+/*leftCol*/
+div.leftCol.active {
+    display: block;
+}
+div.leftCol {
+    background-color: #67ABD6;
+    color: #929a9e;
+    order: 1;
+    min-width: 155px;
+    width: 193px;
+    max-width: 193px;
+    margin: 1px 1px 0px 5px;
+    display: none;
+}
+nav.menuLeft {
+    position: relative; 
+    min-width: 155px;
+    width: 155px; 
+    max-width: 193px;
+    margin-top: 1px;
+    font-weight: bold;
+    z-index: 5;
+}
+nav.menuLeft a {
+    display: block;
+    border-top: 1px dotted #495867;
+    padding: 4px 8px;
+    text-decoration: none;
+    color: #dfe1df;
+    color: #000;
+    cursor: pointer;
+}
+nav.menuLeft a.level1 {
+    padding: 2px 15px 2px 10px;
+    font-size: 0.95em;
+    font-weight: normal;
+    background-color: #f9f7f7;
+    color: #000; 
+}
+nav.menuLeft a.level1.active {
+    display: block;
+}
+#rout {
+    list-style-type: none;
+    padding: 0; 
+}
+#rout ul {
+    list-style-type: none;
+    padding-left: 5px; 
+}
+#rout li {
+    position: relative;
+}
+#rout li ul {
+    display: none; 
+    position: relative;
+    visibility: hidden;
+}
+#rout li ul li {
+    display: block;
+}
+#rout li ul li .level1 {
+    display: block;
+    background-color: #fff;
+    color: #000;
+    padding: left;
+    text-decoration: none;
+    visibility: visible;
+}
+#rout a.head:hover,
+#rout a.dropdown-btn:hover,
+#rout a.drop:hover,
+#rout a.hlp:hover {
+    background-color: #44586a;
+    color: #86b3d0;
+}
+#rout a.level1:hover {
+    background-color: #6c8aa5;
+    color: white;
+}
+#rout a.head:focus,
+#rout a.dropdown-btn:focus,
+#rout a.drop:focus,
+#rout a.hlp:focus {
+    background-color: #44586a;
+    color: #86b3d0;
+}
+nav.menuLeft .head {
+    background-color: #125a9b;
+    color: #f9f7f7;
+    text-transform: uppercase;  
+    margin-bottom: 8px;
+}
+nav.menuLeft .hlp {
+    background-color: #125a9b;
+    color: #f9f7f7;
+    text-transform: uppercase;  
+    margin-top: 8px;
+}
+nav.menuLeft .drop {
+    background-color: #daebf5;
+}
+nav.menuLeft .dropdown-btn {
+    background-color: #daebf5;
+    cursor: pointer;
+    text-decoration: none;
+    display: block;
+    padding: 4px 8px;
+}
+
+
+/*contentCol*/
+div.contentCol {
+    min-width: 200px;
+    max-width: 800px;
+    min-height: 550px;
+    width: 100%;
+    padding-bottom: 20px;
+    padding: 4px 15px 77px 15px;
+    margin: 14px 13px 7px 13px;
+    background-color: #f9f7f7;
+    order: 2;
+    flex: 1 1 auto;
+    overflow-x: visible;
+    overflow-y: hidden;
+    border-radius: 2px;
+    position: relative;
+    text-align: justify;
+}
+div.contentCol .post {
+    background-color: #67ABD6;
+    display: block;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    letter-spacing: 0;
+    text-align: center;
+    text-decoration: none;
+}
+div.contentCol .post .icon {
+    display: block;
+    padding: 18px;    
+}
+div.contentCol .post .icon:hover {
+    background-color: #6c8aa5;
+    color: white;    
+    border-radius: 50%; 
+}
+div.contentCol .vyrok {
+    display: block;
+    text-align: center;
+    line-height: 1.4em;
+    margin: 70px auto 0px auto;
+    border: 4px double #495867;
+    color: red;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: rgb(235, 235, 160);
+}
+div.contentCol .podpis {
+    margin: 0px auto 60px auto;
+    text-align: right;
+}
+div.contentCol .autor {
+    color: red;
+    font-weight: bold;
+    font-size: 14px;
+    min-width: 150px;
+    width: 100%;
+    text-decoration: none;
+}
+div.contentCol .podakovanie  {
+    font-size: 13px;
+    font-weight: normal;
+    text-align: center;
+}
+div.contentCol .nick {
+    background-color:#daebf5 ;
+    border-radius: 5px;
+    width: 150px;
+}
+div.contentCol .nick:hover {
+    background-color: rgb(235, 235, 160);   
+    border-radius: 10px;
+    border: 2px solid #495867;
+}
+
+
+/*footer*/
+.footer {
+    font-size: 12px;
+    background-color: #10182d;
+    border-top: 1px solid #495867;
+    color: #dfe1df;
+    text-align: center;
+    margin: 0px;
+}
+footer.footer {
+    background-color: #112d4e;
+    clear: both;
+    position: relative;
+    height: 80px;
+}
+.footer a {
+    color: #dfe1df;
+}
+div.copyright2 { 
+    margin: 7px auto 10px auto;
+    border: 0;
+    width: 100%;
+    max-width: 800px;
+    text-align: center;
+    font-size: 11px;
+}
+div.copyright2 .znaky {
+    text-decoration: none;
+}
+div.copyright2 .znaky:hover {
+    color: red;
+}
+div.copyright2 .znaky:before {
+    content: " ▶ ";
+}
+div.copyright2 .znaky:after {
+    content: " ◀ ";
+}
+
+
+

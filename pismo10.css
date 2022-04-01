@@ -1,0 +1,57 @@
+/*vlozene do podstranok ako php*/
+h1 {
+    font-size: 14px;
+}
+h2 {
+    font-size: 16px;
+}
+h3 {
+    font-size: 18px;
+}
+h4 {
+    font-size: 20px;
+}
+h5 {
+    font-size: 22px;
+}
+h6 {
+    font-size: 24px;
+}
+#modre {
+    color: blue;
+}
+#cervene,
+.cervene,
+.red {
+    color: red;
+    font-weight: bold;
+}
+
+
+
+.section-name {
+    height: 20px;
+    width: 100%;
+    background-color: #125a9b;
+    margin: 0 auto;
+    text-align: center;
+    color: #fff;
+}
+/**
+a {
+    color: #000;
+}
+**/
+.icons {
+    height: 14px;
+}
+.trofeje {
+    height: 80px;
+}
+.addons {
+    width: 100%;
+}
+.images,
+.trofeje2 {
+    width: 100%;
+}
