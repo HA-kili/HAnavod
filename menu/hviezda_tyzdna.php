@@ -1,6 +1,6 @@
 
                 <div class="section-name"> Hviezda týždňa </div>
-                    <br><br>
+                    <br>
                     Umožní hráčom získavať hviezdny štatút a dúfame že trošku spestrí súťaživosť v rámci ligy. 
                     Za každý týždeň sa v lige vyhodnotia tri hviezdy týždňa - <u> brankár, obranca a útočník </u> - na 
                     základe výkonov v ligových zápasoch za uplynulý týždeň. 
@@ -17,7 +17,4 @@
                     <br><br>
                     Pri vyhodnocovaní hviezd týždňa sa berie do úvahy počet zápasov, ich výsledok (výhry/prehry) a v neposlednom rade 
                     štatistiky hráčov v danom týždni. 
-
-                <style>
-                    <?php include ('./css/pismo10.css');?>
-                </style>
+                    <br><br>

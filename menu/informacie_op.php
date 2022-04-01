@@ -1,6 +1,6 @@
 
                 <div class="section-name"> Informácie z oddelenie prieskumu </div>
-                    <br><br>
+                    <br>
                     <h1> Motivácia na dnešný zápas </h1> 
                     <ul>
                         <li> odhad motivácie mužstva na dnešný zápas. Motivácia je ovplyvnená týmito faktormi : motivačná odmena, roztlieskávačky, domáce prostredie, nálada v mužstve, dôležitosť zápasu. </li>
@@ -29,7 +29,3 @@
                     <br><br>
                     Všetky tieto informácie nájdete na stránke v Menu <a href="https://www.hockeyarena.net/sk/index.php?p=manager_scouting_form.php"> Mužstvo - Oddelenie prieskumu </a> . 
                     <br><br>
-
-                <style>
-                    <?php include ('./css/pismo10.css');?>
-                </style>

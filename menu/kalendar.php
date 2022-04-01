@@ -1,6 +1,6 @@
 
                 <div class="section-name"> Kalendár </div>
-                    <br><br> 
+                    <br>
                     Kalendár sa nachádza v menu <a class="article-anchor" href="https://www.hockeyarena.net/sk/index.php?p=manager_calendar.php">Mužstvo - Kalendár</a>. 
                     <br> <br>
                     Kalendár zobrazuje odohrané zápasy a plánované zápasy. Deň dnešného zápasu je označený <b>hrubým písmom</b>. Ak sa v danom dni nachádza Voľno alebo ikonka 
@@ -13,7 +13,4 @@
                     <br><br> 
                     Pri každom naplánovanom zápase sa nachádza ikonka grafu <img class="icons" src="./icons/graf.png" > s kalendárom. Po kliknutí na túto ikonku sa ti zobrazí porovnanie 
                     mužstiev a vzájomné zápasy. Tieto údaje ti môžu pomôcť s nastavením vhodnej taktiky na tvojho súpera. Nastavenie taktík pre daný zápas je možné pomocou ikonky <img class="icons" src="./icons/nastavenie.png" >
-
-                <style>
-                    <?php include ('./css/pismo10.css');?>
-                </style>
+                    <br><br>

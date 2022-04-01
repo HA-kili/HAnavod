@@ -1,6 +1,6 @@
 
                 <div class="section-name"> Taktické špecializácie formácií </div>
-                    <br><br> 
+                    <br>
                     Tréner má možnosť zvoliť pre každú formáciu taktickú špecializáciu. Tie si treba zvoliť so zreteľom na individuálne vlastnosti hráčov vo formácii a na ich vhodnú kombináciu. Požiadavky na typy hráčov pre taktiky sa nachádzajú
                     v menu <a href="https://www.hockeyarena.net/sk/index.php?p=manager_lines_form_new.php">Hráči - Zostava - Formácie</a>. Ako vyhovuje jednotlivým taktickým typom konkrétny hráč si môžete pozrieť z jeho profilu na karte hráča a tiež pri vytváraní formácie a výmene hráča vo formácii.
                     <br><br> 
@@ -13,7 +13,4 @@
                     <b> Ako presne fungujú protitaktiky? </b> 
                     <br> 
                     Ich efekt je defenzívny – bránia súperovej formácii v uskutočnení jej špeciálnej taktickej útočnej akcie.
-
-                <style>
-                    <?php include ('./css/pismo10.css');?>
-                </style>
+                    <br><br>

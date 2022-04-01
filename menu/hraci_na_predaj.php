@@ -1,6 +1,6 @@
 
                 <div class="section-name"> Hráči na predaj </div>
-                    <br><br> 
+                    <br>
                     Hráči majú podpísanú zmluvu, mužstvo ich chce predať. Kupujúce mužstvá ponúkajú sumu, ktorú dostane po uskutočnení predaja predávajúce mužstvo. Hráč bude mať v novom mužstve rovnakú zmluvu ako v pôvodnom mužstve (plat + dĺžka
                     kontraktu). 
                     <br><br><br> 
@@ -20,7 +20,3 @@
                     Hráča je možné dať na trh okamžite, v prípade že cena je rovná alebo nižšia ako hodnota % z maximálnej vyvolávačky, viď  
                     <a href="https://www.hockeyarena.net/sk/index.php?p=manager_player_sell_sql.php&frInfo=1">Tabuľka</a> . Vyvolávacia cena 10 000 000 alebo menej nespôsobuje zmrazenie. 
                     <br><br>
-
-                <style>
-                    <?php include ('./css/pismo10.css');?>
-                </style>

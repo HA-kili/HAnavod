@@ -1,6 +1,6 @@
 
                 <div class="section-name"> Tréning </div>
-                    <br><br> 
+                    <br>
                     Tréning hráčov prebieha automaticky každý deň po zápase. V prípade, že mužstvo zápas nenaplánuje a neodohrá, tréning prebehne o 19:00. 
                     <br><br>
                     <u> Nastavenie tréningu pozostáva z dvoch častí : </u>
@@ -17,7 +17,4 @@
                     Výška atribútu závisí od kvality hráča. Totižto hráč si vie vytrénovať atribút max. do výšky 2,5* násobku kvality. Potom sa tréning daného atribútu výrazne spomalí.
                     <br><br>
                     <b> Maximálna výška každého atribútu je 255. Prípadné aktivovanie dresu, ktorý má zvýšiť atribút hráča o 10 bodov, sa tento atribut aj napriek tomu nenavýši. </b>
-
-                <style>
-                    <?php include ('./css/pismo10.css');?>
-                </style>
+                    <br><br>

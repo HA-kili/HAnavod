@@ -1,6 +1,6 @@
 
                 <div class="section-name"> Postup nastavenia formácií a náhradníkov </div>
-                    <br><br> 
+                    <br>
                     <h1><c1> V okne <a href="https://www.hockeyarena.net/sk/index.php?p=manager_lines_form_new.php">Hráči - Zostava - Formácie</a> je možné vytvárať a nastavovať formácie. </c1></h1>
                     <br>
                     Nastavenie <i><u><b> brankárov </b></u></i>. V podokne <a href="https://www.hockeyarena.net/sk/index.php?p=manager_lines_form_new.php">Formácie</a>, v hornej časti obrazovky v podsekcii Brankári – po kliknutí na tlačidlo “Pridať brankárov“ si zo zoznamu všetkých hráčov, vyberiete
@@ -37,7 +37,4 @@
                     <h1><c1> Aktuálna zostava <c1></h1>
                     V okne aktuálna <a href="https://www.hockeyarena.net/sk/index.php?p=manager_lines_lineup_form_new.php">zostava</a> sa zobrazí zostava, ktorá bude použitá v nasledujúcom zápase. Náhradníci sú označení ako <a class="red">NAH</a> za menom. V prípade nekompletného nastavenia zostavy (zranenia, málo náhradníkov) sa tu zobrazí zostava tak, ako
                     bude automaticky vygenerovaná systémom.
-
-                <style>
-                    <?php include ('./css/pismo10.css');?>
-                </style>
+                    <br><br>

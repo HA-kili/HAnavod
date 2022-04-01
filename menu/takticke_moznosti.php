@@ -1,6 +1,6 @@
 
                 <div class="section-name"> Taktické možnosti formácií </div>
-                    <br><br> 
+                    <br>
                     <h1><b>Protiútoky:</b></h1>
                     Hráči sa budú sústrediť na dôkladnú obranu a budú čakať na chybu súpera po ktorej sa okamžite budú pokúšať o rýchly protiútok.
                     <br><br> 
@@ -26,7 +26,3 @@
                     v menu <a href="https://www.hockeyarena.net/sk/index.php?p=manager_lines_form_new.php"> Hráči - Zostava - Formácie</a>. Maximálna možná zohranosť formácie – najlepšie tri možné taktiky pre 
                     konkrétnu formáciu už nebudú tak výrazne zvýhodnené s cieľom umožniť lepšiu použiteľnosť všetkých taktík a protitaktík.</p>
                     <br><br>
-
-                <style>
-                    <?php include ('./css/pismo10.css');?>
-                </style>

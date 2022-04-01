@@ -1,6 +1,6 @@
 
                 <div class="section-name"> Štadión </div>
-                    <br><br>
+                    <br>
                     Mužstvo začína s malým štadiónom, ktorý sa v nižších ligách v prvých zápasoch väčšinou ani nenaplní. Ak už ale štadión praská vo švíkoch a pravidelne sa zapĺňa, je rozšírenie štadióna strategickou investíciou.
                     <br><br>
                     Cena jedného miesta pri rozširovaní štadióna je vyššia úmerne aktuálnej kapacite štadióna, preto je finančne najvýhodnejšie objednávať naraz čo najvyššie rozšírenia. Samozrejme, treba brať do úvahy aj
@@ -22,7 +22,4 @@
                     <br> 
                     V prípade akútneho nedostatku financií alebo príliš vysokých nákladov je možné hodnoty zázemia znížiť až na 0 pomocou voľby <img class="icons" src="./icons/hore_dole_sipka.png" >. Zmena na nižšiu úroveň bude trvať
                     niekoľko dní, vrátenie zmeny na vyššiu úroveň bude trvať jeden deň. 
-
-                <style>
-                    <?php include ('./css/pismo10.css');?>
-                </style>
+                    <br><br>

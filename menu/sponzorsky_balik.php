@@ -1,6 +1,6 @@
 
                 <div class="section-name"> Sponzorský balík </div>
-                <br><br>
+                <br>
                 <b> Sponzorský balík </b> je súbor špeciálnych vylepšení pre manažérov, ktorí majú radi Hockey Arenu a trávia tu veľa času. Po zakúpení sponzorského balíku sa staneš sponzorom Hockey Areny a získaš prístup k funkciám, ktoré
                 zlepšia komfort a zábavu pri hraní. Každý sponzor bude v hre označený ikonkou puku <img class="icons" src="./icons/puk.gif" > .
                 <br><br> 
@@ -128,7 +128,4 @@
                     <img class="trofeje" src="./icons/wc_ms.png" >
                     <br><br><br>
                 </ul>
-
-                <style>
-                    <?php include ('./css/pismo10.css');?>
-                </style>
+                <br><br>

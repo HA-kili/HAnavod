@@ -1,6 +1,6 @@
 
                 <div class="section-name"> Nechránení hráči </div>
-                    <br><br>
+                    <br>
                     Hráči vo veku 27 rokov a viac, ktorým ostáva do ukončenia zmluvy 8 dni, sa automaticky dostanú na trh nechránených hráčov – manažérovi príde upozornenie v novinkách mužstva. Počas prvých dní na trhu posielajú hráčovi ponuky
                     cudzie mužstvá, podobne ako je to u predávaných hráčov. Hráčove domáce mužstvo má potom možnosť dorovnať najvyššiu ponuku z ostatných mužstiev počas nasledujúcich dní až do konca jeho aktuálnej zmluvy. Hráči podpisujú zmluvu na 210
                     dní. Materské mužstvo môže hráčovi ponúknuť zmluvu na 1, 2, alebo 3 sezóny (podľa <a href="wiki.hockeyarena.net/index.php?nvod=dalsie_atributy.html">lojality</a> ).
@@ -64,8 +64,4 @@
                     <p class="red">Nové mužstvá môžu posielať ponuky nechráneným hráčom z iných mužstiev iba do výšky 10-100% z aktuálnej hotovosti, toto percento sa zvyšuje podľa dôvery majiteľov mužstva.</p>   
                     <br>
                     Automatická ponuka na zmluvu sa aktivuje 2 dni pred ukončením hráčovej zmluvy. 
-                    <br><br><br>
-
-                <style>
-                    <?php include ('./css/pismo10.css');?>
-                </style>
+                    <br><br>

@@ -1,6 +1,6 @@
 
                 <div class="section-name"> U23 mužstvo </div>
-                    <br><br> 
+                    <br>
                     Možnosť manažovať svoje U23 mužstvo, prepojené na hlavné A alebo B mužstvo (aj na obe samostatne). Tu sú podrobnejšie informácie: 
                     <br><br> 
                     1. Samostatná ligová štruktúra s názvom "Medzinárodná liga U23" v ktorej hrajú všetky U23 mužstvá. 
@@ -50,7 +50,4 @@
                     </ul>
                     <br><br>
                     <b> U23 mužstvo je možné opustiť ihneď v Menu <a href="https://www.hockeyarena.net/sk/index.php?p=sponsor_multiteam.inc">Manažér, B/U23 mužstvo</a> . Všetci hráči budú automaticky presunutí do hlavného A mužstva. </b>
-
-                <style>
-                    <?php include ('./css/pismo10.css');?>
-                </style>
+                    <br><br>

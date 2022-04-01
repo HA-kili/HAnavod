@@ -1,6 +1,6 @@
 
                 <div class="section-name"> Odoslanie výzvy na priateľský zápas </div>
-                    <br><br>
+                    <br>
                     Vyberieš si mužstvo, s ktorým by si chcel hrať. Otvoríš jeho okno, kde je <u>vpravo hore</u> možnosť <b>Výzva na priateľský zápas</b>. Máš možnosť si vybrať z dvoch možností : Normálny alebo Playoff (viď. obrázok nižšie). V Playoff zápase sa zápas v prípade remízy
                     v riadnom hracom čase predlžuje. V prípade, že sa zápas nerozhodne v predĺžení, zápas rozhodnú samostatné nájazdy.
                     <br><br>
@@ -33,8 +33,3 @@
                     <br><br>
                     <img class="images" src="./icons/planovac_zapasov_3.png" >
                     <br><br>
-
-
-                <style>
-                    <?php include ('./css/pismo10.css');?>
-                </style>

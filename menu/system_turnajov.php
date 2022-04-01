@@ -99,7 +99,4 @@
                         </tbody>
                     </table>
                     <br> Trofeje dostáva iba manažér so <a href="https://www.hockeyarena.net/sk/index.php?index.php&p=public_shop.php">sponzorským balíkom</a> .
-                
-                <style>
-                    <?php include ('./css/pismo10.css');?>
-                </style>
+                    <br><br>

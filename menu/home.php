@@ -19,9 +19,5 @@
                         <br><br> 
                         <b><h5 class="red" style="line-height: 1.6;"> Translator addons for <a href="https://addons.mozilla.org/sk/firefox/addon/to-google-translate/">firefox</a> , <a href="https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb/related?hl=sk">chrome</a> and <a href="https://addons.opera.com/en/extensions/details/translator/">opera</a> to change the language of the hockeyarena manual.  </h5></b>      
                     </div>
-                    
-
-                <style>
-                    <?php include ('./css/pismo10.css');?>
-                </style>
+                    <br><br>
 

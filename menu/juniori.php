@@ -1,6 +1,6 @@
 
                 <div class="section-name"> Juniorská prípravka – juniori </div>
-                    <br><br>
+                    <br>
                     Vybraných najperspektívnejších juniorov môžeš 2* za sezónu poslať na intenzívne tréningové sústredenie. Uvedení hráči / hráč sa potom za túto investíciu odmenia tým, že budú v seniorskom mužstve okamžite začínať ako viac 'nadupaní' !
                     <br><br>
                     Len prvé dva 'pobyty' hráča na tréningovom sústredení mu dajú maximálne možné vylepšenie, každé ďalšie sústredenie už bude mať slabší účinok. 
@@ -75,7 +75,3 @@
                     <br> 
                     sebaovládanie obrancovia + obrana, nahrávka, sila 
                     <br><br>
-
-                <style>
-                    <?php include ('./css/pismo10.css');?>
-                </style>

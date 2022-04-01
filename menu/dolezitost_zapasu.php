@@ -1,6 +1,6 @@
 
                 <div class="section-name"> Dôležitosť zápasu </div>
-                    <br><br> 
+                    <br>
                     Pred každým zápasom manažér určí hráčom, akú dôležitosť má pre mužstvo nasledujúci zápas. Dôležitosť ovplyvňuje motiváciu mužstva na zápase a zvyšuje možnosť zranenia.
                     Dôležitosť sa nastavuje v menu <a href="https://www.hockeyarena.net/sk/index.php?p=manager_tactics_form.php">Mužstvo - Nastavenie zápasu</a> a na náladu má vplyv 
                     v ligových zápasoch, zápasoch NP, SL a PNŠ. 
@@ -16,7 +16,3 @@
                     <br><br> <br>
                     <b> Nálada má tendenciu sa časom ustáliť na "normálnej" hodnote (normálna = Chladná). </b>
                     <br><br>
-
-                <style>
-                    <?php include ('./css/pismo10.css');?>
-                </style>

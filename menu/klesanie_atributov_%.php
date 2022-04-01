@@ -1,6 +1,6 @@
 
                 <div class="section-name"> Klesanie atribútov v % od </div>
-                    <br><br>
+                    <br>
                     <u> Takto bude vyzerať klesanie potenciálov u dotknutých hráčov: </u>
                     <br><br><b> MAX-6 </b>
                     <br> 0% -3% -6% -12% -18% -27% -36% -42% 
@@ -15,7 +15,3 @@
                     <br><br><b> MAX-1 a MAX </b> 
                     <br> rovnako ako doteraz 
                     <br> <br>
-
-                <style>
-                    <?php include ('./css/pismo10.css');?>
-                </style>

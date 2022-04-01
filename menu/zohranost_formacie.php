@@ -1,6 +1,6 @@
 
                 <div class="section-name"> Zohranosť formácie </div>
-                    <br><br> 
+                    <br>
                     Hráči, ktorí spolu hrávajú často, sa zohrávajú, zvyšuje sa im výkonnosť, toto reflektuje atribút formácie <b>Zohranosť</b>.
                     <br><br> 
                     <b> Ako pomáha formácii na zápase zohranosť?</b> 
@@ -20,7 +20,3 @@
                     <br><br>
                     <b> INFO : </b>...na zápase sa použije pre formáciu hodnota max. zohranosti v prípade, že max zohranosť je nižšia ako aktuálna zohranosť. 
                     <br><br>
-
-                <style>
-                    <?php include ('./css/pismo10.css');?>
-                </style>

@@ -1,6 +1,6 @@
 
                 <div class="section-name"> Režimy </div>
-                    <br><br> 
+                    <br>
                     Tréningový režim je nastavenie činností, ktoré bude hráč trénovať počas tréningu. Je možné vytvoriť až 30 režimov podľa toho, ktoré vlastnosti sa v režime budú trénovať a ako dlho. 
                     <br><br>
                     <u> Napríklad tréningový režim pre centra môže vyzerať takto : </u>
@@ -56,7 +56,4 @@
                     <b> Hráči, ktorí majú nastavený systémový tréningový režim 'Oddych' netrénujú (iba keď hrajú zápas) a oddychujú menej! 
                     <br><br>
                     Hráč s energiou nižšou ako 20% nevládze trénovať a automaticky si zvolí systémový režim 'Oddych'! 
-
-                <style>
-                    <?php include ('./css/pismo10.css');?>
-                </style>
+                    <br><br>

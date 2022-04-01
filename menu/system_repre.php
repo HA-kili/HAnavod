@@ -42,7 +42,3 @@
                     <br>
                     <b><h1> Ďaľšie informácie k reprezentácii nájdete v sekcii <a href="index.php?navod=reprezentacia"> B / U23 / repre </a> . </h1></b>
                     <br><br>
-
-                <style>
-                    <?php include ('./css/pismo10.css');?>
-                </style>

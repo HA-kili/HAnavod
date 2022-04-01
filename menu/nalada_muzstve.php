@@ -1,6 +1,6 @@
 
                 <div class="section-name"> Nálada v mužstve </div>
-                    <br><br> 
+                    <br>
                     Nálada mužstva je jeden z faktorov, ktorý určuje <a href="https://www.hockeyarena.net/sk/index.php?p=manager_scouting_form.php">motiváciu</a> hráčov na zápase (motivíciu je možné vidieť v oddelení prieskumu).  Nálada sa mení sa v týchto prípadoch : 
                     <br>
                     <ul>
@@ -23,8 +23,4 @@
                     <br> Nadšená 
                     <br> Radostná 
                     <br> Bláznivá 
-                    <br>
-
-                <style>
-                    <?php include ('./css/pismo10.css');?>
-                </style>
+                    <br><br>

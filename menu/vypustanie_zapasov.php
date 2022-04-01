@@ -1,6 +1,6 @@
 
                 <div class="section-name"> Vypúšťanie zápasov </div>
-                    <br><br> 
+                    <br>
                     Zmenili sme ako systém identifikuje "vypustený" playoff zápas. Systém spočíta priemerné IŠ hráčov na zápase s časom na ľade aspoň 2 minúty a ak je 
                     tento priemer menší ako 80% priemerného IŠ 17tich najlepších hráčov mužstva tak pre tieto účely sa zápas považuje za vypustený a nasleduje:
                     <br><br>
@@ -14,7 +14,4 @@
                     <u> "Súper nepoužil najlepšiu zostavu v playoff zápase, naši hráči sa vzdali odmien za výhru" </u>
                     <br> 
                     A efekt je taký, že súperove mužstvo nevyplatí hráčom bonus za výhru v tomto zápase, aj keď ich motivácia bola ako keby bonusy boli vyplatené.
-
-                <style>
-                    <?php include ('./css/pismo10.css');?>
-                </style>
+                    <br><br>

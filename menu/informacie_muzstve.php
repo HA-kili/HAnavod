@@ -1,6 +1,6 @@
 
                 <div class="section-name"> Detailné informácie o mužstve </div>
-                    <br><br>
+                    <br>
                     <ul>
                         <li><b><h1> ID mužstva </h1></b> - ID mužstva v databáze hry</li>
                         <br>
@@ -12,7 +12,4 @@
                         <br>
                         <li><b><h1> Založený </h1></b> - dátum založenia mužstva, mení sa pri vzniku a reštartovaní mužstva</li>
                     </ul>
-
-                <style>
-                    <?php include ('./css/pismo10.css');?>
-                </style>>
+                    <br><br>

@@ -1,6 +1,6 @@
 
                 <div class="section-name"> <b></b> Špeciálne dresy hráčov </div>
-                    <br><br> 
+                    <br>
                     Každú sobotu budú môcť hráči na základe určitých podmienok získať <b> špeciálny dres </b>, ktorý dá hráčovi rôzne bonusy. 
                     Typ dresu sa bude meniť každý mesiac. Dres bude po aktivácii možné znovu deaktivovať najskôr po 14 dňoch. 
                     Dresy je možné aktivovať / prepínať na karte hráča, po kliknutí na fotku hráča - platí iba 
@@ -94,7 +94,3 @@
                     <br><br> <br>
                     <b> Dres je možné deaktivovať po dvoch týždňoch od aktivácie. </b>
                     <br><br>
-                
-                <style>
-                    <?php include ('./css/pismo10.css');?>
-                </style>

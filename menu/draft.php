@@ -1,6 +1,6 @@
 
                 <div class="section-name"> Draft </div>
-                    <br><br> 
+                    <br>
                     Každú poslednú sobotu v sezóne sa uskutoční <a href="https://www.hockeyarena.net/sk/index.php?p=manager_youth_school_form.php">draft Hockey Areny</a> . To je skvelá príležitosť "draftovať" jedného kvalitného juniora do svojho hokejového mužstva! 
                     <br><br> 
                     Počas celej sezóny môžeš hodnotiť a skúmať hráčov v drafte a
@@ -28,8 +28,4 @@
                     <b> Minimálna draftová hodnota hráča je 11%, všetky nižšie hodnoty sa automaticky budú rovnať 0%. </b>
                     <br><br> 
                     V aktuálnom drafte sú skryté mená a talent hráčov. Talent a meno hráčov v drafte bude známy iba u plne preskúmaných hráčov. 
-                    <br>
-
-                <style>
-                    <?php include ('./css/pismo10.css');?>
-                </style>
+                    <br><br>

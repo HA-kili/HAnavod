@@ -1,6 +1,6 @@
 
                 <div class="section-name"> B mužstvo </div>
-                    <br><br>
+                    <br>
                     <b> B mužstvo </b> bude úplne samostatné a oddelené od A mužstva, akurát budú mať toho istého manažéra. 
                     <br> 
                     Na <u> založenie B mužstva </u> je potrebné mať vo chvíli registrácie aspoň 170 predplatených dní sponzorského balíka. Manažér už fungujúceho
@@ -20,7 +20,4 @@
                         <br>
                         <li> v stávkovej kancelárii nie je možné vsadiť na B mužstvo </li>
                     </ul>
-
-                <style>
-                    <?php include ('./css/pismo10.css');?>
-                </style>
+                    <br><br>

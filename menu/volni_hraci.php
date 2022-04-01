@@ -1,6 +1,6 @@
 
                 <div class="section-name"> Voľní chránení hráči</div>
-                    <br><br>
+                    <br>
                     Sú hráči bez zmluvy a ostávajú v hre 5 dní, keď ich nikto nezamestná, tak sa vymazávajú z databázy. 
                     Týmto hráčom ponúkajú mužstvá podpisový bonus (ktorý dostane hráč pri podpise zmluvy) a hráča získa mužstvo, 
                     ktoré ponúkne najvyššiu sumu. Podpisujú zmluvu na 1 sezónu (70 dní). Chránení hráči sú všetci hráči mladší ako 27 rokov. 
@@ -10,7 +10,4 @@
                     <u>'Automatická ponuka' </u>. Táto funkcia bude automaticky posielať ponuky na hráča až do výšky zvolenej maximálnej sumy.
                     <br><br>
                     <b> Manažér môže mať v jednom momente zadaných max 10 automatických ponúk !!! </b>
-
-                <style>
-                    <?php include ('./css/pismo10.css');?>
-                </style>
+                    <br><br>

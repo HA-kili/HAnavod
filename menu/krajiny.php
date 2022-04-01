@@ -1,6 +1,6 @@
 
                 <div class="section-name"> Začiatky zápasov podľa krajín </div>
-                <br><br> 
+                <br>
                 <b> Začiatky zápasov podľa krajín : </b>
                 <br><br><br>
                 <ul>
@@ -47,8 +47,4 @@
                             <li>Taliansko (ITA)</li>
                         </ul>
                 </ul>
-                <br><br><br>
-                
-            <style>
-                <?php include ('./css/pismo10.css');?>
-            </style>
+                <br><br>

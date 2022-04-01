@@ -1,6 +1,6 @@
 
                 <div class="section-name"> Cena vstupenky </div>
-                    <br><br> 
+                    <br>
                     Cena vstupenky sa použije na domácich zápasoch. Peniaze zo vstupného sú hlavným príjmom každého mužstva, preto treba pred každým domácim zápasom uvážlivo nastaviť cenu vstupenky. Ako pomôcka funguje <a href="https://www.hockeyarena.net/sk/index.php?p=manager_scouting_form.php">Oddelenie prieskumu</a> , kde
                     je vždy odhadnutá ideálna cena vstupenky z pohľadu príjmu. Hra sa snaží simulovať divácku zaujímavosť každej ligy podľa rozdielov medzi mužstvami. Cena vstupného na zápas sa nastavuje v menu <a href="https://www.hockeyarena.net/sk/index.php?p=manager_tactics_form.php">Mužstvo - Nastavenie zápasu</a>. 
                     <br><br>
@@ -22,7 +22,3 @@
                     <i><u><h1>Zápasy vo svetovej lige a v národných pohároch</u></i></h1>
                     Zisk zo zápasu sa delí na polovicu medzi súperov a na motiváciu hráčov nemá vplyv domáce prostredie.
                     <br><br>
-
-                <style>
-                    <?php include ('./css/pismo10.css');?>
-                </style>

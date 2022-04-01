@@ -1,6 +1,6 @@
 
                 <div class="section-name"> Hra telom </div>
-                    <br><br> 
+                    <br>
                     Hráči pri hre telom využívajú nielen silu ale aj rýchlosť. Krídla využívajú viac rýchlosť ako silu, obrancovia a centri využívajú viac silu ako rýchlosť. Mierne sa upravila aj početnosť vylúčení podľa nastavenia
                     agresivity. Hra telom má vplyv na prevahu mužstva na ľade, ale bude ovplyvňovať aj únavu hráčov a vylučovanie pri vyšších nastaveniach bude znateľne vyššie.
                     <br><br>
@@ -24,7 +24,3 @@
                     <br> efektivita fyzickej hry: 145% 
                     <br> vylúčenia: 100% 
                     <br><br>
-
-                <style>
-                    <?php include ('./css/pismo10.css');?>
-                </style>  

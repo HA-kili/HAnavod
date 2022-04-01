@@ -1,6 +1,6 @@
 
                 <div class="section-name"> Základné atribúty </div>
-                    <br><br> 
+                    <br>
                     <u> Každý hráč má 11 základných atribútov </u>, ktoré ovplyvňujú jeho výkon na zápase, a ďalšie, ktoré majú vplyv na iné oblasti hry.
                     <br><br>
                     <b> Brána </b>
@@ -88,8 +88,4 @@
                     <br> 6.liga = 0.6 
                     <br> 7.liga = 0.6 
                     <br> 8.liga = 0.6
-                    <br>
-
-                <style>
-                    <?php include ('./css/pismo10.css');?>
-                </style>
+                    <br><br>

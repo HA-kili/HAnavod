@@ -1,6 +1,6 @@
 
                 <div class="section-name"> Ďalšie atribúty hráča </div>
-                    <br><br>
+                    <br>
                     <b> Vek</b> 
                     <br> Vek hráča sa zvyšuje o jeden rok na konci každej sezóny. Keď hráč dosiahne svoj vekový horizont, jeho hlavné atribúty začnú pomaly klesať.
                     Jediný atribút, čo neklesá (až od veku 41 rokov) je sebaovládanie. 
@@ -113,7 +113,3 @@
                     <br> 
                     Štátna príslušnosť hráča. 
                     <br><br>
-
-                <style>
-                    <?php include ('./css/pismo10.css');?>
-                </style>

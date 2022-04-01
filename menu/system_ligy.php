@@ -47,7 +47,3 @@
                     Celá sezóna trvá 70 dní (10 týždňov). <br><br> Vygenerovanie novej sezóny, zostarnutie hráčov o 1 rok, nastavenie tendencie zmeny fanklubu a nálady mužstva na východiskové hodnoty, postup a zostup mužstiev, a mnoho ďaľších sa uskutočňuje automaticky
                     vždy počas veľkého prepočtu hry a to v poslednú sobotu sezóny (sobota v 10. týždni).
                     <br><br>
-
-                <style>
-                    <?php include ('./css/pismo10.css');?>
-                </style>

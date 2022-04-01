@@ -1,6 +1,6 @@
 
                 <div class="section-name"> Kšeftovanie </div>
-                    <br><br> 
+                    <br>
                     Každú sezónu sa spočíta pre mužstvo celkový zisk (alebo strata) z predaja hráčov, ktorí boli predaní skôr než za 4 sezóny (280 dní) od ich získania do týmu. Z tejto celkovej čiastky se odpočíta suma, ktorá je nastavená ako
                     tzv. „tolerovaný zisk na trhu“ - ten se líši podľa ligovej úrovne, napr. pre 3. ligu je 150 000 000, pre 2. ligu 172 500 000, pre 1. ligu 195 000 000. Výška tolerovaného zisku aktuálne platná pre tvoj tým je zobrazená v záložke
                     <a href="https://www.hockeyarena.net/sk/index.php?p=manager_economy_reform.php&action=team"> ´Zisk na trhu - sezóna´</a> .
@@ -95,7 +95,3 @@
                     alebo vernostný bonus – zaplatená suma sa ihneď odpočítavá od 'Zisku na trhu'. Sledovaním celkovej čiastky 'Zisku na trhu' sa dá pomerne presne monitorovať, kolko ešte zostáva ku zbaveniu sa titulu „kšeftára“. Do kšeftárskych poplatkov sa radia
                     i mierne zvýšená cena za chod štadióna u manažérov, ktorí sú „kšeftári“ – tieto poplatky sú rovnako priebežne odpočítané od 'Zisku na trhu'.
                     <br><br>
-
-                <style>
-                    <?php include ('./css/pismo10.css');?>
-                </style>

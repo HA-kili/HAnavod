@@ -1,6 +1,6 @@
 
                 <div class="section-name"> Reprezentácia </div>
-                    <br><br>
+                    <br>
                     <b> Majstrovstvá sveta </b>
                     <br> 
                     <a href="https://www.hockeyarena.net/sk/index.php?p=manager_national_wc.php&type=senior">Majstrovstvá sveta seniorov</a> sa konajú každú nepárnu sezónu a voľby manažérov do seniorských reprezentačných mužstiev prebiehajú počas prvého týždňa párnej sezóny. 
@@ -37,7 +37,4 @@
                     <br><br>
                     <b> Ďaľšie informácii k reprezentácii nájdete v sekcii <a href="index.php?navod=system_repre">Systém ligy, turnajov, repre</a> . </b>
                     <br><br>
-
-                <style>
-                    <?php include ('./css/pismo10.css');?>
-                </style>
+>

@@ -1,6 +1,6 @@
 
                 <div class="section-name"> Počet členov fanklubu</div>
-                    <br><br> 
+                    <br>
                     Fanklub mužstva je jeden z najdôležitejších atribútov mužstva. V zátvorke je zobrazená zmena počtu fanúšikov za predchádzajúci týždeň. <br> 
                     <br>
                     <h1> Počet členov fanúšikov vo fanklube ovplyvňuje : </h1>
@@ -22,7 +22,3 @@
                     Ak máte pocit, že fanúšikovia Vám ajtak nepribúdajú, môže to byť sposobené tým, že na príchod a odchod fanúšikov má vplyv aj ligový priemer, ktorý si viete pozrieť v sekcii <a href="https://www.hockeyarena.net/sk/index.php?p=public_league_info.php"> Liga - Tabuľky - Info </a> . 
                     To znamená, že ak máte viac fanúšikov ako je ligový priemer, budú Vám pribúdať pomalšie alebo aj vôbec. Ak máte fanúšikov menej ako je ligový priemer, pribúdať budú rýchlejšie. 
                     <br><br>
-
-                <style>
-                    <?php include ('./css/pismo10.css');?>
-                </style>

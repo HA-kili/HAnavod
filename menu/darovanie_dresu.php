@@ -1,6 +1,6 @@
 
                 <div class="section-name"> Darovanie dresu </div>
-                    <br><br>
+                    <br>
                     Darovať sa dá iba dres, ktorý nebol použitý alebo darovaný. 
                     <br><br> 
                     Dres nie je možné darovať v U23 mužstvách. 
@@ -25,8 +25,4 @@
                     Týždňe v mužstve : 50 a viac 
                     <br>
                     Výkon: 5,0 a menej 
-                    <br>
-
-                <style>
-                    <?php include ('./css/pismo10.css');?>
-                </style>
+                    <br><br>

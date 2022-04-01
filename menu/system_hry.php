@@ -1,6 +1,6 @@
 
                 <div class="section-name"> Systém hry </div>
-                    <br><br> 
+                    <br>
                     Hockey Arena (HA) je hokejová hra, kde sa staráš o hokejové mužstvo, s cieľom dosiahnuť najlepšie výsledky v konkurencii ďalších manažérov z celého sveta.
                     <br><br> 
                     V mužstve plníš úlohu manažéra a trénera <b>(nie majiteľa !!)</b>. Kupuješ a predávaš hráčov, zlepšuješ zázemie, vyberáš mladé talenty z juniorky, nastavuješ zostavu a taktiku na zápasy, priraďuješ hráčom tréningový režim a mnoho iných vecí.
@@ -24,7 +24,4 @@
                         <li> vyhodnotenie hviezd týždňa </li>
                         <li> a rôzne iné </li> 
                     </ul>
-                    
-                <style>
-                    <?php include ('./css/pismo10.css');?>
-                </style>
+                    <br><br>

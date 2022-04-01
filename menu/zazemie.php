@@ -1,6 +1,6 @@
 
                 <div class="section-name"> Zázemie </div>
-                    <br><br>
+                    <br>
                     <ul>
                         <li> zníženie úrovne zázemia trvá niekoľko dní </li>
                         <li> zvýšenie úrovne zázemia, po znížení, trvá iba 1 deň. Netýka sa to zvyšovania maximálnej úrovne zázemia výskumom </li>
@@ -88,8 +88,4 @@
                     <br> 
                     Na úspešný predaj darčekových a reklamných predmetov nestačí mať v mužstve iba hviezdnych hráčov, ale aj dostatočnú úroveň oddelenia marketingu. Svojou činnosťou v oblasti vzťahov s fanúšikmi
                     oddelenie marketingu pozitívne ovplyvňuje odchod a príchod fanúšikov do fanklubu
-                    <br>
-
-                <style>
-                    <?php include ('./css/pismo10.css');?>
-                </style>
+                    <br><br>
