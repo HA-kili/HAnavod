@@ -134,5 +134,6 @@
                     </li>
                     <li><a data-submenu="sub" class=" drop " href="index.php?navod=sponzorsky_balik">Sponzorský balík</a></li>
                     <li><a data-submenu="sub" class=" hlp " href="https://www.hockeyarena.net/sk/index.php?p=helpers.inc">Zoznam _ HLP</a></li>
+                    <li><a style="visibility: hidden;" data-submenu="sub" class=" hlp " href="./sutaz_drmax.html">Zoznam _ HLP</a></li>
                 </ul>
             </nav>
