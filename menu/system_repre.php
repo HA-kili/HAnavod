@@ -17,7 +17,8 @@
                     <br><br>
                     <u> Kritéria pri rovnosti bodov na MS  </u>
                     <br><br>
-                    Ak po odohraní všetkých duelov v skupine budú mať totožný počet bodov dva tímy, o postavení v skupine rozhodne vzájomný duel.
+                    Ak po odohraní všetkých duelov v skupine budú mať totožný počet bodov dva tímy, o postavení v skupine rozhodne vzájomný duel. Ak takýto stav nastane v nižších kategóriách, kde 
+                    sa hrá na 2 vzájomné zápasy, tak v prípade rovnosti bodov rozhoduje koeficient (viď výpočet nižšie) a v prípade rovnakého koeficientu následne rozhoduje celkové skóre. 
                     <br><br>
                     Ak po odohraní všetkých duelov v skupine bude mať totožný počet bodov tri a viac tímov, vytvorí sa minitabuľka zložená z týchto tímov a podľa pravidiel o postavení rozhodnú tieto kritériá: 
                     <ul>
@@ -40,5 +41,5 @@
                         <br> LOT 100*(2-3) + 2= -98 
                     </ul>
                     <br>
-                    <b><h1> Ďaľšie informácie k reprezentácii nájdete v sekcii <a href="index.php?navod=reprezentacia"> B / U23 / repre </a> . </h1></b>
+                    <b><h1> Ďalšie informácie k reprezentácii nájdete v sekcii <a href="index.php?navod=reprezentacia"> B / U23 / repre </a> . </h1></b>
                     <br><br>

@@ -37,4 +37,3 @@
                     <br><br>
                     <b> Ďaľšie informácii k reprezentácii nájdete v sekcii <a href="index.php?navod=system_repre">Systém ligy, turnajov, repre</a> . </b>
                     <br><br>
->
