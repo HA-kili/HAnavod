@@ -222,6 +222,16 @@ nav.menuLeft .dropdown-btn {
     display: block;
     padding: 4px 8px;
 }
+nav.menuLeft .navstevnost {
+    padding: 10px;
+    text-align: center;
+    vertical-align: center;
+}
+nav.menuLeft .pocitadlo {
+    padding-top: 10px;
+    width: 60%;
+    height: 60%;
+}
 
 
 /*contentCol*/
