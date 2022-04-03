@@ -134,6 +134,13 @@
                     </li>
                     <li><a data-submenu="sub" class=" drop " href="index.php?navod=sponzorsky_balik">Sponzorský balík</a></li>
                     <li><a data-submenu="sub" class=" hlp " href="https://www.hockeyarena.net/sk/index.php?p=helpers.inc">Zoznam _ HLP</a></li>
-                    <li><a style="visibility: hidden;" data-submenu="sub" class=" hlp " href="./sutaz_drmax.html">Zoznam _ HLP</a></li>
+                    <li><a class="navstevnost" href="https://www.toplist.sk/stat/1273971/"><script language="JavaScript" type="text/javascript" charset="utf-8">
+                            <!--
+                            document.write('<img class="pocitadlo" src="https://toplist.sk/count.asp?id=1273971&logo=mc&http='+
+                            encodeURIComponent(document.referrer)+'&t='+encodeURIComponent(document.title)+'&l='+encodeURIComponent(document.URL)+
+                            '&wi='+encodeURIComponent(window.screen.width)+'&he='+encodeURIComponent(window.screen.height)+'&cd='+
+                            encodeURIComponent(window.screen.colorDepth)+'" width="88" height="60" border=0 alt="TOPlist" />');
+                            //--></script><noscript><img src="https://toplist.sk/count.asp?id=1273971&logo=mc&njs=1" border="0"
+                            alt="TOPlist" width="88" height="60" /></noscript></a></li>
                 </ul>
             </nav>
