@@ -8,7 +8,7 @@
                     Jednoducho, pri každej útočnej akcii zvyšuje šancu (čím vyššia zohranosť, tým vyššia šanca), že sa formácii podarí uskutočniť špeciálna taktická útočná akcia. Pri nej hráči využívajú
                     svoje atribúty rovnako ako pri bežnej útočnej akcii, vďaka zohranosti majú vyššiu šancu na skórovanie.
                     <br><br>
-                    <u> Maximálna zohranosť</u> formácie závisí vždy od aktuálne nastavenej <a href="www.index.php?navod=takticke_moznosti.html">taktiky</a> pre formáciu a od výkonnosti jednotlivých hráčov vo formácii na ich pozíciách vo formácii (Taktické profily).
+                    <u> Maximálna zohranosť</u> formácie závisí vždy od aktuálne nastavenej <a href="index.php?navod=takticke_moznosti">taktiky</a> pre formáciu a od výkonnosti jednotlivých hráčov vo formácii na ich pozíciách vo formácii (Taktické profily).
                     <br><br>
                     Nemusíte sa báť, že sa zníži zohranosť formácie pri zmene jej taktiky – mení sa len maximálna zohranosť a aktuálna zohranosť bude klesať postupne počas nasledujúcich dní, ak bude maximálna zohranosť nižšia než aktuálna. 
                     Spomalili sme zhoršenie aktuálnej zohranosti formácie, ktorej zohranosť je vyššia ako jej maximálna zohranosť, približne z 10% za zápas, na 3% na zápas. 

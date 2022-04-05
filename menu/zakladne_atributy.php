@@ -60,7 +60,7 @@
                     <br><br>
                     <b> Forma, skúsenosť </b>
                     <br> 
-                    ysoká forma a skúsenosť spôsobujú, že hráč bude efektívne a správne využívať všetky svoje schopnosti. Naopak v prípade nízkej formy a skúsenosti je vyššia šanca, že hráč bude "kaziť, čo sa dá".
+                    Vysoká forma a skúsenosť spôsobujú, že hráč bude efektívne a správne využívať všetky svoje schopnosti. Naopak v prípade nízkej formy a skúsenosti je vyššia šanca, že hráč bude "kaziť, čo sa dá".
                     <br><br> 
                     Formou sa vyjadruje momentálna hráčova fyzická a psychická pohoda. Preto nie je priamo ovplyvnená výkonom hráča na zápase ani tréningom. Faktory, ktoré ovplyvňujú formu, sú všetky udalosti, ktoré sa týkajú hráča (napr. jeho
                     osobný život), ale nie sú podchytené v iných oblastiach HA. Forma hráčov kolíše hore a dole, najlepší spôsob, ako to ovplyvniť, je hráčov s nízkou formou nahradiť v zostave hráčmi s vysokou formou. V každom momente má forma smer, ktorým

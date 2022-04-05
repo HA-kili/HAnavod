@@ -51,7 +51,7 @@
                     <br> 
                     Spokojnosť hráča funguje od jeho 23 roka a je ovplyvnená tým, ako často hráva ligové zápasy. Začína na úrovni 0% a hýbať smerom hore (100%) alebo dole (-100%) sa začína vtedy, ak je hráč v týme viac ako 9-týždňov. Každý ďaľší týždeň nasleduje pohyb o 18% ak 
                     hráč hráva pravidelne a má odohrané viac ako <sup>3</sup>/<sub>4</sub> zápasov. Ak hráč hráva sporadicky a má odohrané menej ako <sup>1</sup>/<sub>4</sub> zápasov, tak spokonnosť klesá o -18%. V prípade, že hráč hráva striedavo a má odohrané medzi <sup>1</sup>/<sub>4</sub> - <sup>3</sup>/<sub>4</sub> zápasov, tak spokojnosť stagnuje a nehýbe sa. 
-                    Spokojnosť má význam len u nechránených hráčov – viac informácií je v časti <a href="http://wiki.hockeyarena.net/nechranenihraci.html">Trh</a> . 
+                    Spokojnosť má význam len u nechránených hráčov – viac informácií je v časti <a href="index.php?navod=nechraneni_hraci">Trh</a> . 
                     <br><br> 
                     Ak je hráč v mužstve spokojný, domácemu mužstvu stačí ponúknuť 75-100% najvyššej ponuky (podľa spokojnosti hráča), ak je nespokojný, musí ponúknuť 100-130% najvyššej ponuky.
                     <br>
@@ -107,7 +107,7 @@
                     <br>
                     <i><u> Známka </i></u> - Je to hodnotenie hráča (jeho šikovnosti) v porovnaní s najlepším hráčom rovnakého veku v rámci celej Hockey Areny. 
                     <br>
-                    <i><u> Ligovú známku hráča </i></u> – Je to hodnotenie hráča (jeho šikovnosti) v porovnaní s najlepším hráčom rovnakého veku v rámci ligy prezerajúceho manažéra. 
+                    <i><u> Ligová známka </i></u> – Je to hodnotenie hráča (jeho šikovnosti) v porovnaní s najlepším hráčom rovnakého veku v rámci ligy prezerajúceho manažéra. 
                     <br><br>
                     <b> Štát</b> 
                     <br> 
