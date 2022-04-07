@@ -1,6 +1,7 @@
 
                 <div class="section-name"> Zázemie </div>
                     <br>
+                    <u> Úrovne zázemia : </u>
                     <ul>
                         <li> zníženie úrovne zázemia trvá niekoľko dní </li>
                         <li> zvýšenie úrovne zázemia, po znížení, trvá iba 1 deň. Netýka sa to zvyšovania maximálnej úrovne zázemia výskumom </li>
@@ -9,7 +10,7 @@
                     <br>
                     <b> Tréningové priestory </b> 
                     <br> 
-                    Zvyšujú rýchlosť tréningu hráčov (viac v sekcii <a href="http://wiki.hockeyarena.net/index.php?navod=trening.html">Tréning</a> )
+                    Zvyšujú rýchlosť tréningu hráčov (viac v sekcii <a href="index.php?navod=trening">Tréning</a> )
                     <br><br>
                     <b> Regeneračné priestory </b>
                     <br> 
