@@ -4,7 +4,7 @@
                     Štatistiky sa dajú sledovať buď ligové (<a href="https://www.hockeyarena.net/sk/index.php?p=manager_league_statistics.php&type=sco">Menu - Liga - Štatistiky</a>) 
                     alebo týmové (<a href="https://www.hockeyarena.net/sk/index.php?p=sponsor_teams_statistics.php">Menu - Mužstvo - Štatistiky</a>).
                     <br><br><br>
-                    <h1> Ligové štatistiku sú tieto : </h1>
+                    <h1> Ligové štatistiky sú tieto : </h1>
                     <br>
                     <i><u> Kanadské bodovanie produktivity </u></i> - poradie hráčov podľa počtu strelených gólov a nahrávok na góly. Hráč musí odohrať aspom 20 zápasov (600 minút) aby sa mohol umiestniť v koncosezónnych TOP štatistikách. 
                     Koncosezónne štatistiky hráča sa budú ukladať pre všetkých hráčov v hre, ale viditeľné budú iba pre manažérov so <a href="https://www.hockeyarena.net/sk/index.php?index.php&p=public_shop.php">sponzorským balíkom</a>. 
@@ -28,7 +28,7 @@
                     <b> Umiestnenie v týchto hodnoteniach je jedna z podmienok na to, aby sa dal hráčovi <a href="index.php?navod=darovanie_dresu"> darovať dres </a>. </b> 
                     <br><br>
                     <br><br><br>
-                    <h1> Týmové statistiky sú tieto : </h1>
+                    <h1> Týmové štatistiky sú tieto : </h1>
                     <br>
                     <i><u> IŠ TOP 22 </u></i> - sledovanie priemerného IŠ TOP 22 hráčov v mužstve podľa dní a týždňov + graf.
                     <br><br>

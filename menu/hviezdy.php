@@ -7,7 +7,7 @@
                     <br><br>
                     Ďalší faktor, ktorý zvyšuje hviezdny štatút hráčov, sú <a href="index.php?navod=statistiky">ligové štatistické kategórie</a>  vyhodnotené vždy na konci základnej časti sezóny.
                     <br><br> 
-                    <h1><u><i> A načo sú mužstve hviezdni hráči? </u></i></h1>
+                    <h1><u><i> A načo sú v mužstve hviezdni hráči ? </u></i></h1>
                     Okrem toho, že hviezdy chcú vyššie platy, má to aj dobrú stránku - na zápasy chodí viac divákov a predávajú sa darčekové predmety. Hviezdni hráči sa dajú prehľadne sledovať v menu <a href="https://www.hockeyarena.net/sk/index.php?p=manager_stars_form.php">Hráči - Hviezdy</a> 
                     a v tomto okne sa dajú aj kupovať darčekové a zberateľské predmety. Základná nákupná cena týchto predmetov je 5000 za kus a pri jednorazovom nákupe väčších množstiev sa znižuje. Predajná cena je 15000. </p>
                     <br> 
