@@ -90,16 +90,18 @@
                     ktorí bonus nedostali. Vyplatiť bonus môžte cez linku Zmluva z detailu hráča. O pozitívnom aj negatívnom vplyve budete detailne informovaní pred vyplatením konkrétneho bonusu. Lojalita sa nedá meniť u hráčov, ktorí sú aktuálne na trhu
                     a týka sa to pozitívnej aj negatívnej zmeny. <span class="red">Výšku vernostného bonusu ovplyvňuje ekonomická úroveň mužstva a aktuálna lojalita hráča.</span>
                     <br><br><br>
-                    <u> Oprava lojality - dočasné riešenie </u>
+                    <a class="oprava_lojality"></a><u> Oprava lojality - dočasné riešenie </u>
                     <br> 
                     Táto zdarma možnosť bude k dispozícii od 5.12.2021 a bude k dispozícii minimálne dve sezóny a maximálne do odvolania. 
+                    <br>
+                    Možnosť zvýšiť lojalitu o jeden stupeň zdarma pre 2 hráčov za sezónu sa bude dať použiť naposledy na konci tejto sezóny, do 22.4.2022 23:59 HA času. 
                     <br><br> 
                     V nadväznosti na opravu chyby pred pár týždňami (viď. novinku "Chyba juniorskej prípravky"), sme pripravili možnosť zvýšiť lojalitu o jeden stupeň zdarma (a bez ďalšieho hráča, ktorému sa zníži lojalita): 2 vybraným hráčom za sezónu. Ďalší, 3. hráč bude môcť dostať zvýšenie lojality "za peniaze" za rovnakých podmienok ako doteraz. Jednému hráčovi je možné zvýšiť týmto spôsobom lojalitu iba o jeden stupeň v jednej sezóne. Jednému hráčovi sa dá zvýšiť lojalita o jeden stupeň v jednej sezóne a potom o ďalší stupeň až v ďalšej sezóne.
                     Hráči na zvýšenie lojality zdarma musia mať odohraný v sezóne aspoň jeden zápas a 5 minút na ľade. 
                     <br><br> 
                     Opravená chyba ovplyvnila hráčov, ktorí momentálne majú najviac 25 rokov, ale dovolíme použiť zvýšenie lojality zdarma na akéhokoľek hráča, nech tam už nespôsobíme ďalšie zmätky. Ale upozorňujeme, že táto možnosť bude k dispozícii iba na limitované časové obdobie, tak si veľmi dobre zvážte svoju cieľovú skupinu hráčov! 
                     <br><br>  
-                    Lojalita hráča sa dá zvýšiť kliknutím na ikonu "plus" priamo z karty hráča (naľavo od lojality). 
+                    Lojalita hráča sa dá zvýšiť kliknutím na ikonu "plus" priamo z karty hráča (naľavo od lojality). </a>
                     <br><br><br>
                     <b> Známka a ligová známka</b>
                     <br> 
