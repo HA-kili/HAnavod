@@ -94,7 +94,7 @@
                     <br> 
                     Táto zdarma možnosť bude k dispozícii od 5.12.2021 a bude k dispozícii minimálne dve sezóny a maximálne do odvolania. 
                     <br>
-                    Možnosť zvýšiť lojalitu o jeden stupeň zdarma pre 2 hráčov za sezónu sa bude dať použiť naposledy na konci tejto sezóny, do 22.4.2022 23:59 HA času. 
+                    Možnosť zvýšiť lojalitu o jeden stupeň zdarma pre 2 hráčov za sezónu sa bude dať použiť naposledy na konci tejto sezóny (94), čiže do 22.4.2022 23:59 HA času. 
                     <br><br> 
                     V nadväznosti na opravu chyby pred pár týždňami (viď. novinku "Chyba juniorskej prípravky"), sme pripravili možnosť zvýšiť lojalitu o jeden stupeň zdarma (a bez ďalšieho hráča, ktorému sa zníži lojalita): 2 vybraným hráčom za sezónu. Ďalší, 3. hráč bude môcť dostať zvýšenie lojality "za peniaze" za rovnakých podmienok ako doteraz. Jednému hráčovi je možné zvýšiť týmto spôsobom lojalitu iba o jeden stupeň v jednej sezóne. Jednému hráčovi sa dá zvýšiť lojalita o jeden stupeň v jednej sezóne a potom o ďalší stupeň až v ďalšej sezóne.
                     Hráči na zvýšenie lojality zdarma musia mať odohraný v sezóne aspoň jeden zápas a 5 minút na ľade. 
