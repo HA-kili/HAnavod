@@ -90,7 +90,7 @@
                     ktorí bonus nedostali. Vyplatiť bonus môžte cez linku Zmluva z detailu hráča. O pozitívnom aj negatívnom vplyve budete detailne informovaní pred vyplatením konkrétneho bonusu. Lojalita sa nedá meniť u hráčov, ktorí sú aktuálne na trhu
                     a týka sa to pozitívnej aj negatívnej zmeny. <span class="red">Výšku vernostného bonusu ovplyvňuje ekonomická úroveň mužstva a aktuálna lojalita hráča.</span>
                     <br><br><br>
-                    <a class="oprava_lojality"></a><u> Oprava lojality - dočasné riešenie </u>
+                    <a class="oprava_lojality"><u> Oprava lojality - dočasné riešenie </u>
                     <br> 
                     Táto zdarma možnosť bude k dispozícii od 5.12.2021 a bude k dispozícii minimálne dve sezóny a maximálne do odvolania. 
                     <br>
