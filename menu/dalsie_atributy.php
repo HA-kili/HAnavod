@@ -50,7 +50,8 @@
                     <b> Spokojnosť</b> 
                     <br> 
                     Spokojnosť hráča funguje od jeho 23 roka a je ovplyvnená tým, ako často hráva ligové zápasy. Začína na úrovni 0% a hýbať smerom hore (100%) alebo dole (-100%) sa začína vtedy, ak je hráč v týme viac ako 9-týždňov. Každý ďaľší týždeň nasleduje pohyb o 18% ak 
-                    hráč hráva pravidelne a má odohrané viac ako <sup>3</sup>/<sub>4</sub> zápasov. Ak hráč hráva sporadicky a má odohrané menej ako <sup>1</sup>/<sub>4</sub> zápasov, tak spokonnosť klesá o -18%. V prípade, že hráč hráva striedavo a má odohrané medzi <sup>1</sup>/<sub>4</sub> - <sup>3</sup>/<sub>4</sub> zápasov, tak spokojnosť stagnuje a nehýbe sa. 
+                    hráč hráva pravidelne a má odohrané viac ako <sup>3</sup>/<sub>4</sub> zápasov. Ak hráč hráva sporadicky a má odohrané menej ako <sup>1</sup>/<sub>4</sub> zápasov, tak spokonnosť klesá o -18%. V prípade, že hráč hráva striedavo a má odohrané 
+                    medzi <sup>1</sup>/<sub>4</sub> - <sup>3</sup>/<sub>4</sub> zápasov, tak spokojnosť stagnuje a nehýbe sa. 
                     Spokojnosť má význam len u nechránených hráčov – viac informácií je v časti <a href="index.php?navod=nechraneni_hraci">Trh</a> . 
                     <br><br> 
                     Ak je hráč v mužstve spokojný, domácemu mužstvu stačí ponúknuť 75-100% najvyššej ponuky (podľa spokojnosti hráča), ak je nespokojný, musí ponúknuť 100-130% najvyššej ponuky.
@@ -87,14 +88,14 @@
                     <u> Vernostný bonus </u>
                     <br> 
                     Manažér bude môcť každú sezónu vybrať 1 hráča zo základnej zostavy, ktorému vyplatí <u><i> tzv. vernostný bonus </i></u>. Tento bonus zvýši natrvalo hráčovu lojalitu, ale na druhej strane môže mať negatívny vplyv na lojalitu iných hráčov,
-                    ktorí bonus nedostali. Vyplatiť bonus môžte cez linku Zmluva z detailu hráča. O pozitívnom aj negatívnom vplyve budete detailne informovaní pred vyplatením konkrétneho bonusu. Lojalita sa nedá meniť u hráčov, ktorí sú aktuálne na trhu
-                    a týka sa to pozitívnej aj negatívnej zmeny. <span class="red">Výšku vernostného bonusu ovplyvňuje ekonomická úroveň mužstva a aktuálna lojalita hráča.</span>
+                    ktorí bonus nedostali. Vyplatiť bonus môžete cez linku "Zmluva" z detailu hráča alebo cez <img style="icons" src="./icons/plusko.gif"> , ktoré nájdete tiež v detailnom okne hráča. O pozitívnom aj negatívnom vplyve budete detailne informovaní pred vyplatením konkrétneho bonusu. Lojalita sa nedá meniť u hráčov, ktorí sú aktuálne na trhu
+                    a týka sa to pozitívnej aj negatívnej zmeny. Na zmenu lojality hráča je potrebné splniť podmienku 20 odohraných zápasov za sezónu (rátajú sa zápasy základnej časti a playoff, playout nie). <span class="red">Výšku vernostného bonusu ovplyvňuje ekonomická úroveň mužstva a aktuálna lojalita hráča.</span>
                     <br><br><br>
                     <a class="oprava_lojality"><u> Oprava lojality - dočasné riešenie </u>
                     <br> 
                     Táto zdarma možnosť bude k dispozícii od 5.12.2021 a bude k dispozícii minimálne dve sezóny a maximálne do odvolania. 
                     <br>
-                    Možnosť zvýšiť lojalitu o jeden stupeň zdarma pre 2 hráčov za sezónu sa bude dať použiť naposledy na konci tejto sezóny (94), čiže do 22.4.2022 23:59 HA času. 
+                    Možnosť zvýšiť lojalitu o jeden stupeň zdarma pre 2 hráčov za sezónu sa bude dať použiť naposledy na konci tejto sezóny (94), čiže   do 22.4.2022 23:59 HA času. 
                     <br><br> 
                     V nadväznosti na opravu chyby pred pár týždňami (viď. novinku "Chyba juniorskej prípravky"), sme pripravili možnosť zvýšiť lojalitu o jeden stupeň zdarma (a bez ďalšieho hráča, ktorému sa zníži lojalita): 2 vybraným hráčom za sezónu. Ďalší, 3. hráč bude môcť dostať zvýšenie lojality "za peniaze" za rovnakých podmienok ako doteraz. Jednému hráčovi je možné zvýšiť týmto spôsobom lojalitu iba o jeden stupeň v jednej sezóne. Jednému hráčovi sa dá zvýšiť lojalita o jeden stupeň v jednej sezóne a potom o ďalší stupeň až v ďalšej sezóne.
                     Hráči na zvýšenie lojality zdarma musia mať odohraný v sezóne aspoň jeden zápas a 5 minút na ľade. 
