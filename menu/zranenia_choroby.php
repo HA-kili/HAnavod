@@ -8,5 +8,5 @@
                     <br><br> Zranení a chorí hráči sa zobrazujú s ikonkou malej lekárničky <img class="icons" src="./icons/lekarnicka.gif" > . 
                     <br><br> Zranenému hráčovi sa zníži forma o 2body za každý deň  zranenia. Podľa závažnosti zranenia to môže byť aj viac.  
                     <br><br> Zraneným hráčom sa dĺžka zranenia mení (zmenšuje) každý deň po prepočte, čiže po 22:00 hod. 
-                    <br><br> Zranenie hráča je možné zmenšiť pomocou dresu “Zranenie“ – sekcia <a href="specialne_dresy.html">Dresy</a>
+                    <br><br> Zranenie hráča je možné zmenšiť pomocou dresu “Zranenie“ – sekcia <a href="index.php?navod=specialne_dresy">Dresy</a>
                     <br><br>
