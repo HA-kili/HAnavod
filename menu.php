@@ -54,7 +54,7 @@
                             <li><a class="level1" href="index.php?navod=specialne_dresy">Špeciálne dresy hráčov</a></li>
                             <li><a class="level1" href="index.php?navod=darovanie_dresu">Darovanie dresu</a></li>
                             <li><a class="level1" href="index.php?navod=zranenia_choroby">Zranenia a choroby</a></li>
-                            <li><a class="level1" href="index.php?navod=zivotnost_hraca">Životnosť hráčov </a></li>
+                            <li><a class="level1" href="index.php?navod=zivotnost_hracov">Životnosť hráčov </a></li>
                         </ul>
                     </li>
                     <li><a data-submenu="submfor" class=" dropdown-btn " onclick="return false;" href="index.php?navod=nastavenie_zostavy">Formácie a taktiky</a>
