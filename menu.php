@@ -44,7 +44,7 @@
                         </ul>
                     </li>
                     <li><a data-submenu="submplayer" class=" dropdown-btn " onclick="return false;" href="index.php?navod=zakladne_atributy">Hráči</a>
-                        <ul class="sub  submplayer <?php active(explode(",", "zakladne_atributy,dalsie_atributy,statistiky,hviezdy,hviezda_tyzdna,klucovy_hrac,specialne_dresy,darovanie_dresu,zranenia_choroby,zivotnost_hraca"))?>">
+                        <ul class="sub  submplayer <?php active(explode(",", "zakladne_atributy,dalsie_atributy,statistiky,hviezdy,hviezda_tyzdna,klucovy_hrac,specialne_dresy,darovanie_dresu,zranenia_choroby,zivotnost_hracov"))?>">
                             <li><a class="level1" href="index.php?navod=zakladne_atributy">Základné atribúty</a></li>
                             <li><a class="level1" href="index.php?navod=dalsie_atributy">Ďalšie atribúty hráča</a></li>
                             <li><a class="level1" href="index.php?navod=statistiky">Štatistiky</a></li>
