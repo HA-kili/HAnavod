@@ -11,3 +11,5 @@
                     <br><br>
                     <b> Manažér môže mať v jednom momente zadaných max 10 automatických ponúk !!! </b>
                     <br><br>
+                    <b> Nieje možné poslať ponuku na hráča, ktorý odišiel z mužstva skôr ako pred 3 mesiacmi (90 dní) !!! </b>
+                    <br><br>

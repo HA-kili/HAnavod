@@ -15,7 +15,9 @@
                     <u>'Automatická ponuka' </u> - táto funkcia bude automaticky posielať ponuky na hráča až do výšky zvolenej maximálnej sumy.
                     <br><br>
                     <b> Manažér môže mať v jednom momente zadaných max 10 automatických ponúk !!! </b>
-                    <br><br><br> 
+                    <br><br>
+                    <b> Nieje možné poslať ponuku na hráča, ktorý odišiel z mužstva skôr ako pred 3 mesiacmi (90 dní) !!! </b>
+                    <br><br><br>
                     V prípade, že je hráč často na trhu a nepredá sa, príde na rad dočasné zmrazenie predaja hráča, podľa počtu predchádzajúcich pokusov o predaj. 
                     Hráča je možné dať na trh okamžite, v prípade že cena je rovná alebo nižšia ako hodnota % z maximálnej vyvolávačky, viď  
                     <a href="https://www.hockeyarena.net/sk/index.php?p=manager_player_sell_sql.php&frInfo=1">Tabuľka</a> . Vyvolávacia cena 10 000 000 alebo menej nespôsobuje zmrazenie. 

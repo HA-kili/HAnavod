@@ -2,7 +2,7 @@
                 <div class="section-name"> Zoznam posledných ponúk </div>
                     <br>
                     Okno, v ktorom sa zobrazia všetky odoslané ponuky na hráčov za posledných 7 dní. K jednému hráčovi sa zobrazuje iba jedna najvyššia ponuka.
-                    Tento zoznam nájdete v menu <a href="https://www.hockeyarena.net/sk/index.php?p=manager_player_market_last_bids.php">Hráči - Trh - zoznam posledných ponúk</a> .
+                    Tento zoznam nájdete v menu <a href="https://www.hockeyarena.net/sk/index.php?p=manager_player_market_last_bids.php">Hráči - Trh - Zoznam posledných ponúk</a> .
                     <br><br>
-                    <b> !!! Nieje možné poslať ponuku na hráča, ktorý odišiel z mužstva skôr ako pred 3 mesiacmi !!! </b>
+                    <b> Nieje možné poslať ponuku na hráča, ktorý odišiel z mužstva skôr ako pred 3 mesiacmi !!! (90 dní) </b>
                     <br><br>

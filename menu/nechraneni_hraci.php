@@ -65,3 +65,5 @@
                     <br>
                     Automatická ponuka na zmluvu sa aktivuje 2 dni pred ukončením hráčovej zmluvy. 
                     <br><br>
+                    <b> Nieje možné poslať ponuku na hráča, ktorý odišiel z mužstva skôr ako pred 3 mesiacmi (90 dní) !!! </b>
+                    <br><br>
