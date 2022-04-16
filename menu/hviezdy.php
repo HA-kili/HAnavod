@@ -13,5 +13,5 @@
                     <br> 
                     Predaj sa vyhodnocuje raz týždenne v stredu a je ovplyvnený počtom a úrovňou hviezdnych hráčov mužstva a úrovňou oddelenia marketingu. Maximálny počet darčekových predmetov je 650 ks. 
                     <br><br> 
-                    Hviezdny hráči zvyšujú návštevnosť na zápasoch. Pri predaji hráča do inej ligy, alebo vyhodení, sa hráčovi hviezdny status o niečo zníži. Ak je zoznam hviezdnych hráčov prázdny, nebudú sa predávať žiadne darčekové predmety !!
+                    Hviezdni hráči zvyšujú návštevnosť na zápasoch. Pri predaji hráča do inej ligy, alebo vyhodení, sa hráčovi hviezdny status o niečo zníži. Ak je zoznam hviezdnych hráčov prázdny, nebudú sa predávať žiadne darčekové predmety !!
                     <br><br>

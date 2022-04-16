@@ -90,8 +90,8 @@
                     Manažér bude môcť každú sezónu vybrať 1 hráča zo základnej zostavy, ktorému vyplatí <u><i> tzv. vernostný bonus </i></u>. Tento bonus zvýši natrvalo hráčovu lojalitu, ale na druhej strane môže mať negatívny vplyv na lojalitu iných hráčov,
                     ktorí bonus nedostali. Vyplatiť bonus môžete cez linku "Zmluva" z detailu hráča alebo cez <img style="icons" src="./icons/plusko.gif"> , ktoré nájdete tiež v detailnom okne hráča. O pozitívnom aj negatívnom vplyve budete detailne informovaní pred vyplatením konkrétneho bonusu. Lojalita sa nedá meniť u hráčov, ktorí sú aktuálne na trhu
                     a týka sa to pozitívnej aj negatívnej zmeny. Na zmenu lojality hráča je potrebné splniť podmienku 20 odohraných zápasov za sezónu (rátajú sa zápasy základnej časti a playoff, playout nie). <span class="red">Výšku vernostného bonusu ovplyvňuje ekonomická úroveň mužstva a aktuálna lojalita hráča.</span>
-                    <br><br><br>
-                    <a class="oprava_lojality"><u> Oprava lojality - dočasné riešenie </u>
+                    <br><br>
+                    <p class="oprava_lojality"> <a href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=13835"><u> Oprava lojality - dočasné riešenie </u></a>
                     <br> 
                     Táto zdarma možnosť bude k dispozícii od 5.12.2021 a bude k dispozícii minimálne dve sezóny a maximálne do odvolania. 
                     <br>
@@ -102,7 +102,7 @@
                     <br><br> 
                     Opravená chyba ovplyvnila hráčov, ktorí momentálne majú najviac 25 rokov, ale dovolíme použiť zvýšenie lojality zdarma na akéhokoľek hráča, nech tam už nespôsobíme ďalšie zmätky. Ale upozorňujeme, že táto možnosť bude k dispozícii iba na limitované časové obdobie, tak si veľmi dobre zvážte svoju cieľovú skupinu hráčov! 
                     <br><br>  
-                    Lojalita hráča sa dá zvýšiť kliknutím na ikonu "plus" priamo z karty hráča (naľavo od lojality). </a>
+                    Lojalita hráča sa dá zvýšiť kliknutím na ikonu "plus" priamo z karty hráča (naľavo od lojality). </p>
                     <br><br><br>
                     <b> Známka a ligová známka</b>
                     <br> 
