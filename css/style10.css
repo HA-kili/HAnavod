@@ -20,11 +20,13 @@ div.contentCol a:hover {
     cursor: pointer;
 }
 
-/* collapsed sidebar styles */
+
+/* collapsed sidebar styles 
 @media only screen and (max-width: 389px)
 {
     div.contentCol .sk,
     div.contentCol .cz {
         width: 90%;
     }
-}
+} 
+*/
