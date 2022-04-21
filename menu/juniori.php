@@ -5,9 +5,11 @@
                     <br><br>
                     Len prvé dva 'pobyty' hráča na tréningovom sústredení mu dajú maximálne možné vylepšenie, každé ďalšie sústredenie už bude mať slabší účinok. 
                     <br><br>
+                    <b> Jednotlivé tréningové sústredenia (doping) NIEJE možné prenášať do ďaľšej sezóny !!! </b>
+                    <br><br>
                     <span class="red">Jednorazový poplatok za kompletné tréningové sústredenie hráča závisí od .....................</span>
                     <br><br>
-                    Manažér daľej môže jeden krát za určité obdobie (podľa úrovne oddelenia prieskumu) zmeniť vybranému hráčovi jeho počiatočnú pozíciu v mužstve a tak ovplyvniť jeho počiatočné rozdelenie atribútov. 
+                    Manažér ďalej môže jeden krát za určité obdobie (podľa úrovne oddelenia prieskumu) zmeniť vybranému hráčovi jeho počiatočnú pozíciu v mužstve a tak ovplyvniť jeho počiatočné rozdelenie atribútov. 
                     <br><br>
                     Do seniorského mužstva môžeš povýšiť aj 16 ročných hráčov, ale pozor, takéto povýšenie spôsobí zníženie potenciálu o jednu úroveň a títo hráči nebudú hrať zápasy až kým nedosiahnu 17 rokov. Výhoda je, že ich lojalita sa povýšením zvýši o jeden bod. Podmienkou
                     povýšenia je preskúmanie hráča s veľkou presnosťou.
