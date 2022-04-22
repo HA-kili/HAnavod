@@ -24,10 +24,9 @@
                     <br>
                     2. pred štyrmi sezónami vytiahli deň pred draftom TOP hráča a na tento deň sa im už nepočítalo skóre aj keď celú sezónu áno
                     <br>
-                    3. ostatné tými si strážili hodnotu vytiahnutých juniorov a aby sa posunuli ešte vyššie, tak nejakých hráčov vyhodili a tým sa znížila hodnota vytiahnutých juniorov a zvýšilo skóre
+                    3. ostatné tímy si strážili hodnotu vytiahnutých juniorov a aby sa posunuli ešte vyššie, tak nejakých hráčov vyhodili a tým sa znížila hodnota vytiahnutých juniorov a zvýšilo skóre
                     <br>
-                    4. niekto sa zbavil juniora, ktorého skôr vytiahol a zhoršoval mu pozíciu v drafte a zbavil sa ho tesne pred ukončením draftu
-                    alebo tebe prišiel nejaký junior, ktorý ti zhoršil pozíciu v drafte </i>
+                    4. pred draftom si vytiahol z juniorskej prípravy juniora, ktorý ti zvýšil hodnotu vytiahnutých juniorov a tým znížil skóre a zhoršil pozíciu v drafte
                     <br><br><br> 
                     Hodnota jednotlivých hráčov sa počíta z ich kvality, potenciálu a veku v čase povýšenia. Takže povýšenie hráča s kvalitou 95 % a potenciálom 71 % v 18 rokoch
                     zhorší pozíciu mužstva v drafte menej ako hráč s rovnakou kvalitou 95 %, ale vyšším potenciálom 94 %, alebo v nižšom veku 17 rokov. Prehľad skóre podľa kvality a potenciálu juniorov sa nachádza v 
