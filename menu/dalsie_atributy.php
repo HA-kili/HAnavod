@@ -91,7 +91,7 @@
                     ktorí bonus nedostali. Vyplatiť bonus môžete cez linku "Zmluva" z detailu hráča alebo cez <img style="icons" src="./icons/plusko.gif"> , ktoré nájdete tiež v detailnom okne hráča. O pozitívnom aj negatívnom vplyve budete detailne informovaní pred vyplatením konkrétneho bonusu. Lojalita sa nedá meniť u hráčov, ktorí sú aktuálne na trhu
                     a týka sa to pozitívnej aj negatívnej zmeny. Na zmenu lojality hráča je potrebné splniť podmienku 20 odohraných zápasov za sezónu (rátajú sa zápasy základnej časti a playoff, playout nie). <span class="red">Výšku vernostného bonusu ovplyvňuje ekonomická úroveň mužstva a aktuálna lojalita hráča.</span>
                     <br><br>
-                    <p class="oprava_lojality"> <a href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=13835"><u> Oprava lojality - dočasné riešenie </u></a>
+                    <p class="oprava_lojality"> <a href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=13835"><u> Oprava lojality - dočasné riešenie </u> </a> (ukončené)
                     <br> 
                     Táto zdarma možnosť bude k dispozícii od 5.12.2021 a bude k dispozícii minimálne dve sezóny a maximálne do odvolania. 
                     <br>
