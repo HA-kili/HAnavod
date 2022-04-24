@@ -24,7 +24,7 @@
                     <br><br>
                     Príklad : 
                     <br>
-                    Zvolená taktika formácie bude "Protiútoky". Čiže taktické profily hráčov na krídle sú Rýchly (RÝC), na centri Tvorca (TVO) alebo Nahrávač (NAH) a u obrancov je to Nahrávač (NAH) 
+                    Zvolená <a href="https://www.hockeyarena.net/sk/index.php?p=manager_lines_form_new.php"> taktika formácie</a>  bude "Protiútoky". Čiže taktické profily hráčov na krídle sú Rýchly (RÝC), na centri Tvorca (TVO) alebo Nahrávač (NAH) a u obrancov je to Nahrávač (NAH) 
                     alebo čistý (ČIS). V ďalšej tabuľke nižšie už vidíme ako tieto taktické profily hráčov trénovať. Samozrejme toto sú hlavné atribúty a okrem nich treba hráčom dotrénovať aj 
                     vedľajšie atribúty ako napr. sebaovládanie hráčov kvoli vylučovaniu. Popis jednotlivých atribútov nájdete <a href="index.php?navod=zakladne_atributy"> tu</a> .
                     </i>
