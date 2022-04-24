@@ -28,3 +28,4 @@
                     alebo čistý (ČIS). V ďalšej tabuľke nižšie už vidíme ako tieto taktické profily hráčov trénovať. Samozrejme toto sú hlavné atribúty a okrem nich treba hráčom dotrénovať aj 
                     vedľajšie atribúty ako napr. sebaovládanie hráčov kvoli vylučovaniu. Popis jednotlivých atribútov nájdete <a href="index.php?navod=zakladne_atributy"> tu</a> .
                     </i>
+                    <br><br>
