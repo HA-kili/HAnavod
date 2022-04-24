@@ -43,9 +43,7 @@
                     zobrazovať kam mužstvá mierili strely, v prípade že ani jedno z mužstiev nie je vlastnené skúmajúcim manažérom. 
                     <br><br>
                     <u> Prieskum hráča</u> - v prípade špeciálneho záujmu o niektorého hráča je možné zadať v oddelení prieskumu (alebo na karte hráča) jeho dôkladné preskúmanie. Po ukončení dôkladného prieskumu budú k dispozícii niektoré atribúty hráča, ktoré boli dovtedy skryté a u cudzích
-                    hráčov aj ich schopnosti. Takto je možné preskúmať 3 hráčov za deň. 
-                    <br>          
-                    Hráča je možné preskúmať za peniaze alebo okamžite, čo stojí manažéra 3 prieskumy z JP. Dôkladný prieskum hráča bude uchovaný 2 reálne roky, čo v časopriestore HA znamená cca 10,5 sezóny (ráta sa od nasledujúceho dňa a končí po prepočte). 
+                    hráčov aj ich schopnosti. Takto je možné preskúmať 3 hráčov za deň. Hráča je možné preskúmať za peniaze alebo okamžite, čo stojí manažéra 3 prieskumy z JP. Dôkladný prieskum hráča bude uchovaný 2 reálne roky, čo v časopriestore HA znamená cca 10,5 sezóny (ráta sa od nasledujúceho dňa a končí po prepočte). 
                     <br>
                     V prípade, že chcete vedieť, aké hodnoty kvality a potenciálu ukazuje Vášmu hráčovi, keby nebol preskúmaný, tak viete kliknúť na kvalitu/potenciál na karte hráča a tieto hodnoty Vám ukáže. Toto samozrejme platí iba pre tých manažérov, čo majú <a href="https://www.hockeyarena.net/sk/index.php?index.php&p=public_shop.php"> sponzorský balík </a> .
                     <br><br>
