@@ -30,7 +30,7 @@
                     <b> Kvalita </b> 
                     <br> 
                     Veľmi dôležitá vlastnosť hráča, ktorá síce neovplyvňuje priamo jeho výkon na zápasoch, ale má veľký vplyv na rýchlosť tréningu. Navyše, keď atribút hráča dosiahne úroveň 250% kvality, tréning toho atribútu sa výrazne
-                    spomalí. Kvalita je určená výpočtom už pri "narodení" hráča a neskôr sa nemení.
+                    spomalí. Kvalita je určená výpočtom už pri "narodení" hráča a neskôr sa nemení. Hráči s kvalitou menšou ako 80 pri vyhodení z mužstva budú nenávratne vymazaný z hry a hráči s kvalitou väčšou ako 80 idú na trh ako voľní hráči. 
                     <br><br>
                     <b> Potenciál </b> 
                     <br> 
