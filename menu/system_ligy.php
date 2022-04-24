@@ -41,7 +41,7 @@
                     <br><br>
                     Pozícia mužstva v tabuľke sa hodnotí podľa počtu bodov, rozdielu gólov a najviac strelených gólov. 
                     <br><br>
-                    Z ligy zostupujú 4 mužstvá na pozíciách 13-16 (mužstvá na pozíciách 13 a 15 zostupujú do nepárnej vetvy, mužstvá na pozíciách 14 a 16 zostupujú do párnej vetvy).
+                    Z ligy zostupujú 4 mužstvá na pozíciách 13-16 (mužstvá na pozíciách 13-15 a 14-16 zostupujú do nižších líg spoločne).
                     <br><br><br><br>
                     <b><h2>Všeobecné informácie</h2></b>
                     Celá sezóna trvá 70 dní (10 týždňov). <br><br> Vygenerovanie novej sezóny, zostarnutie hráčov o 1 rok, nastavenie tendencie zmeny fanklubu a nálady mužstva na východiskové hodnoty, postup a zostup mužstiev, a mnoho ďaľších sa uskutočňuje automaticky
