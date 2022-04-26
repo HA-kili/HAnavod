@@ -46,7 +46,8 @@
                     <br> Stredná - spotreba energie: 102% 
                     <br> Vysoká - spotreba energie: 105% 
                     <br> Rež a rúbaj - spotreba energie: 111%
-
+                    <br><br>
+                    Viac info v sekcii <a href="index.php?navod=hra_telom">Hra telom</a> .
                     <br><br><br>
                     <b><h1> Mierenie streľby </b></h1>
                     Manažér môže nastaviť dve zmeny mierenia streľby na bránu počas zápasu. 
