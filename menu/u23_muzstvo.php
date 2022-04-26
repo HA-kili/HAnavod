@@ -46,7 +46,7 @@
                     12. 24 roční hráči v U23 mužstve na konci sezóny po zostarnutí hráčov 
                     <ul>    
                         <li> všetci budú automaticky presunutí do hlavného mužstva </li>
-                        <li> jeden z nich, ten s najvyšším IŠ, sa objaví automaticky na nechránenom trhu </li>
+                        <li> jeden z nich, ten s najvyšším IŠ, sa objaví automaticky na nechránenom trhu (v prípade, že majiteľ hráča podpíše na menej ako 210 dní, tak tomuto hráčovi sa zmluva automaticky obnoví a na NT pôjde až vo veku 27 rokov.) </li>
                     </ul>
                     <br><br>
                     <b> U23 mužstvo je možné opustiť ihneď v Menu <a href="https://www.hockeyarena.net/sk/index.php?p=sponsor_multiteam.inc">Manažér, B/U23 mužstvo</a> . Všetci hráči budú automaticky presunutí do hlavného A mužstva. </b>
