@@ -12,7 +12,9 @@
                     <br><br> 
                     Manažéri so <a href="https://www.hockeyarena.net/sk/index.php?index.php&p=public_shop.php">sponzorským balíkom</a> majú možnosť upravovať čas uzávierky svojich predávaných hráčov. Okrem toho majú možnosť v prípade záujmu o 
                     kúpu hráča, ktorého uzávierka sa bude končiť v čase, keď manažér nebude prítomný v hre, môže pri odosielaní ponuky zapnúť možnosť
-                    <u>'Automatická ponuka' </u> - táto funkcia bude automaticky posielať ponuky na hráča až do výšky zvolenej maximálnej sumy.
+                    <u>'Automatická ponuka' </u> - táto funkcia bude automaticky posielať ponuky na hráča až do výšky zvolenej maximálnej sumy. 
+                    <br>
+                    POZOR !!! Automatická ponuka sa neaktivuje, ak je v mužstve <a href="https://www.hockeyarena.net/sk/index.php?p=manager_summary.php"> maximálny počet hráčov</a> (64) vrátane aktuálnych ponúk na NT. 
                     <br><br>
                     <b> Manažér môže mať v jednom momente zadaných max 10 automatických ponúk !!! </b>
                     <br><br>

@@ -1,7 +1,7 @@
 
-                <div class="section-name"> Klesanie atribútov v % od </div>
+                <div class="section-name"> Klesanie atribútov v % </div>
                     <br>
-                    <u> Takto bude vyzerať klesanie potenciálov u dotknutých hráčov: </u>
+                    Takto bude vyzerať <a href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=10267"> klesanie potenciálov</a> u dotknutých hráčov: 
                     <br><br><b> MAX-6 </b>
                     <br> 0% -3% -6% -12% -18% -27% -36% -42% 
                     <br><br><b> MAX-5 </b>
