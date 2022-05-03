@@ -83,7 +83,11 @@
                     <b> Súper stiahol ľubovoľnú formáciu </b>
                     <br> 
                     Vyhodnocuje sa raz pri dosiahnutí času akcie, ak už súper stiahol zo zápasu formáciu, podmienka bude splnená. Kontroluje sa znovu, keď súper stiahne ľubovoľnú formáciu neskôr.
-                    <br><br><br><br>
+                    <br><br><br>
+                    <b> UPOZORNENIE !!! 
+                    <br> Pokiaľ robíte zmeny v nastaveniach taktiky na jednotlivý zápas cez <img class="icons" src="./icons/nastavenie.png"> , či už pridaním novej podmienky cez <img class="icons" src="./icons/modre_plus.png" > alebo len zmenou pôvodnej podmienky, tak treba túto zmenu 
+                    potvrdiť tlačítkom <img class="icons" src="./icons/zelena_fajfka.png"> . </b>
+                    <br><br><br>
                     <b> Jednotlivé taktické nastavenia je možné vytvárať aj mazať !!! Prednastavené sú “Doma“ a “Priateľské“
                     – Menu <a href="https://www.hockeyarena.net/sk/index.php?p=manager_tactics_form.php">Mužstvo - Nastavenia zápasu</a> </b> .
                     <br><br>
