@@ -91,6 +91,18 @@
                     <a href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=12657"><u> 18.06.2020 - Jún: Zotavenie </u></a>
                     <br> Bonus: Pri aktivovaní tohto dresu sa skráti aktuálne zranenie hráča o 2 dni
                     <br> Pri deaktivácii : sa nestane nič, hráčovi sa nevráti zranenie spať 
-                    <br><br> <br>
+                    <br><br> 
+                    <a href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=12544"><u> 30.04.2020 - Máj: Playoff spása</u></a>
+                    <br> Bonus: Útok +10
+                    <br> Pri deaktivácii : zodpovedné znmíženie útoku
+                    <br><br>
+                    <a href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=12516"><u> 04.04.2020 - Apríl: Jarný odmäk</u></a>
+                    <br> Bonus: Streľba +10
+                    <br> Pri deaktivácii : zodpovedné zníženie sreľby
+                    <br><br>
+                    <a href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=12431"><u> 15.03.2020 - Marec: Vyformuj sa </u></a>
+                    <br> Bonus: Forma +20 a Energia +5
+                    <br> Pri deaktivácii : zodpovedné zníženie formy a energie
+                    <br><br><br>
                     <b> Dres je možné deaktivovať po dvoch týždňoch od aktivácie. </b>
                     <br><br>

@@ -1,13 +1,15 @@
 
                 <div class="section-name"> Darovanie dresu </div>
                     <br>
+                    <a href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=12769"><b> Darovanie dresu</b></a>
+                    <br><br>
                     Darovať sa dá iba dres, ktorý nebol použitý alebo darovaný. 
                     <br><br> 
                     Dres nie je možné darovať v U23 mužstvách. 
                     <br><br> 
                     Cieľový hráč musí byť aspoň 50 týždňov v mužstve. 
                     <br><br> 
-                    Cieľový hráč sa musí umiestniť v koncosezónnych hodnotených individuálnych
+                    Cieľový hráč sa musí umiestniť v aktuálnych hodnotených (koncosezónnych) individuálnych
                     TOP štatistikách !!! Čiže zoznam hráčov, ktorí môžu získať dres sa zmeni po ZČ. 
                     <br><br>
                     Darovať dres môžu iba mužstvá so <a href="https://www.hockeyarena.net/sk/index.php?index.php&p=public_shop.php"> sponzorským balíkom </a>  
