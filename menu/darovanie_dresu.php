@@ -15,10 +15,10 @@
                     Darovať dres môžu iba mužstvá so <a href="https://www.hockeyarena.net/sk/index.php?index.php&p=public_shop.php"> sponzorským balíkom </a>  
                     a to iba jedenkrát za sezónu.
                     <br><br><br><br>
-                    <b> Od dnes <u> 06.02.2022 </u> sa zmenili podmienky pre darovania dresu, ktoré ale budú platiť iba pre dresy
+                    <b> Od dnes <a href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=13977"><u> 06.02.2022 </u></a> sa zmenili podmienky pre darovanie dresu, ktoré ale budú platiť iba pre dresy
                     získané odteraz a neskôr. Pre existujúce dresy platia pôvodné podmienky darovania.  </b>
                     <br><br>
-                    <u> Nové podmienky : </u>
+                    <u> Nové podmienky darovania : </u> 
                     <br><br>
                     Vek : 21 - 27 rokov 
                     <br>
