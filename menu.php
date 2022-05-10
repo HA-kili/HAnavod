@@ -22,7 +22,7 @@
                         </ul>
                     </li>
                     <li><a data-submenu="sub" class=" drop " href="index.php?navod=system_hry">Systém hry </a></li>
-                    <li><a data-submenu="submsys" class=" dropdown-btn " onclick="return false;" href="index.php?navod=system_ligy">Systém ligy, turnajov, repre </a>
+                    <li><a data-submenu="submsys" class=" dropdown-btn " onclick="return false;" href="index.php?navod=system_ligy">Systém ligy, turnajov, reprezentácie </a>
                         <ul class="sub submsys <?php active(explode(",", "system_ligy,system_turnajov,system_repre"))?>">
                             <li><a class="level1" href="index.php?navod=system_ligy">Systém ligy </a></li>
                             <li><a class="level1" href="index.php?navod=system_turnajov">Systém turnajov</a></li>
