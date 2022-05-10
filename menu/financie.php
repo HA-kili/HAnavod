@@ -8,7 +8,7 @@
                     Mužstvo môže utrácať hotovosť až po - 15 000 000, ak klesne hotovosť pod -50 000 000, bude manažérovi zablokovaný prístup do mužstva dovtedy, kým hotovosť znovu nestúpne nad túto sumu. 
                     Manažér bude mať k dispozícii tri prihlásenia, kde bude môcť urobiť opatrenia, aby hotovosť začala stúpať (predaj hráčov, zbúranie zázemia štadióna, iné...). 
                     <br><br> 
-                    Mužstvám s hotovosťou pod -50 000 000 sa všetky aktuálne úrovne zázemia nastavia automaticky na 0. Ak sa finančná situácia zlepší systém znova nastaví zázemie na max. hodnoty. 
+                    Mužstvám s hotovosťou pod -50 000 000 sa všetky aktuálne úrovne zázemia nastavia automaticky na 0. Ak sa finančná situácia zlepší, systém znova nastaví zázemie na max. hodnoty. 
                     <br><br>
                     <b> Maximálna možná hotovosť mužstva je 12 000 000 000. </b>
                     <br><br>

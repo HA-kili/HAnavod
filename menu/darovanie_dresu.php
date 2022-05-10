@@ -10,7 +10,7 @@
                     Cieľový hráč musí byť aspoň 50 týždňov v mužstve. 
                     <br><br> 
                     Cieľový hráč sa musí umiestniť v aktuálnych hodnotených (koncosezónnych) individuálnych
-                    TOP štatistikách !!! Čiže zoznam hráčov, ktorí môžu získať dres sa zmeni po ZČ. 
+                    TOP štatistikách !!! Čiže zoznam hráčov, ktorí môžu získať dres, sa zmení po základnej časti. 
                     <br><br>
                     Darovať dres môžu iba mužstvá so <a href="https://www.hockeyarena.net/sk/index.php?index.php&p=public_shop.php"> sponzorským balíkom </a>  
                     a to iba jedenkrát za sezónu.
