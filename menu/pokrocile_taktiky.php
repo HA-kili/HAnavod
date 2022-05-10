@@ -26,7 +26,7 @@
                     Manažér má k dispozícii celkom 30 bodov na rozdelenie medzi jednotlivé tretiny a herné činnosti. Rozdelené body zvyšujú výkonnosť mužstva v danej hernej činnosti – útoku alebo obrane. Čím viac
                     bodov, tým vyšší výkon. Na predĺženie je možné rozdeliť extra 10 taktických bodov.
                     <br>
-                    <a class="red"> Napríklad 'Taktické body ofenzíva 15 defenzíva 5' nastaví bonus 15:5 v prospech ofenzívy. Môžete použiť všetky body v jednej tretine alebo ich môžete rozdeliť rovnomernejšie na celý zápas.
+                    <p class="red"> Napríklad 'Taktické body ofenzíva 15 defenzíva 5' nastaví bonus 15:5 v prospech ofenzívy. Môžete použiť všetky body v jednej tretine alebo ich môžete rozdeliť rovnomernejšie na celý zápas.
                     Body nastavené v prvej tretine sa použijú na celý zápas, ak nebude toto rozdelenie zmenené v ďalších tretinách.
                     Ak mužstvo prekročí počas zápasu limit 30 bodov na jeden zápas, systém použije maximum zostávajúcich bodov v aktuálnej tretine a zvyšok zápasu sa odohrá s 0:0.
                     <br>
@@ -36,7 +36,7 @@
                     <br>
                     2. tretina - 10:0
                     <br>
-                    3. tretina - 0:0 </a>
+                    3. tretina - 0:0 </p>
                     <br><br><br>              
                     <b><h1> Agresivita </b></h1> 
                     Manažér má možnosť počas zápasu meniť agresivitu podľa zvolených podmienok. Agresivita v spojení so silou a sebaovládaním hráča môže mať pozitívny vplyv na celkovú prevahu formácie na ľade, ale pri nízkom sebaovládaní

@@ -7,7 +7,7 @@
                     <br><br>
                     Je možnosť zasielať hromadné ponuky pre sponzorov, ale iba ak máš <a href="https://www.hockeyarena.net/sk/index.php?index.php&p=public_shop.php"> sponzorský balík </a>. 
                     <br><br> 
-                    Nieje možné posielať ponuky na nové zmluvy pre ligových sponzorov v prípade ak mužstvo ešte má platnú zmluvu rovnakého typu/umiestnenia min. 2týždne.
+                    Nieje možné posielať ponuky na nové zmluvy pre ligových sponzorov v prípade ak mužstvo ešte má platnú zmluvu rovnakého typu/umiestnenia min. 2 týždne.
                     <br><br> 
                     Existuje možnosť okamžite vymazať existujúcu reklamnú zmluvu.
                     <br><br>

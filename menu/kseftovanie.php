@@ -70,16 +70,16 @@
                     <br><br> 
                     Zisk hrubý – rozdiel medzi nákupnov a predejnou cenou hráča
                     <br><br> 
-                    zisk (strata) z predaje hráča, upravená podľa koeficientu dĺžky pôsobenia v týme – čím se dĺžka vlastníctva hráča viac blíži k hranici 280 dní v týme, tím menšia čásť zisku sa do 'Zisku na trhu' započítáva. 
+                    Zisk (strata) z predaje hráča, upravená podľa koeficientu dĺžky pôsobenia v týme – čím se dĺžka vlastníctva hráča viac blíži k hranici 280 dní v týme, tím menšia čásť zisku sa do 'Zisku na trhu' započítáva. 
                     Presný vzorec pre výpočet je:
                     <br> 
                     hrubý zisk * 1/280 * (počet dní v týme)
                     <br><br> 
                     Zvýšenie celkového zisku na trhu XX.sezóna – celkový kšeftársky zisk sezóny, ktorý sa pri veľkom prepočtu pripočíta k 'Zisku na trhu'
-                    <br><br>
+                    <br><br><br>
                     <b> Obecné informácie: </b>
                     <br><br> 
-                    Prečo bol status kšeftára zavedený?
+                    <i> Prečo bol status kšeftára zavedený?
                     <br><br> 
                     Jedná se o systémový nástroj, ktorý má za účel obmedzit nadmerné obchodovánie s hráčmi za účelom zisku. „Kšeftovánie“ s hráčmi nieje na HA zakázané, ak dosiahnu však zisky mužstva z predeje hráčov, ktorí sú v týme krátku dobu (menej
                     ako 4 sezony), určité hranice, je manažér obmedzený navýšením poplatkov za niektoré funkcie v hre a ďalej „zdanením“ predaje takýchto hráčov až do 14% predajnej čiastky. Zmyslom je zachovať konkurencieschopnost i pre manažérov, ktorých herná
@@ -94,4 +94,5 @@
                     Druhá cesta je znížiť celkový Zisk na trhu na nulu platením kšeftarských poplatkov – je možné využiť napr. prieskumy hráčov za zvýšenú cenu, alebo zaplatením poplatkou za klúčového hráča, tréningové sústredenie v juniorskej prípravke
                     alebo vernostný bonus – zaplatená suma sa ihneď odpočítavá od 'Zisku na trhu'. Sledovaním celkovej čiastky 'Zisku na trhu' sa dá pomerne presne monitorovať, kolko ešte zostáva ku zbaveniu sa titulu „kšeftára“. Do kšeftárskych poplatkov sa radia
                     i mierne zvýšená cena za chod štadióna u manažérov, ktorí sú „kšeftári“ – tieto poplatky sú rovnako priebežne odpočítané od 'Zisku na trhu'.
+                    </i>
                     <br><br>

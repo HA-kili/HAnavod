@@ -39,5 +39,5 @@
                     <br><br>
                     <b> Minimálna draftová hodnota hráča je 11%, všetky nižšie hodnoty sa automaticky budú rovnať 0%. </b>
                     <br><br> 
-                    V aktuálnom drafte sú skryté mená a talent hráčov. Talent a meno hráčov v drafte bude známy iba u plne preskúmaných hráčov (kvalita, potencál). 
+                    V aktuálnom drafte sú skryté mená a talent hráčov. Talent a meno hráčov v drafte bude známy iba u plne preskúmaných hráčov (kvalita, potenciál). 
                     <br><br>

@@ -1,7 +1,7 @@
 
                 <div class="section-name"> Sponzorský balík </div>
                 <br>
-                <b> Sponzorský balík </b> je súbor špeciálnych vylepšení pre manažérov, ktorí majú radi Hockey Arenu a trávia tu veľa času. Po zakúpení sponzorského balíku sa staneš sponzorom Hockey Areny a získaš prístup k funkciám, ktoré
+                <b> Sponzorský balík </b> je súbor špeciálnych vylepšení pre manažérov, ktorí majú radi HockeyArenu a trávia tu veľa času. Po zakúpení sponzorského balíku sa staneš sponzorom Hockey Areny a získaš prístup k funkciám, ktoré
                 zlepšia komfort a zábavu pri hraní. Každý sponzor bude v hre označený ikonkou puku <img class="icons" src="./icons/puk.gif" > .
                 <br><br> 
                 Zakúpením sponzorského balíka nám pomáhaš ďalej vyvíjať a zlepšovať Hockey Arenu.
@@ -90,7 +90,8 @@
                     <li> Nová sponzorská funkcia, ktorá zobrazí sumár všetkých preskúmaných aj nepreskúmaných zápasov týkajúcich sa jedného gólmana, stačí kliknúť na linku prieskum pri slabom mieste z karty hráča. </li>
                     <li> Hromadné odoslanie ponúk <a href="https://www.hockeyarena.net/sk/index.php?p=manager_league_sponsors.inc">sponzorom</a> . </li> 
                     <li> Vymeniť hráča vo všetkých formáciách. </li> 
-                    <li> Presun hráča do U23 mužstva alebo späť do hlavného mužstva bude možný so SB raz za 24h, zrušené U23 mužstvo (z dôvodu nedostatku hráčov alebo na žiadosť manažéra) bude možné znovuzaložiť najskôr po 2 dňoch. </li>
+                    <li> Presun hráča do U23 mužstva alebo späť do hlavného mužstva bude možný so sponzorským balíkom raz za 24h </li>
+                    <li> Zrušené U23 mužstvo (z dôvodu nedostatku hráčov alebo na žiadosť manažéra) bude možné znovuzaložiť najskôr po 2 dňoch. </li>
                     <li> V menu <a href="https://www.hockeyarena.net/sk/index.php?p=manager_team_statistics.php">Hráči - Štatistiky</a>  sa už zobrazuje celková dĺžka zranenia hráča za sezónu. </li>
                     <li> iné </li>
                 </ul>

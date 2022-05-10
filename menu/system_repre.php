@@ -1,7 +1,7 @@
 
                 <div class="section-name"> Systém reprezentácie </div>
                     <br>
-                    <b><h4> Majstrovstvá sveta </h4></b>
+                    <b><h4> Majstrovstvá sveta (MS)</h4></b>
                     Mužstvá sú do základných skupín (A, B, C, D) nasadzované po štyroch. Hrá sa systémom každý s každým. Prvé tri tímy postupujú ďalej do skupín (E, F), 
                     posledný v skupine bude hrať v skupine (13-16) o záchranu. 
                     <br><br> 
@@ -15,7 +15,7 @@
                         <li><u> Finále </u> – sa hrá na jeden víťazný zápas. Víťaz je majster sveta. Porazený skončil na druhom mieste. </li>
                     </ul>
                     <br><br>
-                    <u> Kritéria pri rovnosti bodov na MS  </u>
+                    <u> Kritéria pri rovnosti bodov na Majstrovstvách sveta </u>
                     <br><br>
                     Ak po odohraní všetkých duelov v skupine budú mať totožný počet bodov dva tímy, o postavení v skupine rozhodne vzájomný duel. Ak takýto stav nastane v nižších kategóriách, kde 
                     sa hrá na 2 vzájomné zápasy, tak v prípade rovnosti bodov rozhoduje koeficient (viď výpočet nižšie) a v prípade rovnakého koeficientu následne rozhoduje celkové skóre. 
@@ -41,5 +41,5 @@
                         <br> LOT 100*(2-3) + 2= -98 
                     </ul>
                     <br>
-                    <b><h1> Ďalšie informácie k reprezentácii nájdete v sekcii <a href="index.php?navod=reprezentacia"> B / U23 / repre </a> . </h1></b>
+                    <b><h1> Ďalšie informácie k reprezentácii nájdete v sekcii <a href="index.php?navod=reprezentacia"> B / U23 / Reprezentácia </a> . </h1></b>
                     <br><br>

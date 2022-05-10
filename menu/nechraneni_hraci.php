@@ -59,11 +59,11 @@
                     Automatický systém posiela hráčovi ten typ zmluvy, ktorý použije najmenšiu možnú sumu z aktuálnej hotovosti mužstva!!! 
                     <br>
                     Okrem toho platia v automatickom systéme rovnaké obmedzenia (podľa hotovosti mužstva a podľa hráčovej lojality)
-                    ako pri manuálnej ponuke. Hráč s lojalitou -3 neumožňuje danie automatickej ponuky – predĺženie zmluvy pred odchodom na NT !!!
+                    ako pri manuálnej ponuke. Hráč s lojalitou -3 neumožňuje danie automatickej ponuky – predĺženie zmluvy pred odchodom na nechránený trh - NT !!!
                     <br><br>
                     <p class="red">Nové mužstvá môžu posielať ponuky nechráneným hráčom z iných mužstiev iba do výšky 10-100% z aktuálnej hotovosti, toto percento sa zvyšuje podľa dôvery majiteľov mužstva.</p>   
                     <br>
                     Automatická ponuka na zmluvu sa aktivuje 2 dni pred ukončením hráčovej zmluvy. 
-                    <br><br>
+                    <br><br><br>
                     <b> Nieje možné poslať ponuku na hráča, ktorý odišiel z mužstva skôr ako pred 3 mesiacmi (90 dní) !!! </b>
-                    <br><br>
+                    <br><br>  

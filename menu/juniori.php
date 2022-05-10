@@ -14,7 +14,7 @@
                     Do seniorského mužstva môžeš povýšiť aj 16 ročných hráčov, ale pozor, takéto povýšenie spôsobí zníženie potenciálu o jednu úroveň a títo hráči nebudú hrať zápasy až kým nedosiahnu 17 rokov. Výhoda je, že ich lojalita sa povýšením zvýši o jeden bod. Podmienkou
                     povýšenia je preskúmanie hráča s veľkou presnosťou.
                     <br><br><br>
-                    <b> Hráči, ktorí dosiahnu vek 20 rokov a stále sa nachádzajú v JP, odídu automaticky do hokejového dôchodku. </b>
+                    <b> Hráči, ktorí dosiahnu vek 20 rokov a stále sa nachádzajú v juniorskej prípravke, odídu automaticky do hokejového dôchodku. </b>
                     <br><br>
                     <u> Úrovne Juniorskej prípravky a k nim prislúchajúci počet juniorov: </u>
                     <br><b><u> 1 % až 19 % </u></b> = 168 hodín = 7 dní = za týždeň <b><u> 1 </u></b>
@@ -43,7 +43,7 @@
                     Máš k dispozícii iba obmedzený počet juniorských prieskumov, ak potrebuješ viac, musíš zvýšiť
                     úroveň svojho oddelenia prieskumu. Tieto prieskumy netreba minúť všetky hneď, pretože sa v priebehu sezóny môžu nazbierať, takže o nadbytočné neprídeš. 
                     <br><br> 
-                    Nedraftovaný hráč z JP bude mať počiatočnú skúsenosť podobne ako jeho draftovaný kamarát. 
+                    Nedraftovaný hráč z juniorskej prípravky bude mať počiatočnú skúsenosť podobne ako jeho draftovaný kamarát. 
                     <br><br>
                     <b> Počiatočné IŠ hráčov z juniorky bude závisieť od aktuálneho dňa v sezóne. </b> 
                     <br> 

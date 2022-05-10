@@ -11,7 +11,7 @@
                         <li>motivácia hráčov počas zápasu - zvyšuje sa podľa počtu divákov a úrovne roztlieskávačiek</li>
                     </ul>
                     <br> 
-                    Fanúšikovia pribúdajú a ubúdajú z fanklubu podľa výsledkov zápasov – vplyv majú ligové zápasy a zápasy SL, PNŠ, NP.  Oddelenie marketingu tiež zvyšuje počet fanúšikov, ktorí prichádzajú do fanklubu po vyhratých zápasoch.
+                    Fanúšikovia pribúdajú a ubúdajú z fanklubu podľa výsledkov zápasov – vplyv majú ligové zápasy a zápasy turnajov Svetová liga, Pohár národných šamponov a Národný pohár.  Oddelenie marketingu tiež zvyšuje počet fanúšikov, ktorí prichádzajú do fanklubu po vyhratých zápasoch.
                     Príchod fanúšikov taktiež ovplyvňuje štatistika – kanadské bodovanie, kde za umiestnenie hráčov v koncosezónnych TOP štatistikách pribudnú fanúšikovia do mužstva. </p>
                     <br>
                     Ďaľšia možnosť, kedy sa mení počet fanúšikov v mužstve je pri postupe do vyššej ligy, kedy mužstvo jednorazovo získa bonus <b>4% fanúšikov</b> z aktuálneho stavu fanklubu. Pri zostupe rovnaké množstvo fanúšikov stratí. 

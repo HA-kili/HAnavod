@@ -12,7 +12,7 @@
                     menu <a href="https://www.hockeyarena.net/sk/index.php?p=manager_settings_form.php">Manažér - Nastavenia</a>. 
                     <br><br> 
                     Všetky nasledujúce časti zázemia majú pozitívny vplyv na rôzne časti hry. Vybudovanie kvalitného zázemia je preto jedna z najdôležitejších podmienok každého úspešného mužstva. Zlepšovanie zázemia prebieha
-                    vždy v krokoch po 1%, pričom na vyšších úrovniach sa zvyšuje čas, ktorý je potrebný na dokončenie. Čas výskumu pri jednotlivých úrovniach ako aj denné náklady si voete pozrieť v 
+                    vždy v krokoch po 1%, pričom na vyšších úrovniach sa zvyšuje čas, ktorý je potrebný na dokončenie. Čas výskumu pri jednotlivých úrovniach ako aj denné náklady si viete pozrieť v 
                     menu <a href="https://www.hockeyarena.net/sk/index.php?p=manager_stadium.inc">Mužstvo - Štadión</a> po kliknutí na <img class="icons" src="./icons/otaznik2.png" > . 
                     <br><br>         
                     Po zvolení možnosti "Postav" sa zobrazí okno s cenou zvoleného zlepšenia. 

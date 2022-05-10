@@ -4,8 +4,8 @@
                     Nálada mužstva je jeden z faktorov, ktorý určuje <a href="https://www.hockeyarena.net/sk/index.php?p=manager_scouting_form.php">motiváciu</a> hráčov na zápase (motivíciu je možné vidieť v oddelení prieskumu).  Nálada sa mení sa v týchto prípadoch : 
                     <br>
                     <ul>
-                        <li> ligový zápas, zápasy SL, NP a PNŠ s nízkou dôležitosťou - zlepšenie </li>
-                        <li> ligový zápas, zápasy SL, NP a PNŠ s vysokou dôležitosťou - zhoršenie </li>
+                        <li> ligový zápas, zápasy turnajov Svetová liga, Národný pohár a Pohár národných šampiónov s nízkou dôležitosťou - zlepšenie </li>
+                        <li> ligový zápas, zápasy turnajov Svetová liga, Národný pohár a Pohár národných šampiónov s vysokou dôležitosťou - zhoršenie </li>
                         <li> predaj hráča, ktorý nie je v mužstve aspon 2 týždne – výrazné zhoršenie (neplatí, ak je ten hráč čerstvý junior) </li>
                         <li> predaj hráča, ktorý je v mužstve 20 týždňov a viac – mierne zhoršenie </li>
                     </ul>

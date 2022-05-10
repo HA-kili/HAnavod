@@ -8,7 +8,7 @@
                     3 dni (72h). Uzávierka pobytu hráča na trhu sa počíta podľa nastaveného počtu dní, je to počet dní krát 24 hodín od aktuálneho HM času.
                     <br><br><br>
                     <u> Doložka o neobchodovaní </u> – znamená, že hráčov starších ako 26+ rokov so zmluvou menšou ako 70 dní po prechode do nového mužstva
-                        nebude možné predať nasledujúcich 70 dní (po skončení zmluvy pôjdu na NT).
+                        nebude možné predať nasledujúcich 70 dní (po skončení zmluvy pôjdu na nechránený trh - NT).
                     <br><br> 
                     Manažéri so <a href="https://www.hockeyarena.net/sk/index.php?index.php&p=public_shop.php">sponzorským balíkom</a> majú možnosť upravovať čas uzávierky svojich predávaných hráčov. Okrem toho majú možnosť v prípade záujmu o 
                     kúpu hráča, ktorého uzávierka sa bude končiť v čase, keď manažér nebude prítomný v hre, môže pri odosielaní ponuky zapnúť možnosť

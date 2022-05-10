@@ -23,7 +23,7 @@
                     <br><br>
                     <u> Akých dobrých hráčov vlastne môžem dostať z juniorskej prípravky a od čoho to závisí ? </u>
                     <br> 
-                    Počiatočná vytrénovanosť hráča závisí od úrovne juniorskej prípravky a od jeho kvality a veku. Úroveň juniorskej prípravky neovplyvňuje kvalitu nových hráčov, takže na každej úrovni JP je rovnaká pravdepodobnosť, že nový hráč
+                    Počiatočná vytrénovanosť hráča závisí od úrovne juniorskej prípravky a od jeho kvality a veku. Úroveň juniorskej prípravky neovplyvňuje kvalitu nových hráčov, takže na každej úrovni juniorskej prípravky je rovnaká pravdepodobnosť, že nový hráč
                     bude mať kvalitu 100%.
                     <br><br> 
                     Hráč príde z juniorky so zmluvou na pár <span class="red">(6-17)</span> dní a denným platom 0.
@@ -39,12 +39,12 @@
                     <br>
                     <img class="icons" src="./icons/nechytatelna_strela.png" > - znamená presnú hodnotu. 
                     <br><br>
-                    <u> Prieskum zápasu</u> - aktivuje sa kliknutím na linku 'Preskúmaj!' v okne zápasu a výsledok je prehľad umiestnenia gólových striel. Takýto prieskum stojí manažéra 2 prieskumy z JP a bude uchovaný 70 dní. Po preskúmaní zápasu sa už nebude 
+                    <u> Prieskum zápasu</u> - aktivuje sa kliknutím na linku 'Preskúmaj!' v okne zápasu a výsledok je prehľad umiestnenia gólových striel. Takýto prieskum stojí manažéra 2 prieskumy z juniorskej prípravky a bude uchovaný 70 dní. Po preskúmaní zápasu sa už nebude 
                     zobrazovať kam mužstvá mierili strely, v prípade že ani jedno z mužstiev nie je vlastnené skúmajúcim manažérom. 
                     <br><br>
                     <u> Prieskum hráča</u> - v prípade špeciálneho záujmu o niektorého hráča je možné zadať v oddelení prieskumu (alebo na karte hráča) jeho dôkladné preskúmanie. Po ukončení dôkladného prieskumu budú k dispozícii niektoré atribúty hráča, ktoré boli dovtedy skryté a u cudzích
-                    hráčov aj ich schopnosti. Takto je možné preskúmať 3 hráčov za deň. Hráča je možné (okrem dôkladného prieskumu za peniaze) preskúmať aj okamžite, čo stojí manažéra 3 prieskumy z JP. Tento prieskum je možné uskutočniť na karte hráča po kliknutí na kvalitu/potenciál. 
-                    Po kliknutí na spomínanú kvalitu/potenciál manažér uvidí koľko takýchto prieskumov ešte môže vykonať. Ak už nemáte k dispozícii prieskumy z JP, tak dôkladný prieskum hráča nieje nijako obmedzený a môžete skúmať hráčov až do minutia hotovosti.                     
+                    hráčov aj ich schopnosti. Takto je možné preskúmať 3 hráčov za deň. Hráča je možné (okrem dôkladného prieskumu za peniaze) preskúmať aj okamžite, čo stojí manažéra 3 prieskumy z juniorskej prípravky. Tento prieskum je možné uskutočniť na karte hráča po kliknutí na kvalitu/potenciál. 
+                    Po kliknutí na spomínanú kvalitu/potenciál manažér uvidí koľko takýchto prieskumov ešte môže vykonať. Ak už nemáte k dispozícii prieskumy z juniorskej prípravky, tak dôkladný prieskum hráča nieje nijako obmedzený a môžete skúmať hráčov až do minutia hotovosti.                     
                     <br>
                     Dôkladný prieskum hráča bude uchovaný 2 reálne roky, čo v časopriestore HA znamená cca 10,5 sezóny (ráta sa od nasledujúceho dňa a končí po prepočte). 
                     <br>
@@ -73,7 +73,7 @@
                     <br> Lojalita - presná hodnota u svojich hráčov, odhad hodnoty u cudzích preskúmaných hráčov 
                     <br> Potenciál - presná hodnota
                     <br>
-                    <br> U cudzích hráčov bude vidieť presné hodnoty KV a POT až od veku 29+. V prípade, že chcetet vedieť aj lojalitu, je potrebné hráča preskúmať. 
+                    <br> U cudzích hráčov bude vidieť presné hodnoty KVALITY a POTENCIÁLU až od veku 29+. V prípade, že chcetet vedieť aj lojalitu, je potrebné hráča preskúmať. 
                     Ale aj v tomto prípade uvidíte iba kladnú (+) alebo zápornú (-) hodnotu, nie presné číslo.  
                     <br><br>
                     <u> POČET VOĽNÝCH PRIESKUMOV V JUNIORSKEJ PRÍPRAVKE PODĽA VYBUDOVANÉHO ZÁZEMIA ,,PRIESKUM,,. </u>

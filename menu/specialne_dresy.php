@@ -5,7 +5,7 @@
                     Typ dresu sa bude meniť každý mesiac. Dres bude po aktivácii možné znovu deaktivovať najskôr po 14 dňoch. 
                     Dresy je možné aktivovať / prepínať na karte hráča, po kliknutí na fotku hráča - platí iba 
                     so <a href="https://www.hockeyarena.net/sk/index.php?index.php&p=public_shop.php"> Sponzorským balíkom - SB</a> . 
-                    Bez SB je tieto zmeny možné robiť cez Menu - <a href="https://www.hockeyarena.net/sk/index.php?p=manager_jersey.inc"> Hráči - Dres </a> ,  
+                    Bez Sponzorského balíka je tieto zmeny možné robiť cez Menu - <a href="https://www.hockeyarena.net/sk/index.php?p=manager_jersey.inc"> Hráči - Dres </a> ,  
                     kde sa nachádza zoznam všetkých hráčov, ktorý vlastnia dres. Po kliknutí na hráča sa ukážu dresy, kde je následne možné robiť zmeny.
                     <br><br><br>
                     <a href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=14009"><u> 28.03.2022 - Apríl: Jarný odmäk </u></a>

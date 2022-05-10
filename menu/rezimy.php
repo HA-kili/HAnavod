@@ -5,7 +5,7 @@
                     <br><br>
                     <u> Napríklad tréningový režim pre centra môže vyzerať takto : </u>
                     <br> 
-                    Útok:40%, Streľba:30%, Sila:30%, Oddych:0% 
+                    Útok: 40%, Streľba: 30%, Sila: 30%, Oddych: 0% 
                     <br> 
                     Nazvime ho "Utok-100" 
                     <br> 
@@ -19,37 +19,37 @@
                     <br> 
                     hráč, ktorý je zaradený do režimu "Utok-100" rozdelí svoj tréningový čas nasledovne : 
                     <br> 
-                    Útok:32%, 
+                    Útok: 32%, 
                     <br> 
-                    Streľba:24%, 
+                    Streľba: 24%, 
                     <br> 
-                    Sila:24%, 
+                    Sila: 24%, 
                     <br> 
-                    Oddych:20% 
+                    Oddych: 20% 
                     <br><br>
                     Hráč trénuje jednotlivé atribúty v časoch podľa nastavenia režimu a intenzity, celý zostávajúci čas sa venuje aktívnemu oddychu.
                     <br><br>
                     Oddych hráča je možné nastaviť aj priamo v tréningovom režime tak, že pre tréning atribútov nepoužijeme 100% času, nepriradený čas sa automaticky použije ako oddych. Ak teda zmeníme režim "Utok-100" :
                     <br> 
-                    Útok:20%, 
+                    Útok: 20%, 
                     <br> 
-                    Streľba:15%, 
+                    Streľba: 15%, 
                     <br> 
-                    Sila:15%, 
+                    Sila: 15%, 
                     <br> 
-                    Oddych:50% 
+                    Oddych: 50% 
                     <br> 
                     a nazveme ho "Utok-50",
                     <br><br>
                     Samotný tréning hráča sa vykoná takto (pri nastavenej intenzite tréningu 80 %) : 
                     <br> 
-                    Útok:16%, 
+                    Útok: 16%, 
                     <br> 
-                    Streľba:12%, 
+                    Streľba: 12%, 
                     <br> 
-                    Sila:12%, 
+                    Sila: 12%, 
                     <br> 
-                    Oddych:60% 
+                    Oddych: 60% 
                     <br><br>
                     <b> Pre hráčov, ktorí hrajú zápas, nemá zmysel nastavovať oddych priamo v tréningovom režime – títo hráči oddychujú automaticky po zápase podľa aktuálnej únavy! </b>
                     <br><br>

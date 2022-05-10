@@ -68,7 +68,7 @@
                     <ul>
                         <li> ľahký alebo stredne ťažký tréning (týka sa iba hráčov, ktorí nehrajú zápas) </li>
                         <li> dobrý výkon hráča na zápase </li>
-                        <li> vyradenie hráča zo zostavy červenou rukou <img class="icons" src="./icons/cervena_ruka.png" > (<a href="https://www.hockeyarena.net/sk/index.php?index.php&p=public_shop.php">možnosť iba pre SB</a> ), hráč musí mať odohraté min polovicu 
+                        <li> vyradenie hráča zo zostavy červenou rukou <img class="icons" src="./icons/cervena_ruka.png" > (<a href="https://www.hockeyarena.net/sk/index.php?index.php&p=public_shop.php">možnosť iba pre Sponzorský Balík</a> ), hráč musí mať odohraté min polovicu 
                             zápasov aktuálneho kola, jeden zápas zastaví klesanie, popr. začne stúpať, dva zápasy sú potrebné aby hráčovi klesajúca forma začala stúpať. Toto platí v ligových zápasoch, zápasoch NP, SL a PNŠ. Upozorňujem, že zmenu červenou rukou treba
                             uskutočniť až po prepočte (cca po 22:20), v opačnom prípade sa zmeny červenou rukou anulujú.  </li>
                     </ul>

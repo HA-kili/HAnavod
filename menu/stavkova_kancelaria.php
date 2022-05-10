@@ -35,8 +35,8 @@
                     <br>
                     <b> Národné mužstvá: </b>
                     <ul>
-                        <li> MS, MS U20 Priateľský </li>
-                        <li> MS, MS U20 všetky skupiny </li>
-                        <li> MS, MS U20 Playoff </li> 
+                        <li> Majstrovstvá Sveta, Majstrovstvá Sveta U20 Priateľský </li>
+                        <li> Majstrovstvá Sveta, Majstrovstvá Sveta U20 všetky skupiny </li>
+                        <li> Majstrovstvá Sveta, Majstrovstvá Sveta U20 Playoff </li> 
                     </ul>                                
                     <br><br>
