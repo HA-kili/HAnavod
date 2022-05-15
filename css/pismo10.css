@@ -40,11 +40,27 @@ h6 {
     text-align: center;
     color: #fff;
 }
+
 /**
 a {
     color: #000;
 }
 **/
+
+#tmavy_rezim {
+    height: 14px;
+    cursor: pointer;
+}
+:root {
+    --primary-color: #f9f7f7;
+    --secondary-color: #111;
+}
+.tmavy_rezim {
+    --primary-color: #a1a1a1;
+    --secondary-color: #f9f7f7;
+}
+
+
 .icons {
     height: 14px;
 }

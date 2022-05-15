@@ -176,8 +176,8 @@ nav.menuLeft a.level1.active {
 }
 #rout li ul li .level1 {
     display: block;
-    background-color: #fff;
-    color: #000;
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
     padding: left;
     text-decoration: none;
     visibility: visible;
@@ -243,7 +243,8 @@ div.contentCol {
     padding-bottom: 20px;
     padding: 4px 15px 77px 15px;
     margin: 14px 13px 7px 13px;
-    background-color: #f9f7f7;
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
     order: 2;
     flex: 1 1 auto;
     overflow-x: visible;
@@ -251,6 +252,11 @@ div.contentCol {
     border-radius: 2px;
     position: relative;
     text-align: justify;
+}
+div.contentCol a:hover {
+    background-color: #ebeba0;
+    list-style-type: none;
+    cursor: pointer;
 }
 div.contentCol .post {
     background-color: #67ABD6;

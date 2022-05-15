@@ -14,11 +14,7 @@ div.contentCol .cz {
     background-color: #daebf5;
     list-style-type: none;
 }
-div.contentCol a:hover {
-    background-color: rgb(235, 235, 160);
-    list-style-type: none;
-    cursor: pointer;
-}
+
 
 
 /* collapsed sidebar styles 
