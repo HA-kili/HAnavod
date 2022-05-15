@@ -87,6 +87,19 @@
 
     </footer>
     
+<script>
+    var icon = document.getElementById("tmavy_rezim");
+
+    icon.onclick = function (){
+        document.body.classList.toggle ("tmavy_rezim");
+        if (document.body.classList.contains("tmavy_rezim")){
+            icon.src = "./images/slnko.png";
+        }
+        else {
+            icon.src = "./images/mesiac.png";
+        }
+    }
+</script>
 
 </body>
 </html>

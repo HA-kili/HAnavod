@@ -10,7 +10,13 @@
                 <div class="iconBar"></div>
             </div>
             <nav class="topMenu">
-                <span class="item"><a> Hockeyarena Návod </a></span>
+                <span class="item">
+                    <a> Hockeyarena Návod </a>
+                </span>
+                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                <span>
+                    <img id="tmavy_rezim" src="./images/mesiac.png" >
+                </span>
                 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
                 <span class="item">
                     <a href="https://www.hockeyarena.net/sk/index.php?p=manager_discussion_detail.php">
