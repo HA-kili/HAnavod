@@ -1,9 +1,13 @@
 
                 <div class="section-name"> Štatistiky </div>
                     <br>
-                    Štatistiky sa dajú sledovať buď ligové (<a href="https://www.hockeyarena.net/sk/index.php?p=manager_league_statistics.php&type=sco">Menu - Liga - Štatistiky</a>) 
-                    alebo týmové (<a href="https://www.hockeyarena.net/sk/index.php?p=sponsor_teams_statistics.php">Menu - Mužstvo - Štatistiky</a>).
-                    <br><br><br>
+                    Štatistiky sa dajú sledovať buď :
+                    <ul>
+                        <li> ligové (<a href="https://www.hockeyarena.net/sk/index.php?p=manager_league_statistics.php&type=sco">Menu - Liga - Štatistiky</a>) </li>
+                        <li> týmové (<a href="https://www.hockeyarena.net/sk/index.php?p=sponsor_teams_statistics.php">Menu - Mužstvo - Štatistiky</a>) </li>
+                        <li> hráčske kariérne (<a href="https://www.hockeyarena.net/sk/index.php?p=sponsor_lifetime_stats.inc">Menu - Hráči - Štatistiky</a>) </li>
+                    </ul>
+                    <br><br>
                     <h1> Ligové štatistiky sú tieto : </h1>
                     <br>
                     <i><u> Kanadské bodovanie produktivity </u></i> - poradie hráčov podľa počtu strelených gólov a nahrávok na góly. Hráč musí odohrať aspom 20 zápasov (600 minút) aby sa mohol umiestniť v koncosezónnych TOP štatistikách. 
@@ -40,3 +44,8 @@
                     <br><br> 
                     <u><i> Tréning </i></u> - sledovanie priemerného tréningu hráčov v mužstve podľa dní a týždňov + graf. 
                     <br><br>
+                    <br><br><br>
+                    <h1> Hráčske kariérne štatistiky : </h1>
+                    <br>
+                    Tu je možné sledovať <a href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=11235">kariérne štatistiky hráča</a>, ktoré sa nebudú nulovať. Jadiná výnimka bude ak hráč stráci čas v mužstve bez <a href="https://www.hockeyarena.net/sk/index.php?index.php&p=public_shop.php">sponzorského balíka</a> .  
+                    Kariérne štatistiky je možné prezerať aj jednotlivo u cudzích hráčov. V kariérnych štatistikách sa už dá zobraziť aj vlastné mužstvo.  
