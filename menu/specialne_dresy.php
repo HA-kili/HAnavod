@@ -8,6 +8,10 @@
                     Bez Sponzorského balíka je tieto zmeny možné robiť cez Menu - <a href="https://www.hockeyarena.net/sk/index.php?p=manager_jersey.inc"> Hráči - Dres </a> ,  
                     kde sa nachádza zoznam všetkých hráčov, ktorý vlastnia dres. Po kliknutí na hráča sa ukážu dresy, kde je následne možné robiť zmeny.
                     <br><br><br>
+                    <a href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=14066"> 04.06.2022 - Jún: Zotavenie</a>
+                    <br> Bonus : jednorázové skrátenie aktuálneho zranenia o 2 dni 
+                    <br> Pri deaktivácii : nič
+                    <br><br>
                     <a href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=14009"><u> 28.03.2022 - Apríl: Jarný odmäk </u></a>
                     <br> Bonus : jednorázové zvýšenie streľby o 10
                     <br> Pri deaktivácii : zodpovedajúce zníženie streľby 
