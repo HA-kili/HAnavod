@@ -12,7 +12,7 @@
                     Manažér ďalej môže jeden krát za určité obdobie (podľa úrovne oddelenia prieskumu) zmeniť vybranému hráčovi jeho počiatočnú pozíciu v mužstve a tak ovplyvniť jeho počiatočné rozdelenie atribútov. 
                     <br><br>
                     Do seniorského mužstva môžeš povýšiť aj 16 ročných hráčov, ale pozor, takéto povýšenie spôsobí zníženie potenciálu o jednu úroveň a títo hráči nebudú hrať zápasy až kým nedosiahnu 17 rokov. Výhoda je, že ich lojalita sa povýšením zvýši o jeden bod. Podmienkou
-                    povýšenia je preskúmanie hráča s veľkou presnosťou.
+                    povýšenia je preskúmanie hráča s veľkou presnosťou. Takto povýšený hráč dostane 35 bodov do IS a počas sezóny toto IS nerastie. 
                     <br><br><br>
                     <b> Hráči, ktorí dosiahnu vek 20 rokov a stále sa nachádzajú v juniorskej prípravke, odídu automaticky do hokejového dôchodku. </b>
                     <br><br>

@@ -44,7 +44,7 @@
                     Tieto atribúty sa zlepšujú počas tréningu aj počas zápasu. Na zápase sa zlepšujú podľa toho, na akej pozícii hráč hrá. Nastavenie tréningu a spôsob zlepšovania týchto atribútov sú podrobne popísané v časti návodu <a href="./menu/trening.html">Tréning</a> .
                     <br><br><br> <br>
                     <u> Ďalšie atribúty </u>, ktoré priamo ovplyvňujú výkon hráča na zápase, ale menia sa podľa iných pravidiel ako predchádzajúca skupina :
-                    <br><br>
+                    <br><br><br>
                     <b> Energia </b> 
                     <br> 
                     Na zápase sa hráč unavuje podľa času stráveného na ľade, preto sa mu znižuje energia. Brankár sa na zápase unavuje podľa počtu striel na bránu. Strata energie každého hráča ovplyvňuje jeho výkon takto - ak hráč
@@ -53,6 +53,8 @@
                     Energia hráčov klesá a stúpa aj počas tréningu podľa nastavenia jednotlivých fáz. Hráči sa každý deň regenerujú navyše aj počas nočného oddychu, bez ohľadu na to, ako je nastavený tréning. Veľmi unaveným hráčom (menej ako 60%
                     energie) sa zvyšuje riziko zranenia.
                     <br> 
+                    Ak sú TP a RP vyrovnané, tak pri 100% oddychu denne stúpne energia hráča o 33 bodov. 
+                    <br>
                     V detailom pohľade na zápas je možné sledovať energiu hráčov tesne pred zápasom a tesne po zápase v stĺpci Ene.
                     <br>
                     <p class="red">Ak hráč U23 neodohral zápas a bol presunutý do A-týmu, kde zápas odohral, tak mu klesne energia 2*, nakoľko v U23 trénoval a v A-týme hral zápas.
