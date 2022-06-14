@@ -11,4 +11,10 @@
                     tým istým náhradníkom aj v PP / PK formácii. 
                     <br><br>
                     PP / PK formácie sa na ľade striedajú po 30 sekundách.
+                    <br><br><br>
+                    <u><i> Vysvetlivky :  </i></u>
+                    <br>
+                    PP formácia - power play - presilovková formácia
+                    <br>
+                    PK formácia - power killing - oslabovková formácia
                     <br><br>
