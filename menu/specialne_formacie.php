@@ -16,5 +16,5 @@
                     <br>
                     PP formácia - power play - presilovková formácia
                     <br>
-                    PK formácia - power killing - oslabovková formácia
+                    PK formácia - penalty killing - oslabovková formácia
                     <br><br>
