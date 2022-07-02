@@ -11,5 +11,7 @@
                     <br><br>
                     Nastavenie dôležitosti zápasu ovplyvňuje motiváciu hráčov na priateľskom zápase aj šancu na zranenie, ale na náladu mužstva nemá vplyv. 
                     <br><br>
-                    Maximálny počet na požiadaviek na auto priateľský zápas bol zvýšený na <a href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=12344">20</a> . 
+                    Maximálny počet požiadaviek na automaticky naplánovaný priateľský zápas bol zvýšený na <a href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=12344">20</a> . 
+                    <br><br>
+                    <b> Pri veľkom prepočte (sezónnom) sa všetky poslané výzvy zmažú !!! </b>
                     <br><br>
