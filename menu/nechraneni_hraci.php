@@ -27,7 +27,7 @@
                     <br>
                     90% - hráč bude požadovať  <a class ="red"> xx </a> % najvyššej ponuky
                     <br>
-                    72% - hráč bude požadovať  <a class ="red"> xx </a> % najvyššej ponuky
+                    72% - hráč bude požadovať  80% najvyššej ponuky
                     <br>
                     54% - hráč bude požadovať  <a class ="red"> xx </a> % najvyššej ponuky
                     <br>
