@@ -185,7 +185,8 @@ nav.menuLeft a.level1.active {
 #rout a.head:hover,
 #rout a.dropdown-btn:hover,
 #rout a.drop:hover,
-#rout a.hlp:hover {
+#rout a.hlp:hover,
+#rout a.interest:hover {
     background-color: #44586a;
     color: #86b3d0;
 }
@@ -196,7 +197,8 @@ nav.menuLeft a.level1.active {
 #rout a.head:focus,
 #rout a.dropdown-btn:focus,
 #rout a.drop:focus,
-#rout a.hlp:focus {
+#rout a.hlp:focus,
+#rout a.interest:focus {
     background-color: #44586a;
     color: #86b3d0;
 }
@@ -206,7 +208,8 @@ nav.menuLeft .head {
     text-transform: uppercase;  
     margin-bottom: 8px;
 }
-nav.menuLeft .hlp {
+nav.menuLeft .hlp, 
+nav.menuLeft .interest {
     background-color: #125a9b;
     color: #f9f7f7;
     text-transform: uppercase;  
