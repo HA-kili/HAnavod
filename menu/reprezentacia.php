@@ -11,7 +11,7 @@
                     <br><br>
                     <b> Voľby </b>
                     <br> Kandidovať vo voľbách môže každý manažér, voliť je možné iba vo svojej skutočnej krajine (podľa IP adresy). Každý manažér má iba jeden hlas a je možné ho zmeniť. Voliť sa môže aj v krajine, kde má manažér svoj B-tým. 
-                    Výsledky volieb sú v nedeľu 00:01. V prípade, že výsledok volieb je nerozhodný, rozhodne náhodný faktor (NF) v pondelok po 19:00 hod. 
+                    Výsledky volieb sú v nedeľu 00:01. V prípade, že výsledok volieb je nerozhodný, rozhodne náhodný faktor (NF) v pondelok po 19:00 hod. V tomto čase preberajú reprezentáciu aj zvolení manažéri. 
                     <br><br>
                     <b> Hráči </b>
                     <br> 
