@@ -186,7 +186,7 @@ nav.menuLeft a.level1.active {
 #rout a.dropdown-btn:hover,
 #rout a.drop:hover,
 #rout a.hlp:hover,
-#rout a.interest:hover {
+#rout a.comments:hover {
     background-color: #44586a;
     color: #86b3d0;
 }
@@ -198,7 +198,7 @@ nav.menuLeft a.level1.active {
 #rout a.dropdown-btn:focus,
 #rout a.drop:focus,
 #rout a.hlp:focus,
-#rout a.interest:focus {
+#rout a.comments:focus {
     background-color: #44586a;
     color: #86b3d0;
 }
@@ -208,10 +208,15 @@ nav.menuLeft .head {
     text-transform: uppercase;  
     margin-bottom: 8px;
 }
-nav.menuLeft .hlp, 
-nav.menuLeft .interest {
+nav.menuLeft .hlp {
     background-color: #125a9b;
     color: #f9f7f7;
+    text-transform: uppercase;  
+    margin-top: 8px;
+}
+nav.menuLeft .comments {
+    background-color: #125a9b;
+    color: rgb(250, 153, 153);
     text-transform: uppercase;  
     margin-top: 8px;
 }
