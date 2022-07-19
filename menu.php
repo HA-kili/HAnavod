@@ -133,7 +133,7 @@
                         </ul>
                     </li>
                     <li><a data-submenu="sub" class=" drop " href="index.php?navod=sponzorsky_balik">Sponzorský balík</a></li>
-                    <li><a data-submenu="sub" class=" interest " href="index.php?navod=pripomienky_manazerov">Pripomienky manažérov</a></li>
+                    <li><a data-submenu="sub" class=" comments " href="index.php?navod=pripomienky_manazerov">Pripomienky manažérov</a></li>
                     <li><a data-submenu="sub" class=" hlp " href="https://www.hockeyarena.net/sk/index.php?p=helpers.inc">Zoznam _ HLP</a></li>
                     <li><a class="navstevnost" href="https://www.toplist.sk/stat/1273971/"><script language="JavaScript" type="text/javascript" charset="utf-8">
                             <!--
