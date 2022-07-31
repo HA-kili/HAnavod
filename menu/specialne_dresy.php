@@ -1,14 +1,18 @@
 
                 <div class="section-name"> <b></b> Špeciálne dresy hráčov </div>
                     <br>
-                    Každú sobotu budú môcť hráči na základe určitých podmienok získať <b> špeciálny dres </b>, ktorý dá hráčovi rôzne bonusy. 
+                    Každú sobotu (v pripade možnosti získania dresu) budú môcť hráči na základe určitých podmienok získať <b> špeciálny dres</b>, ktorý dá hráčovi rôzne bonusy. 
                     Typ dresu sa bude meniť každý mesiac. Dres bude po aktivácii možné znovu deaktivovať najskôr po 14 dňoch. 
                     Dresy je možné aktivovať / prepínať na karte hráča, po kliknutí na fotku hráča - platí iba 
                     so <a href="https://www.hockeyarena.net/sk/index.php?index.php&p=public_shop.php"> Sponzorským balíkom - SB</a> . 
                     Bez Sponzorského balíka je tieto zmeny možné robiť cez Menu - <a href="https://www.hockeyarena.net/sk/index.php?p=manager_jersey.inc"> Hráči - Dres </a> ,  
                     kde sa nachádza zoznam všetkých hráčov, ktorý vlastnia dres. Po kliknutí na hráča sa ukážu dresy, kde je následne možné robiť zmeny.
                     <br><br><br>
-                    <a href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=14066"> 04.06.2022 - Jún: Zotavenie</a>
+                    <a href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=14096"><u> 31.07.2022 - August: Streľba na terč </u></a>
+                    <br> Bonus : zvýšenie brány o 10
+                    <br> Pri deaktivácii : zodpovedajúce zníženie brány
+                    <br><br>
+                    <a href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=14066"><u> 04.06.2022 - Jún: Zotavenie </u></a>
                     <br> Bonus : jednorázové skrátenie aktuálneho zranenia o 2 dni 
                     <br> Pri deaktivácii : nič
                     <br><br>
@@ -17,7 +21,7 @@
                     <br> Pri deaktivácii : zodpovedajúce zníženie streľby 
                     <br><br>
                     <a href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=13949"><u> 04.02.2022 - Február: Valentínsky Február </u></a>
-                    <br> Bonus : zvýšenie sebaovládania +10
+                    <br> Bonus : zvýšenie sebaovládania o 10
                     <br> Pri deaktivácii : zodpovedajúce zníženie sebaovládania
                     <br><br>
                     <a href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=13920"><u> 09.12.2021 - December : Veselé sviatky </u></a>
