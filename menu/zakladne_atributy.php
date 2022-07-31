@@ -56,10 +56,7 @@
                     Ak sú TP a RP vyrovnané, tak pri 100% oddychu denne stúpne energia hráča o 33 bodov. 
                     <br>
                     V detailom pohľade na zápas je možné sledovať energiu hráčov tesne pred zápasom a tesne po zápase v stĺpci Ene.
-                    <br>
-                    <p class="red">Ak hráč U23 neodohral zápas a bol presunutý do A-týmu, kde zápas odohral, tak mu klesne energia 2*, nakoľko v U23 trénoval a v A-týme hral zápas.
-                    </p>
-                    <br><br>
+                    <br><br><br>
                     <b> Forma, skúsenosť </b>
                     <br> 
                     Vysoká forma a skúsenosť spôsobujú, že hráč bude efektívne a správne využívať všetky svoje schopnosti. Naopak v prípade nízkej formy a skúsenosti je vyššia šanca, že hráč bude "kaziť, čo sa dá".

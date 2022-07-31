@@ -44,6 +44,7 @@
                 <br> 
                 Môžeš sledovať vybraných hráčov – ich aktuálne mužstvo, ligu a ďalšie vlastnosti. Všetky tieto informácie sú dostupné prehľadne v jednom okne a to v Menu <a href="https://www.hockeyarena.net/sk/index.php?p=sponsor_tracking_form.php&action=players">Hráči - Sledovanie</a>  . 
                 Sledovanie vlastných hráčov teraz počíta priebežné náklady na plat a podpisové bonusy hráča počas jeho kariéry. Stačí začať sledovať vlastného hráča a systém sa o to postará automaticky. Náklady sa zobrazujú na karte hráča aj v zozname sledovaných hráčov.
+                
                 <br><br>
                 <b> Poznámky </b> 
                 <br> 
