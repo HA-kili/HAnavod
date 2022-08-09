@@ -1,8 +1,8 @@
 
                 <div class="section-name"> Nechránení hráči </div>
                     <br>
-                    Hráči vo veku 27 rokov a viac, ktorým ostáva do ukončenia zmluvy 8 dni, sa automaticky dostanú na trh nechránených hráčov – manažérovi príde upozornenie v novinkách mužstva. Počas prvých dní na trhu posielajú hráčovi ponuky
-                    cudzie mužstvá, podobne ako je to u predávaných hráčov. Hráčove domáce mužstvo má potom možnosť dorovnať najvyššiu ponuku z ostatných mužstiev počas nasledujúcich dní až do konca jeho aktuálnej zmluvy. Hráči podpisujú zmluvu na 210
+                    Hráči vo veku 27 rokov a viac, ktorým ostáva do ukončenia zmluvy 8 dni, sa automaticky dostanú na trh nechránených hráčov – manažérovi príde upozornenie v novinkách mužstva - v <a href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=13434"> čase</a> 
+                    od 6:00 do 21:59 HA času. Počas prvých dní na trhu posielajú hráčovi ponuky cudzie mužstvá, podobne ako je to u predávaných hráčov. Hráčove domáce mužstvo má potom možnosť dorovnať najvyššiu ponuku z ostatných mužstiev počas nasledujúcich dní až do konca jeho aktuálnej zmluvy. Hráči podpisujú zmluvu na 210
                     dní. Materské mužstvo môže hráčovi ponúknuť zmluvu na 1, 2, alebo 3 sezóny (podľa <a href="index.php?navod=dalsie_atributy">lojality</a> ).
                     <br><br>
                     <u> Hlavné odlišnosti nechráneného hráča : </u>

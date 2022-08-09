@@ -11,7 +11,7 @@
                     <u> Maximálna zohranosť</u> formácie závisí vždy od aktuálne nastavenej <a href="index.php?navod=takticke_moznosti">taktiky</a> pre formáciu a od výkonnosti jednotlivých hráčov vo formácii na ich pozíciách vo formácii (Taktické profily).
                     <br><br>
                     Nemusíte sa báť, že sa zníži zohranosť formácie pri zmene jej taktiky – mení sa len maximálna zohranosť a aktuálna zohranosť bude klesať postupne počas nasledujúcich dní, ak bude maximálna zohranosť nižšia než aktuálna. 
-                    Spomalili sme zhoršenie aktuálnej zohranosti formácie, ktorej zohranosť je vyššia ako jej maximálna zohranosť, približne z 10% za zápas, na 3% na zápas. 
+                    Spomalili sme <a href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=13892"> zhoršenie aktuálnej zohranosti</a>  formácie, ktorej zohranosť je vyššia ako jej maximálna zohranosť, približne z 10% za zápas, na 3% na zápas. 
                     <br><br>
                     Systém hry si bude 'pamätať' zohranosť vašej formácie, ktorá už neexistuje, čiže napríklad po zaradení nového hráča do formácie alebo po vymazaní formácie. Tento systém pri znovuvytvorení tejto formácie použije túto uloženú zohranosť.
                     Uložená zohranosť neexistujúcich formácií sa ale bude, samozrejme, časom pomerne rýchlo znižovať!

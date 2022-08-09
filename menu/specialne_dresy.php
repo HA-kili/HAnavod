@@ -6,7 +6,10 @@
                     Dresy je možné aktivovať / prepínať na karte hráča, po kliknutí na fotku hráča - platí iba 
                     so <a href="https://www.hockeyarena.net/sk/index.php?index.php&p=public_shop.php"> Sponzorským balíkom - SB</a> . 
                     Bez Sponzorského balíka je tieto zmeny možné robiť cez Menu - <a href="https://www.hockeyarena.net/sk/index.php?p=manager_jersey.inc"> Hráči - Dres </a> ,  
-                    kde sa nachádza zoznam všetkých hráčov, ktorý vlastnia dres. Po kliknutí na hráča sa ukážu dresy, kde je následne možné robiť zmeny.
+                    kde sa nachádza zoznam všetkých hráčov, ktorí vlastnia dres. Po kliknutí na hráča sa ukážu dresy, kde je následne možné robiť zmeny. 
+                    <br>
+                    Mužstvá, ktoré už vlastnia daný dres, nemôžu získať znovu ten istý dres počas akcie. Platí to aj v prípade, že hráč, ktorý získa dres, bude predaný do iného mužstva 
+                    alebo poslaný do "dôchodku". 
                     <br><br><br>
                     <a href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=14096"><u> 31.07.2022 - August: Streľba na terč </u></a>
                     <br> Bonus : zvýšenie brány o 10
