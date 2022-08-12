@@ -5,7 +5,7 @@
                     <a href="https://www.hockeyarena.net/sk/index.php?p=manager_tourney_details_form.php&tour_id=2">Svetovú ligu</a> hrajú tímy, ktoré sa umiestnili na popredných miestach play-off v danej krajine. <a href="https://www.hockeyarena.net/sk/index.php?p=manager_wl_stats.php&inst_id=190246">Počet postupujúcich</a>  mužstiev z každej krajiny sa určuje podľa úspešnosti krajiny v predchádzajúcich dvoch ročníkoch turnaja. Za každý vyhratý
                     zápas tímu danej krajiny získava táto krajina body, ktoré sa spočítavajú. Výsledný počet bodov určuje počet tímov, ktoré budú hrať v novej sezóne za danú krajinu. Svetová liga sa hrá len v stredu formou skupinovej fázy a play-off. Tímy sú rozdelené
                     do 16. skupín po 6 tímov. Zápasy sú plánované do prvých 5 týždňov sezóny. O poradí v základnej časti rozhoduje počet bodov. V prípade rovnakého počtu bodov dvoch tímov rozhoduje vzájomný zápas. Ak má rovnaký počet bodov viacej tímov
-                    rozhoduje mini-tabuľka. Do mini-tabuľky sa počítajú vzájomné zápasy tímov s rovnakým počtom bodov, kde rozhoduje počet bodov a skóre.
+                    rozhoduje mini-tabuľka. Do mini-tabuľky sa počítajú vzájomné zápasy tímov s rovnakým počtom bodov, kde rozhoduje počet bodov, skóre a <a href="#koeficient"> koeficient</a> (viď nižšie). 
                     <br><br> 
                     Do play-off postupujú prvé dva tímy z každej skupiny, spolu 32 tímov. Play-off začína 16-finále a končí finále v poslednú stredu sezóny. Play-off sa hrá vyraďovacím systémom na jeden zápas.
                     <br><br> 
@@ -41,7 +41,7 @@
                     Národného pohára kvalifikuje do Svetovej ligy, Národný pohár nebude hrať a nahradí ho ďalší tím v poradí, ktorý nebude kvalifikovaný do Svetovej ligy. Pohár národných šampiónov 
                     sa hrá len v stredu formou skupinovej fázy a play-off. Tímy sú rozdelené do 8. skupín po 5 až 6 tímov. Zápasy sú plánované do prvých 7 týždňov sezóny. O poradí v základnej časti 
                     rozhoduje počet bodov. V prípade rovnakého počtu bodov dvoch tímov rozhoduje vzájomný zápas. Ak má rovnaký počet bodov viacej tímov rozhoduje mini-tabuľka. Do mini-tabuľky sa 
-                    počítajú vzájomné zápasy tímov s rovnakým počtom bodov, kde rozhoduje počet bodov a skóre.
+                    počítajú vzájomné zápasy tímov s rovnakým počtom bodov, kde rozhoduje počet bodov, skóre a <a href="#koeficient"> koeficient</a> (viď nižšie). 
                     <br><br> 
                     Do play-off postupujú víťazi skupín, spolu 8 tímov. Play-off začína štvrťfinále a končí finále v poslednú stredu sezóny. Play-off sa hrá vyraďovacím systémom na jeden zápas.
                     <br><br> 
@@ -103,4 +103,17 @@
                         </tbody>
                     </table>
                     <br> Trofeje dostáva iba manažér so <a href="https://www.hockeyarena.net/sk/index.php?index.php&p=public_shop.php">sponzorským balíkom</a> .
+                    <br><br><br><br><br>
+                    <u id="koeficient"> Výpočet koeficientu na konci tabuľky – príklad : </u>
+                    <br> ide čisto o vzájomné zápasy tímov s rovnakými bodmi 
+                    <br> Slovensko -  Lotyšsko 3:2
+                    <br> výhra je za 10 000 
+                    <br> +/- góly skóre z tých zápasov x 100 
+                    <br> strelené góly za 1 bod 
+                    <br>
+                    <br> Príklad :  
+                    <ul> SVK 10 000 + 100*(3-2) + 3 = 10 103 
+                        <br> LOT 100*(2-3) + 2= -98 
+                    </ul>
+                    <br>
                     <br><br>

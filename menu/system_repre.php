@@ -36,7 +36,8 @@
                     <br> výhra je za 10 000 
                     <br> +/- góly skóre z tých zápasov x 100 
                     <br> strelené góly za 1 bod 
-                    <br> Výsledok :  
+                    <br>
+                    <br> Príklad :  
                     <ul> SVK 10 000 + 100*(3-2) + 3 = 10 103 
                         <br> LOT 100*(2-3) + 2= -98 
                     </ul>
