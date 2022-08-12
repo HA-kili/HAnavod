@@ -18,7 +18,7 @@
                     <u> Kritéria pri rovnosti bodov na Majstrovstvách sveta </u>
                     <br><br>
                     Ak po odohraní všetkých duelov v skupine budú mať totožný počet bodov dva tímy, o postavení v skupine rozhodne vzájomný duel. Ak takýto stav nastane v nižších kategóriách, kde 
-                    sa hrá na 2 vzájomné zápasy, tak v prípade rovnosti bodov rozhoduje koeficient (viď výpočet nižšie) a v prípade rovnakého koeficientu následne rozhoduje celkové skóre. 
+                    sa hrá na 2 vzájomné zápasy, tak v prípade rovnosti bodov rozhoduje <a href="#koeficient"> koeficient</a> (viď výpočet nižšie) a v prípade rovnakého koeficientu následne rozhoduje celkové skóre. 
                     <br><br>
                     Ak po odohraní všetkých duelov v skupine bude mať totožný počet bodov tri a viac tímov, vytvorí sa minitabuľka zložená z týchto tímov a podľa pravidiel o postavení rozhodnú tieto kritériá: 
                     <ul>
@@ -30,7 +30,7 @@
                         <li> lepšie postavenie v rebríčku HA pred začiatkom turnaja </li>
                     </ul>
                     <br><br>
-                    <u> Výpočet koeficientu na konci tabuľky – príklad : </u>
+                    <u id="koeficient"> Výpočet koeficientu na konci tabuľky - D : </u>
                     <br> ide čisto o vzájomné zápasy tímov s rovnakými bodmi 
                     <br> Slovensko -  Lotyšsko 3:2
                     <br> výhra je za 10 000 
