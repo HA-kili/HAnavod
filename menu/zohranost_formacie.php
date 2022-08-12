@@ -3,10 +3,14 @@
                     <br>
                     Hráči, ktorí spolu hrávajú často, sa zohrávajú, zvyšuje sa im výkonnosť, toto reflektuje atribút formácie <b>Zohranosť</b>.
                     <br><br> 
-                    <b> Ako pomáha formácii na zápase zohranosť?</b> 
+                    <b> Ako pomáha formácii na zápase zohranosť ?</b> 
                     <br>
                     Jednoducho, pri každej útočnej akcii zvyšuje šancu (čím vyššia zohranosť, tým vyššia šanca), že sa formácii podarí uskutočniť špeciálna taktická útočná akcia. Pri nej hráči využívajú
                     svoje atribúty rovnako ako pri bežnej útočnej akcii, vďaka zohranosti majú vyššiu šancu na skórovanie.
+                    <br><br>
+                    <b> Ako dlho trvá zohrať formáciu na 100% ?</b>
+                    <br>
+                    Túto odpoveď nájdete v <a href="https://www.hockeyarena.net/sk/index.php?p=manager_discussion_posts.php&table_id=451201&last_seen=0"> rýchlych radách</a> v červenej téme. 
                     <br><br>
                     <u> Maximálna zohranosť</u> formácie závisí vždy od aktuálne nastavenej <a href="index.php?navod=takticke_moznosti">taktiky</a> pre formáciu a od výkonnosti jednotlivých hráčov vo formácii na ich pozíciách vo formácii (Taktické profily).
                     <br><br>
