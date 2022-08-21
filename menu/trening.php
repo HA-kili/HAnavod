@@ -1,7 +1,7 @@
 
                 <div class="section-name"> Tréning </div>
                     <br>
-                    Tréning hráčov prebieha automaticky každý deň po zápase. V prípade, že mužstvo zápas nenaplánuje a neodohrá, tréning prebehne o 19:00. 
+                    Tréning hráčov prebieha automaticky každý deň po zápase. V prípade, že mužstvo zápas nenaplánuje a neodohrá, tréning prebehne po 22:00 hod. 
                     <br><br>
                     <u> Nastavenie tréningu pozostáva z dvoch častí : </u>
                     <br> - vytvorenie tréningových režimov v menu <a href="https://www.hockeyarena.net/sk/index.php?p=manager_training_schedules_form.php">Hráči - Režimy</a> 
