@@ -24,7 +24,8 @@
                     <br>
                     2. pred štyrmi sezónami vytiahli deň pred draftom TOP hráča a na tento deň sa im už nepočítalo skóre aj keď celú sezónu áno
                     <br>
-                    3. ostatné tímy si strážili hodnotu vytiahnutých juniorov a aby sa posunuli ešte vyššie, tak nejakých hráčov vyhodili a tým sa znížila hodnota vytiahnutých juniorov a zvýšilo skóre
+                    3. ostatné tímy si strážili hodnotu vytiahnutých juniorov a aby sa posunuli ešte vyššie, tak nejakých hráčov vyhodili (zo <a href="https://www.hockeyarena.net/sk/index.php?p=manager_youth_school_nurselings.inc"> zoznamu</a> hráčou zhoršujúcich 
+                    pozíciu mužstva v drafte) a tým sa znížila hodnota vytiahnutých juniorov a zvýšilo skóre, čo ale ne
                     <br>
                     4. pred draftom si vytiahol z juniorskej prípravy juniora, ktorý ti zvýšil hodnotu vytiahnutých juniorov a tým znížil skóre a zhoršil pozíciu v drafte </i>
                     <br><br><br> 

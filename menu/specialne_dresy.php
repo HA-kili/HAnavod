@@ -29,6 +29,7 @@
                     <br><br>
                     <a href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=13920"><u> 09.12.2021 - December : Veselé sviatky </u></a>
                     <br> Bonus: zvýšenie potenciálu hráča o jeden level 
+                    <br> (Tento dres sa nedá aktivovať z -12% na -6% a pri horších potenciáloch. Posledný krát sa dá dres aktivovať z -6% na 0%)
                     <br> Pri deaktivácii : zodpovedajúce zníženie potenciálu hráča o jeden level
                     <br><br>
                     <a href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=13807"><u> 03.11.2021 - November: Legendy </u></a>
@@ -77,6 +78,7 @@
                     <br><br>
                     <a href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=13002"><u> 01.12.2020 - December: Veselé sviatky! </u></a>
                     <br> Bonus: zvýšenie potenciálu hráča o jeden level 
+                    <br> (Tento dres sa nedá aktivovať z -12% na -6% a pri horších potenciáloch. Posledný krát sa dá dres aktivovať z -6% na 0%)
                     <br> Pri deaktivácii : zodpovedajúce zníženie potenciálu hráča o jeden level
                     <br><br>
                     <a href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=12943"><u> 03.11.2020 - November: Hokejové legendy </u></a>
