@@ -10,11 +10,11 @@
                     <b><u> Zopár pravidiel pre B mužstvá: </b></u>
                     <br> 
                     <ul> 
-                        <li> je možné voliť v krajine z B mužstva </li>
+                        <li> je možné <a href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=13405"> voliť</a> v krajine z B mužstva </li>
                         <br>
                         <li> vzájomné obchodovanie s hráčmi medzi A/B mužstvami nieje možné </li>
                         <br>
-                        <li> hráča bude možné kúpiť do A aj B mužstva, ak od jeho preskúmania druhým mužstvom ubehlo aspoň 280 dní </li>
+                        <li> hráča bude možné kúpiť do A aj B mužstva, ak od jeho preskúmania druhým mužstvom ubehlo aspoň <a href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=12087"> 280 dní</a> </li>
                         <br>
                         <li> vzájomný priateľský zápas nieje možné dohodnúť medzi A/B mužstvami </li>
                         <br>

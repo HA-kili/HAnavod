@@ -93,7 +93,7 @@
                     <br> 
                     Manažér bude môcť každú sezónu vybrať 1 hráča zo základnej zostavy, ktorému vyplatí <u><i> tzv. vernostný bonus </i></u>. Tento bonus zvýši natrvalo hráčovu lojalitu, ale na druhej strane môže mať negatívny vplyv na lojalitu iných hráčov,
                     ktorí bonus nedostali. Vyplatiť bonus môžete cez linku "Zmluva" z detailu hráča alebo cez <img style="icons" src="./icons/plusko.gif"> , ktoré nájdete tiež v detailnom okne hráča. O pozitívnom aj negatívnom vplyve budete detailne informovaní pred vyplatením konkrétneho bonusu. Lojalita sa nedá meniť u hráčov, ktorí sú aktuálne na trhu
-                    a týka sa to pozitívnej aj negatívnej zmeny. Na zmenu lojality hráča je potrebné splniť podmienku 20 odohraných zápasov za sezónu (rátajú sa zápasy základnej časti a playoff, playout nie). <span class="red">Výšku vernostného bonusu ovplyvňuje ekonomická úroveň mužstva a aktuálna lojalita hráča.</span>
+                    a týka sa to pozitívnej aj negatívnej zmeny. Na zmenu lojality hráča je potrebné splniť <a href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=9340"> podmienku</a> 20 odohraných zápasov a 300 minút za sezónu (rátajú sa zápasy základnej časti a playoff, playout nie). <span class="red">Výšku vernostného bonusu ovplyvňuje ekonomická úroveň mužstva a aktuálna lojalita hráča.</span>
                     <br><br>
                     <p class="oprava_lojality"> <a href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=13835"><u> Oprava lojality - dočasné riešenie </u> </a> (ukončené)
                     <br> 

@@ -39,7 +39,7 @@
                     Pre brankára – nízke sebaovládanie brankára môže na zápase spôsobiť po sérii inkasovaných gólov v rýchlom slede pokles jeho sebadôvery a koncentrácie. To bude mať za následok zhoršenie jeho výkonu až do konca zápasu. V reporte
                     zo zápasu je táto udalosť označená hlásením <u> 'Brankár stratil sebadôveru a koncentráciu' </u>.
                     <br>
-                    <b> Sebaovládanie hráčov mladších ako 41 rokov nebude odteraz vôbec klesať. </b>
+                    <b> Sebaovládanie hráčov mladších ako 41 rokov <a href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=12314"> nebude</a> odteraz vôbec klesať. </b>
                     <br><br><br> 
                     Tieto atribúty sa zlepšujú počas tréningu aj počas zápasu. Na zápase sa zlepšujú podľa toho, na akej pozícii hráč hrá. Nastavenie tréningu a spôsob zlepšovania týchto atribútov sú podrobne popísané v časti návodu <a href="./menu/trening.html">Tréning</a> .
                     <br><br><br> <br>

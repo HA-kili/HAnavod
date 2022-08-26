@@ -50,7 +50,7 @@
                     <br>
                     V prípade, že chcete vedieť, aké hodnoty kvality a potenciálu ukazuje Vášmu hráčovi, keby nebol preskúmaný, tak viete kliknúť na kvalitu/potenciál na karte hráča a tieto hodnoty Vám ukáže. Toto samozrejme platí iba pre tých manažérov, čo majú <a href="https://www.hockeyarena.net/sk/index.php?index.php&p=public_shop.php"> sponzorský balík </a> .
                     <br><br>
-                    <b> !!! Nie je možné z Ačka preskúmať zápas, v ktorom sa nachádza jeden z tímov z ligy, v ktorej sa nachádza manažérov B tím a naopak !!! </b>
+                    <b> !!! Nie je možné z Ačka <a href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=11907"> preskúmať zápas</a> , v ktorom sa nachádza jeden z tímov z ligy, v ktorej sa nachádza manažérov B tím a naopak !!! </b>
                     <br><br><br>
                     <u> Vlastných hráčov bez skúmania vidí manažér v rôznych rokoch nasledovne: </u> 
                     <br> 17 rokov 

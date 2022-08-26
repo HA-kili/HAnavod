@@ -14,7 +14,7 @@
                     <br>
                     <ul>
                         <li> ikonou autobusu <img class="icons" src="./icons/bus.png" > na karte hráča pri jeho mene </li>
-                        <li> presun hráča do U23 mužstva alebo späť do hlavného mužstva, bude možný raz za 14 dní bez sponzorského balíka a raz za 24 hodín so <a href="https://www.hockeyarena.net/sk/index.php?index.php&p=public_shop.php">sponzorským balíkom</a>  </li> 
+                        <li> <a href="znovuzaloženie"> presun hráča</a> do U23 mužstva alebo späť do hlavného mužstva, bude možný raz za 14 dní bez sponzorského balíka a raz za 24 hodín so <a href="https://www.hockeyarena.net/sk/index.php?index.php&p=public_shop.php">sponzorským balíkom</a>  </li> 
                         <li> nie je možné presúvať hráčov na trhu </li>
                         <li> z U23 mužstva nie je možné hráčov predávať, je možné ich vyhodiť alebo presunúť do hlavného mužstva na ďalšie spracovanie </li>
                     </ul>
@@ -35,12 +35,12 @@
                     <ul>
                         <li> mužstvo bude automaticky zrušené, keď počet hráčov klesne pod 20 </li>
                         <li> hráči budú pri zrušení automaticky presunutí späť do hlavného mužstva </li>
-                        <li> znovuzaloženie mužstva bude možné najskôr po 30 dňoch bez sponzorského balíka a po 2 dňoch so <a href="https://www.hockeyarena.net/sk/index.php?index.php&p=public_shop.php">sponzorským balíkom</a>  </li>
+                        <li> <a href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=12601"> znovuzaloženie</a> mužstva bude možné najskôr po 30 dňoch bez sponzorského balíka a po 2 dňoch so <a href="https://www.hockeyarena.net/sk/index.php?index.php&p=public_shop.php">sponzorským balíkom</a>  </li>
                     </ul> 
                     11. Individuálne štatistiky hráča pri presune do U23 mužstva budú uložené a potom pri návrate do HLAVNÉHO mužstva sa obnovia tieto uložené 
                     <ul> 
                         <li> v U23 mužstvách nebudu vyhodnotené individuálne štatistiky hráčov na konci sezóny </li>
-                        <li> hráčom v U23 sa na konci sezóny budú ukladať koncosezónne IŠ, suma zranení a priemerný tréning </li> 
+                        <li> hráčom v U23 sa na konci sezóny <a href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=12884"> budú ukladať</a> koncosezónne IŠ, suma zranení a priemerný tréning </li> 
                     </ul>
                     <br> 
                     12. 24 roční hráči v U23 mužstve na konci sezóny po zostarnutí hráčov 

@@ -10,7 +10,7 @@
                     <br><br> 
                     Mužstvám s hotovosťou pod <a href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=10906"> -100 000 000</a> sa všetky aktuálne úrovne zázemia nastavia automaticky na 0. Ak sa finančná situácia zlepší, systém znova nastaví zázemie na max. hodnoty. 
                     <br><br>
-                    <b> Maximálna možná hotovosť mužstva je 12 000 000 000. </b>
+                    <b> Maximálna možná hotovosť mužstva je <a href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=12344"> 12 000 000 000</a> .</b>
                     <br><br>
                     V prípade, že manažér túto sumu presiahne (či už predajom hráčov, šetrením alebo iným spôsobom), tak systém túto sumu po prepočte (t.j. cca po 22:20) stiahne späť na 12 mld.
                     <br><br>

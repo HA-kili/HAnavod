@@ -16,7 +16,7 @@
                     <br>
                     POZOR !!! Automatická ponuka sa neaktivuje, ak je v mužstve <a href="https://www.hockeyarena.net/sk/index.php?p=manager_summary.php"> maximálny počet hráčov</a> (64) vrátane aktuálnych ponúk na NT. 
                     <br><br>
-                    <b> Manažér môže mať v jednom momente zadaných max 10 automatických ponúk !!! </b>
+                    <b> Manažér môže mať v jednom momente zadaných max 10 <a href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=13519"> automatických ponúk !!!</a>  </b>
                     <br><br>
                     <b> Nieje možné poslať ponuku na hráča, ktorý odišiel z mužstva skôr ako pred 3 mesiacmi (90 dní) !!! </b>
                     <br><br><br>

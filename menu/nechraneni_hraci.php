@@ -11,7 +11,7 @@
                         <li> je možné predať ho, iba ak je v mužstve aspoň 10 týždňov (70 dni) a iba ak do skončenia jeho aktuálnej zmluvy ostáva viac ako 14 dní . </li>
                         <li> podrobné informácie o konkrétnych parametroch nechráneného hráča sa nachádzajú v detaile hráča pod linkou 'Zmluva'. Tu sa nachádza aj výška odstupného, ktoré musí zaplatiť nové mužstvo pôvodnému mužstvu, ak sa hráč rozhodne nezostať vo svojom aktuálnom
                             mužstve. Výšku odstupného určuje systém automaticky na základe vlastností hráča. Je tu aj informácia o hráčovej lojalite a aké verzie novej zmluvy bude umožňovať, ako aj o spokojnosti hráča v mužstve. </li>
-                        <li> ďaľšia možnosť je rýchlo uvoľniť nechráneného hráča pre jeho odchod do nového mužstva, v prípade že aktuálny vlastník sa rozhodol nepredĺžiť hráčovi zmluvu a v prípade, že hráčova zmluva je aspoň 3 dni alebo viac. Pri zvolení tejto možnosti sa skráti 
+                        <li> ďaľšia možnosť je rýchlo <a href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=13748"> uvoľniť</a>  nechráneného hráča pre jeho odchod do nového mužstva, v prípade že aktuálny vlastník sa rozhodol nepredĺžiť hráčovi zmluvu a v prípade, že hráčova zmluva je <a href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=13776"> aspoň</a> 3 dni alebo viac. Pri zvolení tejto možnosti sa skráti 
                             okamžite aktuálna hráčova zmluva na 0 dní a vlastník pri odchode hráča získa o 10% vyššiu kompenzáciu, tj. 80% miesto 70%. Hráč odíde do nového mužstva do pár minút, nie pri najbližšom prepočte.  </li>
                         </ul>
                     <br><br>
@@ -23,7 +23,7 @@
                     <br><br><br>
                     <b> Výhoda spokojného/nespokojného nechráneného hráča pri podpise novej zmluvy: </b> 
                     <br>
-                    <u> Oddaný </u> (100% spokojnosť) hráč bude požadovať 75% najvyššej ponuky, ktorú dostane od iných muźstiev, aby zostal v tvojom mužstve. 
+                    <u> Oddaný </u> (100% spokojnosť) hráč bude <a href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=12344"> požadovať</a> 75% najvyššej ponuky, ktorú dostane od iných muźstiev, aby zostal v tvojom mužstve. 
                     <br>
                     90% - hráč bude požadovať  <a class ="red"> xx </a> % najvyššej ponuky
                     <br>
