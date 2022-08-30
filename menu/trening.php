@@ -48,3 +48,5 @@
                     vedľajšie atribúty ako napr. sebaovládanie hráčov kvoli vylučovaniu. Popis jednotlivých atribútov nájdete <a href="index.php?navod=zakladne_atributy"> tu</a> .
                     </i>
                     <br><br>
+                    PS: Hráč v zápase využíva všetky svoje atribúty, a preto je normálne, keď natrénuje iný atribút ako má nastavený v tréningovom režime. 
+                    <br><br>
