@@ -54,7 +54,7 @@
                             <li><a class="level1" href="index.php?navod=specialne_dresy">Špeciálne dresy hráčov</a></li>
                             <li><a class="level1" href="index.php?navod=darovanie_dresu">Darovanie dresu</a></li>
                             <li><a class="level1" href="index.php?navod=zranenia_choroby">Zranenia a choroby</a></li>
-                            <li><a class="level1" href="index.php?navod=zivotnost_hracov">Životnosť hráčov </a></li>
+                            <li><a class="level1" href="index.php?navod=zivotnost_sledovanie">Životnosť a sledovanie hráčov </a></li>
                         </ul>
                     </li>
                     <li><a data-submenu="submfor" class=" dropdown-btn " onclick="return false;" href="index.php?navod=nastavenie_zostavy">Formácie a taktiky</a>
@@ -125,7 +125,6 @@
                     <li><a data-submenu="submother" class=" dropdown-btn " onclick="return false;" href="index.php?navod=narocnost_ligy">Rôzne</a>
                         <ul class="sub  submother <?php active(explode(",", "narocnost_ligy,nastavenie_zapasu,stavkova_kancelaria,posta,doplnky_(addons),skratky"))?>">
                             <li><a class="level1" href="index.php?navod=narocnost_ligy">Náročnosť ligy</a></li>
-                            <li><a class="level1" href="index.php?navod=nastavenie_zapasu">Nastavenie názvu </a></li>
                             <li><a class="level1" href="index.php?navod=stavkova_kancelaria">Stávková kancelária </a></li>
                             <li><a class="level1" href="index.php?navod=posta">Pošta </a></li>
                             <li><a class="level1" href="index.php?navod=doplnky_(addons)">Doplnky pre HA (addons) </a></li>

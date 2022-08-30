@@ -80,7 +80,7 @@
                 <a>© 2021 - 2022 HOCKEY ARENA NAVOD
                     <br> created by &nbsp; &nbsp;
                         <a class="znaky" href="https://www.hockeyarena.net/sk/index.php?p=manager_manager_info.php&id=37083"> k&nbsp;i&nbsp;l&nbsp;i&nbsp;|&nbsp;HLP </a>
-                    <br> version 2.01
+                    <br> version 2.20
                 </a>
             </div>
         </div>
