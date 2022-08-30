@@ -46,7 +46,6 @@
                     Zvolená <a href="https://www.hockeyarena.net/sk/index.php?p=manager_lines_form_new.php"> taktika formácie</a>  bude "Protiútoky". Čiže taktické profily hráčov na krídle sú Rýchly (RÝC), na centri Tvorca (TVO) alebo Nahrávač (NAH) a u obrancov je to Nahrávač (NAH) 
                     alebo čistý (ČIS). V ďalšej tabuľke nižšie už vidíme ako tieto taktické profily hráčov trénovať. Samozrejme toto sú hlavné atribúty a okrem nich treba hráčom dotrénovať aj 
                     vedľajšie atribúty ako napr. sebaovládanie hráčov kvoli vylučovaniu. Popis jednotlivých atribútov nájdete <a href="index.php?navod=zakladne_atributy"> tu</a> .
-                    </i>
                     <br><br>
-                    PS: Hráč v zápase využíva všetky svoje atribúty, a preto je normálne, keď natrénuje iný atribút ako má nastavený v tréningovom režime. 
+                    PS: Hráč v zápase využíva všetky svoje atribúty, a preto je normálne, keď natrénuje iný atribút ako má nastavený v tréningovom režime. </i>
                     <br><br>
