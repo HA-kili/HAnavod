@@ -12,4 +12,6 @@
                         <li> v zozname <a href="https://www.hockeyarena.net/sk/index.php?p=sponsor_tracking_form.php&action=players"> sledovanie</a> rozdeliť hráčov na sledovanie vlastných hráčov 
                              kvoli nákladom a sledovanie cudzích hráčov na trhu </li>
                         <li> zachovanie štatistík hráčov U23 pri presunoch do A mužstva a späť</li>
+                        <li> možnosť pozvať hráča do reprezentácie priamo z karty hráča</li>
                     </ul>
+                    <br><br>
