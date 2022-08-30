@@ -2,7 +2,8 @@
                 <div class="section-name"> Nájazdy </div>
                     <br>
                     Na penaltový rozstrel (<a href="https://www.hockeyarena.net/sk/index.php?p=manager_shootout.inc">nájazdy</a>) pri nerozhodnom výsledku je potrebné 
-                    nastaviť aspoň <a href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=12431"> 3 unikátnych hráčov</a> , inak budú hráči systémom vybratí automaticky. Hráči budú v nájazdoch rotovach podľa toho ako boli zoradení. 
+                    nastaviť aspoň 3 unikátnych hráčov, inak budú hráči systémom vybratí automaticky. Hráči budú v nájazdoch rotovach podľa toho ako boli zoradení. 
+                    <a class="novinky" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=12431"><img class="icons" src="./icons/novinka.png"></a>
                     <br><br>
                     <b>Na zápas musia byť k dispozícii najmenej 3 kompletné formácie a 1 brankár, v opačnom prípade systém vygeneruje automatickú náhodnú zostavu. </b>
                     <br><br><br>
@@ -10,7 +11,7 @@
                     Najskôr každé mužstvo uskutoční 3 nájazdy, keď sa po tejto sérii nájazdov nerozhodne, nasleduje pre každé mužstvo po jednom nájazde až kým sa nerozhodne. 
                     </i>
                     <br><br>
-                    <i><u> A ako správne <a href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=10910"> nastaviť</a> hráčov na nájazdy ?</u>
+                    <i><u> A ako správne nastaviť hráčov na nájazdy ?</u> <a class="novinky" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=10910"><img class="icons" src="./icons/novinka.png"></a>
                     <br>
                     Každému hráčovi je možné nastaviť či vystrelí, alebo skúsi blafák. 
                     <br>   

@@ -5,7 +5,7 @@
                     <br>
                     <h1> Počet členov fanúšikov vo fanklube ovplyvňuje : </h1>
                     <ul>
-                        <li>týždenné príjmy od sponzora, za 1 fanúšika mužstvo dostáva 8 500 týždenn</li>
+                        <li>týždenné príjmy od sponzora, za 1 fanúšika mužstvo dostáva 8 500 týžden <a class="novinky" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=9696"><img class="icons" src="./icons/novinka.png"></a></li>
                         <li>návštevnosť na všetkých zápasoch </li>
                         <li>limit minimálnej a maximálnej ceny vstupenky v rámci ligy </li>
                         <li>motivácia hráčov počas zápasu - zvyšuje sa podľa počtu divákov a úrovne roztlieskávačiek</li>

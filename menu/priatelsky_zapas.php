@@ -11,10 +11,13 @@
                     <br><br>
                     Nastavenie dôležitosti zápasu ovplyvňuje motiváciu hráčov na priateľskom zápase aj šancu na zranenie, ale na náladu mužstva nemá vplyv. 
                     <br><br>
-                    Maximálny počet požiadaviek na automaticky naplánovaný priateľský zápas bol zvýšený na <a href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=12344">20</a> . 
+                    Automatické plánovanie priateľských zápasov je opravené, aj po odohratí zápasov v niektorých krajinách, bude ešte možné naplánovať nový zápas na aktuálny deň. 
+                    <a class="novinky" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=12087"><img class="icons" src="./icons/novinka.png"></a>
+                    <br>
+                    Maximálny počet požiadaviek na automaticky naplánovaný priateľský zápas bol zvýšený na 20. <a class="novinky" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=12344"><img class="icons" src="./icons/novinka.png"></a>
                     <br><br>
                     <b> Pri veľkom prepočte (sezónnom) sa všetky poslané výzvy zmažú !!! </b>
-                    <br><br><br>
+                    <br><br>
                     Priateľské zápasy je možné hrať aj formou turnajov aby sa zvýšila súťaživosť medzi manažérmi aj v týchto nie moc dôležitých zápasoch. 
                     Tu nájdeš zoznam a podmienky jednotlivých <a href="https://www.hockeyarena.net/sk/index.php?p=manager_discussion_posts.php&table_id=451805&last_seen=0"> turnajov</a>. 
                     <br><br>

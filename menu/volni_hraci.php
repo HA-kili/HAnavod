@@ -9,7 +9,7 @@
                     v prípade záujmu o podpísanie chráneného voľného hráča, ktorého uzávierka sa bude končiť v čase, keď manažér nebude prítomný v hre, môže pri odosielaní ponuky zapnúť možnosť
                     <u>'Automatická ponuka' </u>. Táto funkcia bude automaticky posielať ponuky na hráča až do výšky zvolenej maximálnej sumy.
                     <br><br>
-                    <b> Manažér môže mať v jednom momente zadaných max 10 automatických ponúk !!! </b>
+                    <b> Manažér môže mať v jednom momente zadaných max 10 automatických ponúk !!! </b> <a class="novinky" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=13519"><img class="icons" src="./icons/novinka.png"></a>
                     <br><br>
-                    <b> Nieje možné poslať ponuku na hráča, ktorý odišiel z mužstva skôr ako pred 3 mesiacmi (90 dní) !!! </b>
+                    <b> Nieje možné poslať ponuku na hráča, ktorý odišiel z mužstva skôr ako pred 3 mesiacmi (90 dní) !!! </b> <a class="novinky" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=8475"><img class="icons" src="./icons/novinka.png"></a>
                     <br><br>

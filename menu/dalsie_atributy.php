@@ -35,8 +35,9 @@
                     <b> Potenciál </b> 
                     <br> 
                     Každý hráč má vekový horizont. Keď ho dosiahne, začnú sa zhoršovať jeho schopnosti. Hodnota potenciálu sa postupne znižuje, ako hráč starne a potenciál 0 % znamená, že hráč dosiahol svoj vekový horizont. Hráč
-                    s potenciálom 0% po zostarnutí si môže <a href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=12258"> uchovať</a>  0% potenciál ešte ďalší HA rok, toto sa môže stať pre hráča posledný krát pri zostarnutí z 33 na 34. Jeden hráč môže takto zostarnúť aj viackrát za svoj “život”. Praktický rozdiel
-                    medzi hráčmi s potenciálom 20 % a 50 % je taký, že prvý dosiahne skôr svoj vekový horizont a začnú sa mu skôr zhoršovať schopnosti.
+                    s potenciálom 0% po zostarnutí si môže uchovať 0% potenciál ešte ďalší HA rok, toto sa môže stať pre hráča posledný krát pri zostarnutí z 33 na 34. Jeden hráč môže takto zostarnúť aj viackrát za svoj “život”. 
+                    <a href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=12258"><img class="icons" src="./icons/novinka.png"></a>  Praktický rozdiel medzi hráčmi s potenciálom 20 % a 50 % je taký, že prvý dosiahne 
+                    skôr svoj vekový horizont a začnú sa mu skôr zhoršovať schopnosti.
                     <br>
                     Čo sa týka záporného potenciálu, tak rýchlosť klesania atribútov nájdete v sekcii <a href="index.php?navod=klesanie_atributov_%"> Tréning - Klesanie atribútov</a> .
                     <br>
@@ -91,9 +92,11 @@
                     <br><br>
                     <u> Vernostný bonus </u>
                     <br> 
-                    Manažér bude môcť každú sezónu vybrať 1 hráča zo základnej zostavy, ktorému vyplatí <u><i> tzv. vernostný bonus </i></u>. Tento bonus zvýši natrvalo hráčovu lojalitu, ale na druhej strane môže mať negatívny vplyv na lojalitu iných hráčov,
-                    ktorí bonus nedostali. Vyplatiť bonus môžete cez linku "Zmluva" z detailu hráča alebo cez <img style="icons" src="./icons/plusko.gif"> , ktoré nájdete tiež v detailnom okne hráča. O pozitívnom aj negatívnom vplyve budete detailne informovaní pred vyplatením konkrétneho bonusu. Lojalita sa nedá meniť u hráčov, ktorí sú aktuálne na trhu
-                    a týka sa to pozitívnej aj negatívnej zmeny. Na zmenu lojality hráča je potrebné splniť <a href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=9340"> podmienku</a> 20 odohraných zápasov a 300 minút za sezónu (rátajú sa zápasy základnej časti a playoff, playout nie). <span class="red">Výšku vernostného bonusu ovplyvňuje ekonomická úroveň mužstva a aktuálna lojalita hráča.</span>
+                    Manažér bude môcť každú sezónu vybrať 1 hráča zo základnej zostavy, ktorému vyplatí <u><i> tzv. vernostný bonus </i></u>. <a class="novinky" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=9696"><img class="icons" src="./icons/novinka.png"></a>
+                    Tento bonus zvýši natrvalo hráčovu lojalitu, ale na druhej strane môže mať negatívny vplyv na lojalitu iných hráčov, ktorí bonus nedostali. Vyplatiť bonus môžete cez linku "Zmluva" z detailu hráča alebo cez <img class="icons" src="./icons/plusko.gif"> , ktoré nájdete tiež 
+                    v detailnom okne hráča. O pozitívnom aj negatívnom vplyve budete detailne informovaní pred vyplatením konkrétneho bonusu. Lojalita sa nedá meniť u hráčov, ktorí sú aktuálne na trhu a týka sa to pozitívnej aj negatívnej zmeny. Na zmenu lojality hráča je potrebné splniť 
+                    podmienku 20 odohraných zápasov a 300 minút za sezónu (rátajú sa zápasy základnej časti a playoff, playout nie). <a href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=9340"><img class="icons" src="./icons/novinka.png"></a> 
+                    <span class="red">Výšku vernostného bonusu ovplyvňuje ekonomická úroveň mužstva a aktuálna lojalita hráča.</span> <a class="novinky" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=8741"><img class="icons" src="./icons/novinka.png"></a>
                     <br><br>
                     <p class="oprava_lojality"> <a href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=13835"><u> Oprava lojality - dočasné riešenie </u> </a> (ukončené)
                     <br> 

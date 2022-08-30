@@ -14,7 +14,7 @@
                     Zraneným hráčom sa dĺžka zranenia mení (zmenšuje) každý deň po prepočte, čiže po 22:00 hod. 
                     <br><br> 
                     Celková dĺžka zranenia hráča za sezónu sa zobrazuje v sekcii <a href="https://www.hockeyarena.net/sk/index.php?p=manager_team_statistics.php#x"> Menu - Hráči - Štatistiky</a> 
-                    (iba pre <a href="https://www.hockeyarena.net/sk/index.php?index.php&p=public_shop.php">sponzorský balík</a> )
+                    (iba pre <a href="https://www.hockeyarena.net/sk/index.php?index.php&p=public_shop.php">sponzorský balík</a>). <a class="novinky" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=13519"><img class="icons" src="./icons/novinka.png"></a>
                     <br><br> 
                     Zranenie hráča je možné zmenšiť pomocou dresu “Zranenie“ – sekcia <a href="index.php?navod=specialne_dresy">Dresy</a>
                     <br><br>

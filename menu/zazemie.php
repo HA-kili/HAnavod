@@ -39,8 +39,9 @@
                     <br>
                     <img class="icons" src="./icons/nechytatelna_strela.png" > - znamená presnú hodnotu. 
                     <br><br>
-                    <u> Prieskum zápasu</u> - aktivuje sa kliknutím na linku 'Preskúmaj!' v okne zápasu a výsledok je prehľad umiestnenia gólových striel. Takýto prieskum stojí manažéra 2 prieskumy z juniorskej prípravky a bude uchovaný 70 dní. Po preskúmaní zápasu sa už nebude 
-                    zobrazovať kam mužstvá mierili strely, v prípade že ani jedno z mužstiev nie je vlastnené skúmajúcim manažérom. 
+                    <u> Prieskum zápasu</u> - aktivuje sa kliknutím na linku 'Preskúmaj!' v okne zápasu a výsledok je prehľad umiestnenia gólových striel. Takýto prieskum stojí manažéra 2 prieskumy z juniorskej prípravky a bude uchovaný 70 dní. 
+                    <a class="novinky" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=6675"><img class="icons" src="./icons/novinka.png"></a>
+                    Po preskúmaní zápasu sa už nebude zobrazovať kam mužstvá mierili strely, v prípade že ani jedno z mužstiev nie je vlastnené skúmajúcim manažérom. 
                     <br><br>
                     <u> Prieskum hráča</u> - v prípade špeciálneho záujmu o niektorého hráča je možné zadať v oddelení prieskumu (alebo na karte hráča) jeho dôkladné preskúmanie. Po ukončení dôkladného prieskumu budú k dispozícii niektoré atribúty hráča, ktoré boli dovtedy skryté a u cudzích
                     hráčov aj ich schopnosti. Takto je možné preskúmať 3 hráčov za deň. Hráča je možné (okrem dôkladného prieskumu za peniaze) preskúmať aj okamžite, čo stojí manažéra 3 prieskumy z juniorskej prípravky. Tento prieskum je možné uskutočniť na karte hráča po kliknutí na kvalitu/potenciál. 
@@ -50,7 +51,7 @@
                     <br>
                     V prípade, že chcete vedieť, aké hodnoty kvality a potenciálu ukazuje Vášmu hráčovi, keby nebol preskúmaný, tak viete kliknúť na kvalitu/potenciál na karte hráča a tieto hodnoty Vám ukáže. Toto samozrejme platí iba pre tých manažérov, čo majú <a href="https://www.hockeyarena.net/sk/index.php?index.php&p=public_shop.php"> sponzorský balík </a> .
                     <br><br>
-                    <b> !!! Nie je možné z Ačka <a href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=11907"> preskúmať zápas</a> , v ktorom sa nachádza jeden z tímov z ligy, v ktorej sa nachádza manažérov B tím a naopak !!! </b>
+                    <b> !!! Nie je možné z Ačka preskúmať zápas, v ktorom sa nachádza jeden z tímov z ligy, v ktorej sa nachádza manažérov B tím a naopak !!! </b> <a class="novinky" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=11907"><img class="icons" src="./icons/novinka.png"></a>
                     <br><br><br>
                     <u> Vlastných hráčov bez skúmania vidí manažér v rôznych rokoch nasledovne: </u> 
                     <br> 17 rokov 

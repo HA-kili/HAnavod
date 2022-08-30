@@ -20,9 +20,10 @@
                     <br>
                     <b><h4>Playoff</h4></b>
                     <a href="https://www.hockeyarena.net/sk/index.php?p=manager_tourney_details_form.php&tour_id=5">Playoff</a>  sa zúčastňuje prvých 8 mužstiev po základnej časti <a href="https://www.hockeyarena.net/sk/index.php?p=public_standings.inc">(mužstvá nad čiarov)</a>  
-                    a hrajú sa tri vyraďovacie kolá (štvrťfinále, semifinále, finále). Hrá sa na dva víťazné zápasy, čiže do ďalšieho kola postupuje mužstvo, ktoré vyhrá 2 zápasy. Výhodu domáceho prostredia v prvom zápase má lepšie umiestnené mužstvo po základnej časti. 
-                    Nasledujúci zápas sa domáce mužstvo vždy vymení. V prípade remízy po 60.minútach nasleduje 20-minútové predĺženie. Ak sa nerozhodne, nasledujú <a href="https://www.hockeyarena.net/sk/index.php?p=manager_shootout.inc">samostatné nájazdy</a>. Na penaltový rozstrel 
-                    je potrebné nastaviť min. 3 unikátnych hráčov (max.15), inak budú hráči systémom vybratí automaticky.
+                    a hrajú sa tri vyraďovacie kolá (štvrťfinále, semifinále, finále). Dvojice vo vyraďovacích kolách sa vždy určujú podľa postavenia týmov po základnej časti, čiže najlepšie umiestnené mužstvo hrá s najhoršie umiestneným mužstvom. Hrá sa na dva víťazné zápasy, 
+                    čiže do ďalšieho kola postupuje mužstvo, ktoré vyhrá 2 zápasy. Výhodu domáceho prostredia v prvom zápase má lepšie umiestnené mužstvo po základnej časti. Nasledujúci zápas sa domáce mužstvo vždy vymení. V prípade remízy po 60.minútach nasleduje 20-minútové predĺženie. 
+                    <a class="novinky" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=10910"><img class="icons" src="./icons/novinka.png"></a> Ak sa nerozhodne, nasledujú <a href="https://www.hockeyarena.net/sk/index.php?p=manager_shootout.inc">samostatné nájazdy</a>. 
+                    Na penaltový rozstrel je potrebné nastaviť min. 3 unikátnych hráčov (max.15), inak budú hráči systémom vybratí automaticky.
                     <br><br> 
                     Do vyššej ligy postupujú finalisti playoff.
                     <br><br>
@@ -32,8 +33,8 @@
                     <b><h4>Playout (o záchranu)</h4></b>
                     <a href="https://www.hockeyarena.net/sk/index.php?p=manager_tourney_details_form.php&tour_id=36">Playout</a>  sa zúčastňuje 8 mužstiev umiestnených v tabuľke po základnej časti na pozíciách 9-16 pozícii <a href="https://www.hockeyarena.net/sk/index.php?p=public_standings.inc">(mužstvá pod čiarov)</a>. 
                     Hrá sa systémom každý s každým a výhodu domáceho prostredia má lepšie umiestnené mužstvo po základnej časti.
-                    Aktívne mužstvá si prenášajú body zo základnej časti, neaktívnym mužstvám sa získané body nulujú. V prípade remízy po 60.minútach nasleduje 20-minútové predĺženie. Ak sa nerozhodne, nasledujú <a href="https://www.hockeyarena.net/sk/index.php?p=manager_shootout.inc">samostatné nájazdy</a>. 
-                    Na penaltový rozstrel je potrebné nastaviť min. 3 unikátnych hráčov (max.15), inak budú hráči systémom vybratí automaticky.
+                    Aktívne mužstvá si prenášajú body zo základnej časti, neaktívnym mužstvám sa získané body nulujú. V prípade remízy po 60.minútach nasleduje 20-minútové predĺženie. <a class="novinky" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=10910"><img class="icons" src="./icons/novinka.png"></a> 
+                    Ak sa nerozhodne, nasledujú <a href="https://www.hockeyarena.net/sk/index.php?p=manager_shootout.inc">samostatné nájazdy</a>. Na penaltový rozstrel je potrebné nastaviť min. 3 unikátnych hráčov (max.15), inak budú hráči systémom vybratí automaticky.
                     <br><br>
                     <i><u>Hodnotenie zápasov v playout : </i></u>
                     <br> 

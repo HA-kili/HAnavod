@@ -1,9 +1,9 @@
 
                 <div class="section-name"> Pokročilé zápasové taktiky </div>
                     <br>
-                    Pripravili sme úplne nový systém nastavenia taktiky na zápas (<a href="https://www.hockeyarena.net/sk/index.php?p=guide.gui&a=disp&type=section&id=5"> pokročilé zápasové taktiky</a> ), kde je možné ovplyvniť viaceré taktické nastavenia aj počas zápasu, podľa aktuálneho skóre alebo iných udalostí. Všetky potrebné informácie
+                    Pripravili sme úplne nový systém nastavenia taktiky na zápas (<a href="https://www.hockeyarena.net/sk/index.php?p=guide.gui&a=disp&type=section&id=5">pokročilé zápasové taktiky</a>), kde je možné ovplyvniť viaceré taktické nastavenia aj počas zápasu, podľa aktuálneho skóre alebo iných udalostí. Všetky potrebné informácie
                     nájdete v menu <a href="https://www.hockeyarena.net/sk/index.php?p=manager_tactics_adv.inc&tactics_id=65824&return_url=manager_tactics_form.php&tactics_id=65824&desc=%3Cb%3ETu+si+m%C3%B4%C5%BEe%C5%A1+nastavi%C5%A5+v%C5%A1eobecn%C3%A9+parametre+z%C3%A1pasu.+M%C3%B4%C5%BEe%C5%A1+ma%C5%A5+ulo%C5%BEen%C3%BDch+celkovo+5+r%C3%B4znych+nastaven%C3%AD.%3C/b%3E">Mužstvo - Nastavenie zápasu - Nastavenie taktiky</a> .
-                    Taktiku je možné nastaviť pre konkrétny zápas, alebo si prednastaviť zápasové profily, pre ligové, priateľské alebo iné zápasy, ktoré sa potom automaticky použijú pre všetky zápasy toho typu.
+                    Taktiku je možné nastaviť pre konkrétny zápas, alebo si prednastaviť zápasové profily, pre ligové, priateľské alebo iné zápasy, ktoré sa potom automaticky použijú pre všetky zápasy toho typu. <a class="novinky" href="https://www.hockeyarena.net/sk/index.php?p=guide.gui&a=disp&type=section&id=5"><img class="icons" src="./icons/novinka.png"></a>
                     <br><br>
                     Taktické akcie menia taktické nastavenia v priebehu zápasu podľa jednej alebo dvoch zvolených podmienok.
                     <br><br><br>

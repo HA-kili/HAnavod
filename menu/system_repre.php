@@ -8,11 +8,17 @@
                     V skupinách (E, F) sa hrá tiež systémom každý s každým a vzájomné zápasy zo základných skupín sa prenášajú. Prvé štyri tímy postupujú do vyraďovacích 
                     bojov (1/4-F, semi-F, F). Tímy na 5-6 mieste budú hrať v skupine (9-12) o konečné umiestnenie. 
                     <br><br>
-                    <b><h1> Vyraďovacie boje : </h1></b>
+                    V prípade remízy po 60.minútach nasleduje 5-minútové predĺženie. <a class="novinky" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=10910"><img class="icons" src="./icons/novinka.png"></a>
+                    Ak sa nerozhodne, nasledujú <a href="https://www.hockeyarena.net/sk/index.php?p=manager_shootout.inc">samostatné nájazdy</a>. Na penaltový rozstrel je potrebné nastaviť min. 3 unikátnych hráčov (max.15), inak budú hráči systémom vybratí automaticky. 
+                    <br><br>
+                    <b><h1> Vyraďovacie boje (Play-off) : </h1></b>
                     <ul>
                         <li><u> Štvrfinále </u> - sa hrá na jeden víťazný zápas. Víťaz postupuje do semifinále. Porazení hrajú o konečné umiestnenie (5-8 miesto). Následne víťazné tímy hrajú o 5-6 miesto a porazení hrajú o 7-8 miesto. </li>
                         <li><u> Semifinále </u> – sa hrá na jeden víťazný zápas. Víťaz postupuje do finále. Porazení hrajú o konečné umiestnenie (3-4 miesto). </li>
                         <li><u> Finále </u> – sa hrá na jeden víťazný zápas. Víťaz je majster sveta. Porazený skončil na druhom mieste. </li>
+                        <br>
+                        <li>V prípade remízy po 60.minútach nasleduje 20-minútové predĺženie. Ak sa nerozhodne, nasledujú <a href="https://www.hockeyarena.net/sk/index.php?p=manager_shootout.inc">samostatné nájazdy</a>. 
+                    Na penaltový rozstrel je potrebné nastaviť min. 3 unikátnych hráčov (max.15), inak budú hráči systémom vybratí automaticky. <a class="novinky" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=10910"><img class="icons" src="./icons/novinka.png"></a></li>
                     </ul>
                     <br><br>
                     <u> Kritéria pri rovnosti bodov na Majstrovstvách sveta </u>

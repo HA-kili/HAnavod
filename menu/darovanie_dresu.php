@@ -1,7 +1,8 @@
 
                 <div class="section-name"> Darovanie dresu </div>
                     <br>
-                    <a href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=12769"><b> Darovanie dresu</b></a>
+                    <b><u> Darovanie dresu </u></b> 
+                    <a class="novinka" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=12769"><img class="icons" src="./icons/novinka.png"></a>
                     <br><br>
                     Darovať sa dá iba dres, ktorý nebol použitý alebo darovaný. 
                     <br><br> 
@@ -15,8 +16,9 @@
                     Darovať dres môžu iba mužstvá so <a href="https://www.hockeyarena.net/sk/index.php?index.php&p=public_shop.php"> sponzorským balíkom </a>  
                     a to iba jedenkrát za sezónu.
                     <br><br><br><br>
-                    <b> Od dnes <a href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=13977"><u> 06.02.2022 </u></a> sa zmenili podmienky pre darovanie dresu, ktoré ale budú platiť iba pre dresy
-                    získané odteraz a neskôr. Pre existujúce dresy platia pôvodné podmienky darovania.  </b>
+                    <b> Od dnes <u>06.02.2022</u> sa zmenili podmienky pre darovanie dresu, ktoré ale budú platiť iba pre dresy
+                    získané odteraz a neskôr. Pre existujúce dresy platia pôvodné podmienky darovania.  </b> 
+                    <a class="novinka" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=13977"><img class="icons" src="./icons/novinka.png"></a>
                     <br><br>
                     <u> Nové podmienky darovania : </u> 
                     <br><br>

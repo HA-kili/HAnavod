@@ -10,11 +10,12 @@
                     V okne <a href="https://www.hockeyarena.net/sk/index.php?p=manager_training_form1.php">Tréning</a>  sa zobrazujú hráči, ich atribúty a pokrok v tréningu
                     za predchádzajúci deň (Tré). Pohyb atribútu znázorňuje aj zelená šípky (nárast) alebo červená šípka (pokles). 
                     <br><br> 
-                    Zvolením tréningového režimu v riadku hráča je možné nastaviť tréning alebo voľno pre jednotlivých hráčov. 
-                    <br> 
-                    Zmeny v nastavení treba potvrdiť tlačidlom "Potvrď" . 
+                    Zvolením tréningového režimu v riadku hráča je možné nastaviť tréning alebo voľno pre jednotlivých hráčov. Zmeny v nastavení treba potvrdiť tlačidlom "Potvrď" . 
                     <br><br> 
                     Výška atribútu závisí od kvality hráča. Totižto hráč si vie vytrénovať atribút max. do výšky 2,5* násobku kvality. Potom sa tréning daného atribútu výrazne spomalí.
+                    <a class="novinky" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=11707"><img class="icons" src="./icons/novinka.png"></a>
+                    <br><br>
+                    Výraznejšie skoky tréningov (smerom dole) nájdete <a href="./images/pokles_treningov.jpg">tu</a>.
                     <br><br>
                     <b> Maximálna výška každého atribútu je 255. Prípadné aktivovanie dresu, ktorý má zvýšiť atribút hráča o 10 bodov, sa tento atribút aj napriek tomu nenavýši. </b>
                     <br><br><br>

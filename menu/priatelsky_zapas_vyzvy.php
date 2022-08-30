@@ -18,7 +18,7 @@
                     Naplánovaný priateľský zápas sa dá zrušiť, avšak <u>najneskôr</u> 3 dni pred zápasom. Zápas zrušíš kliknutím na ikonku Kôš. Ak sa pri zápase nenachádza ikonka kôš, znamená to, že tento zápas nie je možné zrušiť. Zrušiť vieš len priateľské
                     zápasy. Iné zápasy nie je možné zrušiť.
                     <br> <br>
-                    Manažér so <a href="https://www.hockeyarena.net/sk/index.php?index.php&p=public_shop.php">Sponzorským balíkom (SB)</a>  môže plánovať priateľské zápasy automaticky. V kalendári tímu v deň keď nie je naplánovaný zápas je ikona plánovača  <img class="icons" src="./icons/kalendar.png" >. 
+                    Manažér so <a href="https://www.hockeyarena.net/sk/index.php?index.php&p=public_shop.php">Sponzorským balíkom</a>  môže plánovať priateľské zápasy automaticky. V kalendári tímu v deň keď nie je naplánovaný zápas je ikona plánovača  <img class="icons" src="./icons/kalendar.png" >. 
                     Po kliknutí sa otvorí karta, kde si môžeš zadať podmienky pre naplánovanie zápasu. Ide o nasledovné možnosti :
                     <br><br>
                     <ul>

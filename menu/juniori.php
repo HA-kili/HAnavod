@@ -47,11 +47,10 @@
                     <br><br> 
                     Nedraftovaný hráč z juniorskej prípravky bude mať počiatočnú skúsenosť podobne ako jeho draftovaný kamarát. 
                     <br><br>
-                    <b> Počiatočné IŠ hráčov z juniorky bude závisieť od aktuálneho dňa v sezóne. </b> 
-                    <br> 
-                    Tým pádom bude trošku výhodnejšie povyšovať hráčov počas celej sezóny. Týka sa to iba juniorov vo veku 17, 18 a 19 rokov. 
+                    <b> Počiatočné IŠ hráčov z juniorky bude závisieť od aktuálneho dňa v sezóne. </b> Tým pádom bude trošku výhodnejšie povyšovať hráčov počas celej sezóny. Týka sa to iba juniorov vo veku 17, 18 a 19 rokov. 
+                    <a class="novinky" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=12769"><img class="icons" src="./icons/novinka.png"></a> 
                     <br><br><br><br>
-                    <u> Zverejňujeme ako sa kombinuje talent hráča a možné doplnkové atribúty pri narodení hráča. Hráč má jeden hlavný atribút (talent), jeden alebo dva doplnkové atribúty, vo výnimočných prípadoch iba hlavný atribút : </u> 
+                    <u> Zverejňujeme ako sa kombinuje talent hráča a možné doplnkové atribúty pri narodení hráča. Hráč má jeden hlavný atribút (talent), jeden alebo dva doplnkové atribúty, vo výnimočných prípadoch iba hlavný atribút : </u> <a class="novinky" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=11907"><img class="icons" src="./icons/novinka.png"></a>
                     <br><br> 
                     brána + rýchlosť, nahrávka, sebaovládanie 
                     <br><br> 

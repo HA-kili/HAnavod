@@ -11,7 +11,7 @@
                 <b>Logo mužstva </b>
                 <br> 
                 Ak sa chceš prezentovať pekným <a href="https://www.hockeyarena.net/sk/index.php?p=sponsor_logo_admin.php">logom</a> , môžeš k svojmu mužstvu nahrať obrázok, ktorý sa bude zobrazovať ako logo mužstva v detailnom okne. Logo je možné podľa potreby ľubovoľne meniť.
-                <u> Maximálna veľkosť loga je 51200 bajtov, šírka 400 pixelov, výška 200 pixelov. </u> Každý deň je možné zahlasovať za jedno logo a víťazné sa zobrazuje na hlavnej stránke ako logo dňa! Poradie hlasovenia je možné vidieť <a href="https://www.hockeyarena.net/sk/index.php?p=sponsor_logo_competition.php&action=rank"> tu </a> . 
+                <u> Maximálna veľkosť loga je 51200 bajtov, šírka 400 pixelov, výška 200 pixelov. </u> Každý deň je možné zahlasovať za jedno logo a víťazné sa zobrazuje na hlavnej stránke ako logo dňa! Poradie hlasovenia je možné vidieť <a href="https://www.hockeyarena.net/sk/index.php?p=sponsor_logo_competition.php&action=rank"> tu </a>. 
                 <br><br>
                 <b> Automatické ponuky na trhu </b> 
                 <br> 
@@ -33,22 +33,22 @@
                 <br>
                 <br><b> Web stránka mužstva </b> 
                 <br> 
-                K mužstvu je možné zadať adresu na <a href="https://www.hockeyarena.net/sk/index.php?p=sponsor_main_form.php">web stránku</a>  mužstva. Táto linka sa zobrazuje v detailnom okne mužstva každému, kto si ho zobrazí.
+                K mužstvu je možné zadať adresu na <a href="https://www.hockeyarena.net/sk/index.php?p=sponsor_main_form.php">web stránku</a> mužstva. Táto linka sa zobrazuje v detailnom okne mužstva každému, kto si ho zobrazí.
                 <br><br>
                 <b> Tlačové správy mužstva </b> 
                 <br> 
-                Ak chceš informovať svojich fanúšikov o najnovších udalostiach v mužstve alebo o plánovaných zmenách, môžeš použiť <a href="https://www.hockeyarena.net/sk/index.php?p=sponsor_press_admin.php">tlačové správy</a> . Tieto správy sa zobrazujú v okne mužstva, ale aj v okne ligových
+                Ak chceš informovať svojich fanúšikov o najnovších udalostiach v mužstve alebo o plánovaných zmenách, môžeš použiť <a href="https://www.hockeyarena.net/sk/index.php?p=sponsor_press_admin.php">tlačové správy</a>. Tieto správy sa zobrazujú v okne mužstva, ale aj v okne ligových
                 tabuliek. Správy je možné vytvárať, editovať aj vymazať.
                 <br><br>
                 <b> Sledovanie</b> 
                 <br> 
-                Môžeš sledovať vybraných hráčov – ich aktuálne mužstvo, ligu a ďalšie vlastnosti. Všetky tieto informácie sú dostupné prehľadne v jednom okne a to v Menu <a href="https://www.hockeyarena.net/sk/index.php?p=sponsor_tracking_form.php&action=players">Hráči - Sledovanie</a>  . 
-                Sledovanie vlastných hráčov teraz počíta priebežné náklady na plat a podpisové bonusy hráča počas jeho kariéry. Stačí začať sledovať vlastného hráča a systém sa o to postará automaticky. Náklady sa zobrazujú na karte hráča aj v zozname sledovaných hráčov.
-                
+                Môžeš sledovať vybraných hráčov – ich aktuálne mužstvo, ligu a ďalšie vlastnosti. Všetky tieto informácie sú dostupné prehľadne v jednom okne a to v Menu <a href="https://www.hockeyarena.net/sk/index.php?p=sponsor_tracking_form.php&action=players">Hráči - Sledovanie</a>. 
+                Sledovanie vlastných hráčov teraz počíta priebežné náklady na plat a podpisové bonusy hráča počas jeho kariéry. Stačí začať sledovať vlastného hráča a systém sa o to postará automaticky. Náklady sa zobrazujú na karte hráča aj v zozname sledovaných hráčov. 
+                <a class="novinky" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=11351"><img class="icons" src="./icons/novinka.png"></a>
                 <br><br>
                 <b> Poznámky </b> 
                 <br> 
-                Ku každému hráčovi si môžeš zapísať krátky text <span class="red">(maximálne 500 znakov)</span> . Poznámku je možné zapísať alebo zmeniť cez odkaz 'Poznámka' v detailnom okne hráča. Jeden manažér môže mať naraz <span class="red"> najviac 100 poznámok. </span>
+                Ku každému hráčovi si môžeš zapísať krátky text <span class="red">(maximálne 500 znakov)</span>. Poznámku je možné zapísať alebo zmeniť cez odkaz 'Poznámka' v detailnom okne hráča. Jeden manažér môže mať naraz <span class="red"> najviac 100 poznámok. </span>
                 <br><br>
                 <b> Služba e-mailových notifikácií </b> 
                 <br> 

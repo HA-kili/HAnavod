@@ -34,14 +34,15 @@
                     <br><br>
                     <b> Sebaovládanie  </b>
                     <br> 
-                    Pre hráča v poli – pri agresívnej hre spôsobuje nízke sebaovládanie častejšie vylučovanie hráča. Počet vylúčení závisí prevažne od následnej kombninácii : nastavenia agresivity formácií a pomer vášho a súperovho sebaovládania.
+                    Pre hráča v poli – pri agresívnej hre spôsobuje nízke sebaovládanie častejšie vylučovanie hráča. Počet vylúčení závisí prevažne od následnej kombninácii : nastavenia agresivity formácií a pomer vášho a súperovho sebaovládania. 
+                    <a class="novinky" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=11321"><img class="icons" src="./icons/novinka.png"></a>
                     <br> 
                     Pre brankára – nízke sebaovládanie brankára môže na zápase spôsobiť po sérii inkasovaných gólov v rýchlom slede pokles jeho sebadôvery a koncentrácie. To bude mať za následok zhoršenie jeho výkonu až do konca zápasu. V reporte
                     zo zápasu je táto udalosť označená hlásením <u> 'Brankár stratil sebadôveru a koncentráciu' </u>.
                     <br>
-                    <b> Sebaovládanie hráčov mladších ako 41 rokov <a href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=12314"> nebude</a> odteraz vôbec klesať. </b>
+                    <b> Sebaovládanie hráčov mladších ako 41 rokov nebude odteraz vôbec klesať. </b> <a class="novinky" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=12314"><img class="icons" src="./icons/novinka.png"></a>
                     <br><br><br> 
-                    Tieto atribúty sa zlepšujú počas tréningu aj počas zápasu. Na zápase sa zlepšujú podľa toho, na akej pozícii hráč hrá. Nastavenie tréningu a spôsob zlepšovania týchto atribútov sú podrobne popísané v časti návodu <a href="./menu/trening.html">Tréning</a> .
+                    Tieto atribúty sa zlepšujú počas tréningu aj počas zápasu. Na zápase sa zlepšujú podľa toho, na akej pozícii hráč hrá. Nastavenie tréningu a spôsob zlepšovania týchto atribútov sú podrobne popísané v časti návodu <a href="index.php?navod=trening">Tréning</a> .
                     <br><br><br> <br>
                     <u> Ďalšie atribúty </u>, ktoré priamo ovplyvňujú výkon hráča na zápase, ale menia sa podľa iných pravidiel ako predchádzajúca skupina :
                     <br><br><br>

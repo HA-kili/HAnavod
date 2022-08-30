@@ -2,7 +2,7 @@
                 <div class="section-name"> Stávková kancelária </div>
                     <br>
                     Pre spríjemnenie hry tu máme pre Vás zábavu vo forme stávkovej kancelárie, kde si možete vyskúšať 
-                    stávkovanie. Táto možnosť je iba pre manažérov so <a href="https://www.hockeyarena.net/sk/index.php?p=public_shop.php"> sponzorským balíkom - SB</a> .
+                    stávkovanie. Táto možnosť je iba pre manažérov so <a href="https://www.hockeyarena.net/sk/index.php?p=public_shop.php"> sponzorským balíkom</a> .
                     <br><br><br>
                     <b> Pravidlá pre stávkovú kanceláriu </b>
                     <br>

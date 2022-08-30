@@ -25,7 +25,8 @@
                     Každá z taktických špecializácií bude mať iné požiadavky na jednotlivé pozície hráčov a od toho bude závisieť jej úspešnosť. Konkrétne požiadavky na hráčske pozície pre tieto taktiky nájdete 
                     v menu <a href="https://www.hockeyarena.net/sk/index.php?p=manager_lines_form_new.php"> Hráči - Zostava - Formácie</a>. 
                     <br><br>
-                    <a href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=13377"> Maximálna možná zohranosť formácie</a>
-                    – najlepšie tri možné taktiky pre konkrétnu formáciu už nebudú tak výrazne zvýhodnené s cieľom umožniť lepšiu použiteľnosť všetkých taktík a protitaktík. Zrušenie miernej výhody taktiky "Hurá systém" 
-                    proti iným taktikám – táto zmena nadobudne účinnosť od 29.5.2021.  
+                    <u> Maximálna možná zohranosť formácie </u> – najlepšie tri možné taktiky pre konkrétnu formáciu už nebudú tak výrazne zvýhodnené s cieľom umožniť lepšiu použiteľnosť všetkých taktík a protitaktík. 
+                    <br>
+                    Zrušenie miernej výhody taktiky "Hurá systém" proti iným taktikám – táto zmena nadobudne účinnosť od 29.5.2021. 
+                    <a class="novinky" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=13377"><img class="icons" src="./icons/novinka.png"></a> 
                     <br><br>

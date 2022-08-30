@@ -4,7 +4,7 @@
                     Každú sobotu (v pripade možnosti získania dresu) budú môcť hráči na základe určitých podmienok získať <b> špeciálny dres</b>, ktorý dá hráčovi rôzne bonusy. 
                     Typ dresu sa bude meniť každý mesiac. Dres bude po aktivácii možné znovu deaktivovať najskôr po 14 dňoch. 
                     Dresy je možné aktivovať / prepínať na karte hráča, po kliknutí na fotku hráča - platí iba 
-                    so <a href="https://www.hockeyarena.net/sk/index.php?index.php&p=public_shop.php"> Sponzorským balíkom - SB</a> . 
+                    so <a href="https://www.hockeyarena.net/sk/index.php?index.php&p=public_shop.php"> Sponzorským balíkom</a> . 
                     Bez Sponzorského balíka je tieto zmeny možné robiť cez Menu - <a href="https://www.hockeyarena.net/sk/index.php?p=manager_jersey.inc"> Hráči - Dres </a> ,  
                     kde sa nachádza zoznam všetkých hráčov, ktorí vlastnia dres. Po kliknutí na hráča sa ukážu dresy, kde je následne možné robiť zmeny. 
                     <br>
