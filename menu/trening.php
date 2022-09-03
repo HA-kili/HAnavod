@@ -8,7 +8,7 @@
                     <br> - priradenie jednotlivých režimov k hráčom v menu <a href="https://www.hockeyarena.net/sk/index.php?p=manager_training_form1.php">Hráči - Tréning</a> 
                     <br><br> 
                     V okne <a href="https://www.hockeyarena.net/sk/index.php?p=manager_training_form1.php">Tréning</a>  sa zobrazujú hráči, ich atribúty a pokrok v tréningu
-                    za predchádzajúci deň (Tré). Pohyb atribútu znázorňuje aj zelená šípky (nárast) alebo červená šípka (pokles). 
+                    za predchádzajúci deň (Tré). Pohyb atribútu znázorňuje aj zelená šípky (nárast) <img class="img" src="./icons/zelena_sipka.png" > alebo červená šípka (pokles) <img class="img" src="./icons/cervena_sipka.png" alt="">. 
                     <br><br> 
                     Zvolením tréningového režimu v riadku hráča je možné nastaviť tréning alebo voľno pre jednotlivých hráčov. Zmeny v nastavení treba potvrdiť tlačidlom "Potvrď" . 
                     <br><br> 

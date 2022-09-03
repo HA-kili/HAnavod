@@ -3,7 +3,7 @@
                     <br>
                     <b><h4> Majstrovstvá sveta (MS)</h4></b>
                     Mužstvá sú do základných skupín (A, B, C, D) nasadzované po štyroch. Hrá sa systémom každý s každým. Prvé tri tímy postupujú ďalej do skupín (E, F), 
-                    posledný v skupine bude hrať v skupine (13-16) o záchranu. 
+                    posledný v skupine budú hrať v skupine (13-16) o záchranu.  
                     <br><br> 
                     V skupinách (E, F) sa hrá tiež systémom každý s každým a vzájomné zápasy zo základných skupín sa prenášajú. Prvé štyri tímy postupujú do vyraďovacích 
                     bojov (1/4-F, semi-F, F). Tímy na 5-6 mieste budú hrať v skupine (9-12) o konečné umiestnenie. 
@@ -48,5 +48,14 @@
                         <br> LOT 100*(2-3) + 2= -98 
                     </ul>
                     <br>
+                    <h1><u>Postupujúci a zostupujúci v jednotlivých kategóriách :</u></h1>
+                    <b>MS</b> - zostupujú posledné dva tímy <img class="img" src="./icons/cervena_sipka.png" >
+                    <br>
+                    <b>MS I A(B)</b> - postupuje prvý tím <img class="img" src="./icons/zelena_sipka.png" > - zostupujú posledné dva tímy <img class="img" src="./icons/cervena_sipka.png" >
+                    <br>
+                    <b>MS II A(B)</b> - postupujú prvé dva tímy <img class="img" src="./icons/zelena_sipka.png" > - zostupuje posledný tím <img class="img" src="./icons/cervena_sipka.png" >
+                    <br>
+                    <b>MS III A</b> - postupujú prvé dva tímy <img class="img" src="./icons/zelena_sipka.png" >
+                    <br><br><br>
                     <b><h1> Ďalšie informácie k reprezentácii nájdete v sekcii <a href="index.php?navod=reprezentacia"> B / U23 / Reprezentácia </a> . </h1></b>
                     <br><br>
