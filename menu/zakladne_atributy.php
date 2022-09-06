@@ -57,6 +57,8 @@
                     Ak sú TP a RP vyrovnané, tak pri 100% oddychu denne stúpne energia hráča o 33 bodov. 
                     <br>
                     V detailom pohľade na zápas je možné sledovať energiu hráčov tesne pred zápasom a tesne po zápase v stĺpci Ene.
+                    <br>
+                    Rýchlosť ubúdania energie je odteraz priamo ovplyvnená <a href="index.php?navod=pokrocile_taktiky"> úrovňou agresivity</a>. 
                     <br><br><br>
                     <b> Forma, skúsenosť </b>
                     <br> 

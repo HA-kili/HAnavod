@@ -40,7 +40,7 @@
                     <br><br><br>              
                     <b><h1> Agresivita </b></h1> 
                     Manažér má možnosť počas zápasu meniť agresivitu podľa zvolených podmienok. Agresivita v spojení so silou a sebaovládaním hráča môže mať pozitívny vplyv na celkovú prevahu formácie na ľade, ale pri nízkom sebaovládaní
-                    hráčov spôsobuje častejšie vylučovanie. Úroveň agresivity ovplyvňuje aj rýchlosť ubúdania energie hráčov :
+                    hráčov spôsobuje častejšie vylučovanie. Úroveň agresivity ovplyvňuje aj rýchlosť ubúdania energie hráčov : <a class="novinky" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=10941"><img class="icons" src="./icons/novinka.png"></a>
                     <br>
                     <br> Nízka - spotreba energie: 100% 
                     <br> Stredná - spotreba energie: 102% 

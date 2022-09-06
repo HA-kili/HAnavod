@@ -10,11 +10,16 @@
                     <span class="red">Jednorazový poplatok za kompletné tréningové sústredenie hráča závisí od .....................</span>
                     <br><br>
                     Manažér ďalej môže jeden krát za určité obdobie (podľa úrovne oddelenia prieskumu) zmeniť vybranému hráčovi jeho počiatočnú pozíciu v mužstve a tak ovplyvniť jeho počiatočné rozdelenie atribútov. 
+                    <a class="novinky" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=10672"><img class="icons" src="./icons/novinka.png"></a>
                     <br>
                     100% oddelenie prieskumu = 35 dní
                     <br><br>
                     Do seniorského mužstva môžeš povýšiť aj 16 ročných hráčov, ale pozor, takéto povýšenie spôsobí zníženie potenciálu o jednu úroveň a títo hráči nebudú hrať zápasy až kým nedosiahnu 17 rokov. Výhoda je, že ich lojalita sa povýšením zvýši o jeden bod. Podmienkou
                     povýšenia je preskúmanie hráča s veľkou presnosťou. Takto povýšený hráč do juniorskej prípravky (JP) dostane 35 bodov do IS a počas sezóny toto IS nerastie. 
+                    <br><br>
+                    Existuje viac ako 5% šanca, že do juniorky pribudne zahraničný hráč. 
+                    <a class="novinky" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=10821"><img class="icons" src="./icons/novinka.png"></a>
+                    <a class="novinky" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=12201"><img class="icons" src="./icons/novinka.png"></a>
                     <br><br><br>
                     <b> Hráči, ktorí dosiahnu vek 20 rokov a stále sa nachádzajú v juniorskej prípravke, odídu automaticky do hokejového dôchodku. </b>
                     <br><br>
@@ -29,11 +34,11 @@
                     <br><b><u> 80 % až 89 % </u></b> = 21 hodín = za týždeň <b><u> 8 </u></b>
                     <br><b><u> 90 % až 99 % </u></b> = 19 hodín = za týždeň <b><u> 9 </u></b>
                     <br><b><u> 100 % </u></b> = 17 hodín = za týždeň <b><u> 10 </u></b>
-                    <br><br><br><br>
+                    <br><br><br>
                     <b> POZNÁMKA NA ZÁVER: </b>
                     <br> 
                     Cyklus sa mení zo sobotného prepočtu na nedeľný, takže v nedeľu je tzv. prvý junior.
-                    <br><br>
+                    <br><br><br>
                     <u> Čo to znamená? </u>
                     <br> 
                     Ak máte Juniorku na 50 %, dostávate 5 juniorov za týždeň. Ak vo štvrtok si vrátite Juniorku na 100 % (už ste mali Juniorku na 100 %, ale ste si znížili), do konca týždňa budete dostávať juniorov v takom počte, ako keby ste mali
@@ -77,4 +82,9 @@
                     sebaovládanie útočníci + útok, nahrávka, sila 
                     <br> 
                     sebaovládanie obrancovia + obrana, nahrávka, sila 
+                    <br><br><br><br>
+                    <b>Maximálny počet hráčov v <a href="https://www.hockeyarena.net/sk/index.php?p=manager_youth_school_form.php">juniorskej prípravke</a> je 39. To znamená, že ak už máte v juniorskej prípravke 19/20 hráčov, viete pozvať do prípravky ešte ďalších 20 hráčov z juniorských súťaží alebo z mládežníckych úrovní. 
+                    Ak ale máte v juniorskej prípravke plný stav 20/20, tak ďalších hráčov už povyšovať nieje možné !!! </b>
+                    <br><br>
+                    <img class="images" src="./images/juniori.png">
                     <br><br>

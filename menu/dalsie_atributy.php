@@ -59,7 +59,7 @@
                     medzi <sup>1</sup>/<sub>4</sub> - <sup>3</sup>/<sub>4</sub> zápasov, tak spokojnosť stagnuje a nehýbe sa. 
                     Spokojnosť má význam len u nechránených hráčov – viac informácií je v časti <a href="index.php?navod=nechraneni_hraci">Trh</a> . 
                     <br><br> 
-                    Ak je hráč v mužstve spokojný, domácemu mužstvu stačí ponúknuť 75-100% najvyššej ponuky (podľa spokojnosti hráča), ak je nespokojný, musí ponúknuť 100-130% najvyššej ponuky.
+                    Ak je hráč v mužstve spokojný, domácemu mužstvu stačí ponúknuť 75-100% najvyššej ponuky (podľa spokojnosti hráča), ak je nespokojný, musí ponúknuť 100-130% najvyššej ponuky. <a class="novinky" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=12344"><img class="icons" src="./icons/novinka.png"></a>
                     <br>
                     <u> Úrovne spokojnosti : </u> 
                     <br> oddaný 

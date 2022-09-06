@@ -12,6 +12,10 @@
                     Automatickú ponuku je možné kedykoľvek vymazať. <a class="novinky" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=11592"><img class="icons" src="./icons/novinka.png"></a>
                     <br>
                     POZOR !!! Automatická ponuka sa neaktivuje, ak je v mužstve <a href="https://www.hockeyarena.net/sk/index.php?p=manager_summary.php"> maximálny počet hráčov</a> (64) vrátane aktuálnych ponúk na NT. 
+                    <br>
+                    Na obrazovke <a href="https://www.hockeyarena.net/sk/index.php?p=manager_player_market_form.php"> Hráči - Trh</a> sa zobrazuje zoznam automatických ponúk, šedou farbou sa zobrazujú tie, ktoré sú už neaktívne, spolu s linkou na dôvod, prečo boli deaktivované. Dnes bola opravená aj snáď posledná chyba, pri ktorej sa neaktivovala 
+                    automatická ponuka na hráča, na ktorého zatiaľ nebola žiadna aktuálna ponuka a jeho vyvolávacia cena bola vyššia ako základ 10 000. <a class="novinky" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=9998"><img class="icons" src="./icons/novinka.png"></a>
+                    <br>
                     <br><br>
                     <b> Manažér môže mať v jednom momente zadaných max 10 automatických ponúk !!! </b> <a class="novinky" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=13519"><img class="icons" src="./icons/novinka.png"></a>
                     <br><br>

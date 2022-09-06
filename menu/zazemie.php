@@ -41,7 +41,7 @@
                     <br><br>
                     <u> Prieskum zápasu</u> - aktivuje sa kliknutím na linku 'Preskúmaj!' v okne zápasu a výsledok je prehľad umiestnenia gólových striel. Takýto prieskum stojí manažéra 2 prieskumy z juniorskej prípravky a bude uchovaný 70 dní. 
                     <a class="novinky" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=6675"><img class="icons" src="./icons/novinka.png"></a>
-                    Po preskúmaní zápasu sa už nebude zobrazovať kam mužstvá mierili strely, v prípade že ani jedno z mužstiev nie je vlastnené skúmajúcim manažérom. 
+                    Po preskúmaní zápasu sa už nebude zobrazovať kam mužstvá mierili strely, v prípade že ani jedno z mužstiev nie je vlastnené skúmajúcim manažérom. <a class="novinky" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=12258"><img class="icons" src="./icons/novinka.png"></a>
                     <br><br>
                     <u> Prieskum hráča</u> - v prípade špeciálneho záujmu o niektorého hráča je možné zadať v oddelení prieskumu (alebo na karte hráča) jeho dôkladné preskúmanie. Po ukončení dôkladného prieskumu budú k dispozícii niektoré atribúty hráča, ktoré boli dovtedy skryté a u cudzích
                     hráčov aj ich schopnosti. Takto je možné preskúmať 3 hráčov za deň. Hráča je možné (okrem dôkladného prieskumu za peniaze) preskúmať aj okamžite, čo stojí manažéra 3 prieskumy z juniorskej prípravky. Tento prieskum je možné uskutočniť na karte hráča po kliknutí na kvalitu/potenciál. 

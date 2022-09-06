@@ -38,7 +38,7 @@
                     <br><br> 
                     Draftovaní hráči budú mať počiatočnú skúsenosť danú systémom. 
                     <br><br>
-                    <b> Minimálna draftová hodnota hráča je 11%, všetky nižšie hodnoty sa automaticky budú rovnať 0%. </b>
+                    <b> Minimálna draftová hodnota hráča je 11%, všetky nižšie hodnoty sa automaticky budú rovnať 0%. </b> <a class="novinky" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=11907"><img class="icons" src="./icons/novinka.png"></a>
                     <br><br> 
                     V aktuálnom drafte sú skryté mená a talent hráčov. Talent a meno hráčov v drafte bude známy iba u plne preskúmaných hráčov (kvalita, potenciál). <a class="novinky" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=12087"><img class="icons" src="./icons/novinka.png"></a>
                     <br><br>

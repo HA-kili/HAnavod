@@ -1,5 +1,5 @@
 
-                <div class="section-name"> Taktické profily </div>
+                <div class="section-name"> Taktické profily hráčov </div>
                     <br>
                     <h2><u> Taktické profily - útočníci </u></h2>
                     <br>

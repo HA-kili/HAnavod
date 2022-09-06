@@ -3,7 +3,7 @@
                     <br> 
                     V okne <a href="https://www.hockeyarena.net/sk/index.php?p=manager_finance_report.php">financie</a> je možné sledovať aktuálnu hotovosť, denné príjmy a výdavky v rôznych oblastiach. Ak je hotovosť mužstva v mínuse (<span class="red"> pod 15 M </span> ), nie je možné kupovať a zamestnávať nových hráčov ani vylepšovať zázemie. 
                     <br> <br> 
-                    Pravidelný sponzorský príspevok za 1 fanúšika je 8500 za týždeň, do mužstva tieto peniaze prichádzajú každú stredu. 
+                    Pravidelný sponzorský príspevok za 1 fanúšika je 8500 za týždeň, do mužstva tieto peniaze prichádzajú každú stredu. <a class="novinky" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=9696"><img class="icons" src="./icons/novinka.png"></a>
                     <br><br> 
                     Mužstvo môže utrácať hotovosť až po - 15 000 000, ak klesne hotovosť pod -50 000 000, bude manažérovi zablokovaný prístup do mužstva dovtedy, kým hotovosť znovu nestúpne nad túto sumu. 
                     Manažér bude mať k dispozícii tri prihlásenia, kde bude môcť urobiť opatrenia, aby hotovosť začala stúpať (predaj hráčov, zbúranie zázemia štadióna, iné...). 
