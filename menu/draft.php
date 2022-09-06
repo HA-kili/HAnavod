@@ -3,7 +3,7 @@
                     <br>
                     V poslednom týždni sezóny sa uskutoční <a href="https://www.hockeyarena.net/sk/index.php?p=manager_youth_school_form.php">draft Hockey Areny</a> (bližšie info pod tabulkou draftu). To je skvelá príležitosť "draftovať" jedného kvalitného juniora do svojho hokejového mužstva! 
                     <br><br> 
-                    Počas celej sezóny môžeš hodnotiť a skúmať hráčov v drafte a určovať ich prioritu až do uzávierky draftu v poslednú stredu v sezóne. Hráčov môžeš preskúmať vopred, ale tieto prieskumné pokusy sú spoločné pre draft a pre normálnu juniorskú prípravku, takže ich používaj opatrne. 
+                    Počas celej sezóny môžeš hodnotiť a skúmať hráčov v drafte a určovať ich prioritu až do uzávierky draftu v poslednú stredu (0:01) v sezóne. Hráčov môžeš preskúmať vopred, ale tieto prieskumné pokusy sú spoločné pre draft a pre normálnu juniorskú prípravku, takže ich používaj opatrne. 
                     Draftové poradie sa bude aktualizovať raz za deň. <a class="novinky" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=10849"><img class="icons" src="./icons/novinka.png"></a>
                     <br><br> 
                     Musíš si vybrať aspoň jedného hráča, aby si mal šancu aspoň jedného dostať a musíš si vybrať 16 hráčov, aby si jedného dostal naisto. Najlepšie je vybrať si 16 hráčov a zoradiť ich podľa vlastného uváženia - navrch toho najlepšieho a
