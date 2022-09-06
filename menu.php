@@ -63,6 +63,7 @@
                             <li><a class="level1" href="index.php?navod=specialne_formacie">Špec. formácie (PP / PK )</a></li>
                             <li><a class="level1" href="index.php?navod=najazdy">Nájazdy </a></li>
                             <li><a class="level1" href="index.php?navod=takticke_specializacie">Taktické špecializácie formácií </a></li>
+                            <li><a class="level1" href="index.php?navod=takticke_profily">Taktické profily hráčov</a></li>
                             <li><a class="level1" href="index.php?navod=takticke_moznosti">Taktické možnosti formácií </a></li>
                             <li><a class="level1" href="index.php?navod=zohranost_formacie">Zohranosť formácie</a></li>
                         </ul>
@@ -134,6 +135,8 @@
                     <li><a data-submenu="sub" class=" drop " href="index.php?navod=sponzorsky_balik">Sponzorský balík</a></li>
                     <li><a data-submenu="sub" class=" comments " href="index.php?navod=pripomienky_manazerov">Pripomienky manažérov</a></li>
                     <li><a data-submenu="sub" class=" hlp " href="https://www.hockeyarena.net/sk/index.php?p=helpers.inc">Zoznam _ HLP</a></li>
+                    <li><a data-submenu="sub" class=" hlp " href="https://www.hockeyarena.net/sk/index.php?p=public_guide_new.php">Starý návod</a></li>
+
                     <li><a class="navstevnost" href="https://www.toplist.sk/stat/1273971/"><script language="JavaScript" type="text/javascript" charset="utf-8">
                             <!--
                             document.write('<img class="pocitadlo" src="https://toplist.sk/count.asp?id=1273971&logo=mc&http='+
