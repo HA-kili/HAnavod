@@ -36,7 +36,9 @@
                     <br> 
                     Každý hráč má vekový horizont. Keď ho dosiahne, začnú sa zhoršovať jeho schopnosti. Hodnota potenciálu sa postupne znižuje, ako hráč starne a potenciál 0 % znamená, že hráč dosiahol svoj vekový horizont. Hráč
                     s potenciálom 0% po zostarnutí si môže uchovať 0% potenciál ešte ďalší HA rok, toto sa môže stať pre hráča posledný krát pri zostarnutí z 33 na 34. Jeden hráč môže takto zostarnúť aj viackrát za svoj “život”. 
-                    <a href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=12258"><img class="icons" src="./icons/novinka.png"></a>  Praktický rozdiel medzi hráčmi s potenciálom 20 % a 50 % je taký, že prvý dosiahne 
+                    <a href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=12258"><img class="icons" src="./icons/novinka.png"></a>  
+                    <br>
+                    Praktický rozdiel medzi hráčmi s potenciálom 20% a 50% je taký, že prvý dosiahne 
                     skôr svoj vekový horizont a začnú sa mu skôr zhoršovať schopnosti.
                     <br>
                     Čo sa týka záporného potenciálu, tak rýchlosť klesania atribútov nájdete v sekcii <a href="index.php?navod=klesanie_atributov_%"> Tréning - Klesanie atribútov</a> .
