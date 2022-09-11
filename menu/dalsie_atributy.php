@@ -41,9 +41,7 @@
                     Praktický rozdiel medzi hráčmi s potenciálom 20% a 50% je taký, že prvý dosiahne 
                     skôr svoj vekový horizont a začnú sa mu skôr zhoršovať schopnosti.
                     <br>
-                    Čo sa týka záporného potenciálu, tak rýchlosť klesania atribútov nájdete v sekcii <a href="index.php?navod=klesanie_atributov_%"> Tréning - Klesanie atribútov</a> .
-                    <br>
-                    Pokles potenciálu nájdete aj v <a href="https://www.hockeyarena.net/sk/index.php?p=manager_discussion_posts.php&table_id=451201&last_seen=0"> rýchlych radách</a> v červenej téme. 
+                    Čo sa týka záporného potenciálu, tak rýchlosť klesania atribútov nájdete v sekcii <a href="index.php?navod=klesanie_atributov_%"> Tréning - Klesanie atribútov</a>. Pokles potenciálu nájdete aj v <a href="https://www.hockeyarena.net/sk/index.php?p=manager_discussion_posts.php&table_id=451201&last_seen=0"> rýchlych radách</a> v červenej téme. 
                     <br><br>
                     <b> Index šikovnosti </b> 
                     <br> 
