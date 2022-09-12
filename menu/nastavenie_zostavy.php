@@ -3,7 +3,7 @@
                     <br>
                     <h1><c1> V okne <a href="https://www.hockeyarena.net/sk/index.php?p=manager_lines_form_new.php">Hráči - Zostava - Formácie</a> je možné vytvárať a nastavovať formácie. </c1></h1>
                     <br>
-                    Nastavenie <i><u><b> brankárov </b></u></i>. V podokne <a href="https://www.hockeyarena.net/sk/index.php?p=manager_lines_form_new.php">Formácie</a>, v hornej časti obrazovky v podsekcii Brankári – po kliknutí na tlačidlo “Pridať brankárov“ si zo zoznamu všetkých hráčov, vyberiete
+                    Nastavenie <i><u><b> brankárov</b></u></i>. V podokne <a href="https://www.hockeyarena.net/sk/index.php?p=manager_lines_form_new.php">Formácie</a>, v hornej časti obrazovky v podsekcii Brankári – po kliknutí na tlačidlo “Pridať brankárov“ si zo zoznamu všetkých hráčov, vyberiete
                     tých, ktorých plánujete priebežne stavať na post brankára tým, že im nastavíte v kolónke výberu písmeno G. Potom kliknete na tlačidlo “Pridať“ a do zostavy sa vám pridajú vybratí brankári. Teraz treba nastaviť prioritu, podľa ktorej
                     sa určí, ktorý z nich nastúpi na zápas ako prvý a druhý brankár. Nastavíte to zmenou čísla pri brankárovi v stĺpci “Prio“ a potvrdením tlačidlom “uložiť zmeny“. Kto má toto číslo najvyššie, ten nastúpi na zápas ako prvý brankár, kto
                     nižšie ten ako druhý. Ostatní s ešte nižšou prioritou sa dostanú k slovu len v prípade výpadku niektorého z tých hráčov, ktorí majú vyššiu prioritu.
@@ -20,13 +20,16 @@
                     alebo v brankároch treba potvrdiť stlačením tlačidla “Uložiť zmeny“ . So <a href="https://www.hockeyarena.net/sk/index.php?index.php&p=public_shop.php">sponzorským balíkom </a> môžeš jednoducho prepínať medzi prednastavenými zostavami, čo si vieš nastaviť v menu <a href="https://www.hockeyarena.net/sk/index.php?p=manager_settings_form.php">Manažér – Nastavenia</a>. 
                     To, ktorá zostava L1-L4 nastúpi na zápas, si nastavuješ v menu <a href="https://www.hockeyarena.net/sk/index.php?p=manager_tactics_form.php">Mužstvo - Nastavenie zápasu</a>. 
                 
-                    <br><br> 
-                    Ďalšie nastavenie sa týka <b><u><i>náhradníkov </i></u></b>. Toto nastavenie sa vykonáva v podokne <a href="https://www.hockeyarena.net/sk/index.php?p=manager_subs_form_new.php">Náhradníci</a>. Je možné samostatne zvoliť náhradníkov na pozíciu center, krídlo a obranca. Nového náhradníka pridáte kliknutím na tlačidlo
+                    <br><br> <br>
+                    Ďalšie nastavenie sa týka <b><u><i>náhradníkov</i></u></b>. Toto nastavenie sa vykonáva v podokne <a href="https://www.hockeyarena.net/sk/index.php?p=manager_subs_form_new.php">Náhradníci</a>. Je možné samostatne zvoliť náhradníkov na pozíciu center, krídlo a obranca. Nového náhradníka pridáte kliknutím na tlačidlo
                     “Pridať“ v príslušnej časti. Podobným spôsobom ako brankára je zo zoznamu hráčov možné vybrať maximálne 12 náhradníkov každého typu. <a class="novinky" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=11628"><img class="icons" src="./icons/novinka.png"></a> Následne sa vám všetci objavia v zozname náhradníkov. Tu im opäť treba nastaviť prioritu. Ten s najvyššou
                     prioritou bude ako prvý zaskakovať za vypadnutého hráča vo formácii. Ako vlastne fungujú náhradníci? Veľmi jednoducho. Ak vypadne niekto z formácie a nemôže hrať (napríklad zranenie, reprezentačné povinnosti alebo vyradenie hráča červenou
                     rukou <img class="icons" src="./icons/cervena_ruka.png" > kvoli zlepšeniu <a href="index.php?navod=zakladne_atributy">formy</a> - možnosť iba pre Sponzorský balík), tak sa náhradník s najvyššou prioritou presunie na jeho miesto a v zápase automaticky bude hrať v danej formácii. Ak sa hráč zraní počas zápasu, zápas dohrá, ale ďalšie dni sa bude liečiť, v danom
                     zápase za neho teda náhradník nenastúpi. Nastúpi až do nasledujúceho stretnutia, v ktorom zranený hráč z formácie nenastúpi.
                     
+                    <br><br><br>
+                    <u><b>POZOR !!!</b></u> V prípade ak kúpite hráča počas prepočtu a ten už <a href="https://www.ha-navod.fun/index.php?navod=krajiny">odohral zápas</a> za svojho predchádzajúceho majiteľa, tak v tomto prípade už nemôže odohrať zápas aj za Váš tým !!! V lepšom prípade bude vymenený za náhradníka, v horšom prípade skončí zápas kontumáciou. 
+
                     <br><br><br>
                     <h1><c1> Vymeniť hráča vo všetkých formáciách <a class="novinky" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=12258"><img class="icons" src="./icons/novinka.png"></a> </c1></h1> 
                     Je nová funkcia <a href="https://www.hockeyarena.net/sk/index.php?p=public_shop.php">sponzorského balíka</a>. V detaile/editore formácie
