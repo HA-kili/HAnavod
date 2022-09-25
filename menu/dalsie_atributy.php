@@ -72,7 +72,7 @@
                     <br> deprimovaný 
                     <br> rebelantský 
                     <br><br><br>
-                    <b> Lojalita</b> 
+                    <b id="lojalita" style="padding-top:65px"> Lojalita</b> 
                     <br> 
                     Vlastnosť hráča, ktorá ovplyvňuje možnosti podpísania novej zmluvy v aktuálnom mužstve nechráneného hráča. 
                     <br><br>

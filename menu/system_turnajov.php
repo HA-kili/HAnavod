@@ -114,7 +114,7 @@
                     </table>
                     <br> Trofeje dostáva iba manažér so <a href="https://www.hockeyarena.net/sk/index.php?index.php&p=public_shop.php">sponzorským balíkom</a> .
                     <br><br><br><br><br>
-                    <u id="koeficient"> Výpočet koeficientu na konci tabuľky – D : </u>
+                    <u id="koeficient"><b> Výpočet koeficientu na konci tabuľky – D : </b></u>
                     <br> ide čisto o vzájomné zápasy tímov s rovnakými bodmi 
                     <br> Slovensko -  Lotyšsko 3:2
                     <br> výhra je za 10 000 
