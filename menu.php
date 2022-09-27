@@ -44,7 +44,7 @@
                         </ul>
                     </li>
                     <li><a data-submenu="submplayer" class=" dropdown-btn " onclick="return false;" href="index.php?navod=zakladne_atributy">Hráči</a>
-                        <ul class="sub  submplayer <?php active(explode(",", "zakladne_atributy,dalsie_atributy,statistiky,hviezdy,hviezda_tyzdna,klucovy_hrac,specialne_dresy,darovanie_dresu,zranenia_choroby,zivotnost_hracov"))?>">
+                        <ul class="sub  submplayer <?php active(explode(",", "zakladne_atributy,dalsie_atributy,statistiky,hviezdy,hviezda_tyzdna,klucovy_hrac,specialne_dresy,darovanie_dresu,zranenia_choroby,zivotnost_sledovanie"))?>">
                             <li><a class="level1" href="index.php?navod=zakladne_atributy">Základné atribúty</a></li>
                             <li><a class="level1" href="index.php?navod=dalsie_atributy">Ďalšie atribúty hráča</a></li>
                             <li><a class="level1" href="index.php?navod=statistiky">Štatistiky</a></li>
@@ -58,7 +58,7 @@
                         </ul>
                     </li>
                     <li><a data-submenu="submfor" class=" dropdown-btn " onclick="return false;" href="index.php?navod=nastavenie_zostavy">Formácie a taktiky</a>
-                        <ul class="sub  submfor <?php active(explode(",", "nastavenie_zostavy,specialne_formacie,najazdy,takticke_specializacie,takticke_moznosti,zohranost_formacie"))?>">
+                        <ul class="sub  submfor <?php active(explode(",", "nastavenie_zostavy,specialne_formacie,najazdy,takticke_specializacie,takticke_profily,takticke_moznosti,zohranost_formacie"))?>">
                             <li><a class="level1" href="index.php?navod=nastavenie_zostavy">Nastavenie zostavy (formácií) a náhradníkov</a></li>
                             <li><a class="level1" href="index.php?navod=specialne_formacie">Špec. formácie (PP / PK )</a></li>
                             <li><a class="level1" href="index.php?navod=najazdy">Nájazdy </a></li>
