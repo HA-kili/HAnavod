@@ -77,6 +77,28 @@ a {
 
 
 /* skryť/odokryť odkazy na novinky */
-a.novinky {
+a.novinka {
     visibility: visible;
+}
+
+/* definicie odkazov na navod */
+a.navod {
+    color: green;
+}
+
+/* definicie odkazov na HA */
+a.arena {
+    background-image: linear-gradient(to bottom, blue 0%, blue 40%, red 60%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+/* definicie odkazov na stranky */
+a.addons {
+    color: brown;
+}
+
+/* definicie kotvy */
+.kotva {
+    padding-top: 65px;
 }
