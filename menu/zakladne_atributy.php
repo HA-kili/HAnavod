@@ -35,17 +35,17 @@
                     <b> Sebaovládanie  </b>
                     <br> 
                     Pre hráča v poli – pri agresívnej hre spôsobuje nízke sebaovládanie častejšie vylučovanie hráča. Počet vylúčení závisí prevažne od následnej kombninácii : nastavenia agresivity formácií a pomer vášho a súperovho sebaovládania. 
-                    <a class="novinky" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=11321"><img class="icons" src="./icons/novinka.png"></a>
+                    <a class="novinka" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=11321"><img class="icons" src="./icons/novinka.png"></a>
                     <br> 
                     Pre brankára – nízke sebaovládanie brankára môže na zápase spôsobiť po sérii inkasovaných gólov v rýchlom slede pokles jeho sebadôvery a koncentrácie. To bude mať za následok zhoršenie jeho výkonu až do konca zápasu. V reporte
                     zo zápasu je táto udalosť označená hlásením <u> 'Brankár stratil sebadôveru a koncentráciu' </u>.
                     <br>
-                    <b> Sebaovládanie hráčov mladších ako 41 rokov nebude odteraz vôbec klesať. </b> <a class="novinky" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=12314"><img class="icons" src="./icons/novinka.png"></a>
-                    <br><br><br> 
-                    Tieto atribúty sa zlepšujú počas tréningu aj počas zápasu. Na zápase sa zlepšujú podľa toho, na akej pozícii hráč hrá. Nastavenie tréningu a spôsob zlepšovania týchto atribútov sú podrobne popísané v časti návodu <a href="index.php?navod=trening">Tréning</a> .
-                    <br><br><br> <br>
+                    <b> Sebaovládanie hráčov mladších ako 41 rokov nebude odteraz vôbec klesať. </b> <a class="novinka" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=12314"><img class="icons" src="./icons/novinka.png"></a>
+                    <br><br>
+                    Tieto atribúty sa zlepšujú počas tréningu aj počas zápasu. Na zápase sa zlepšujú podľa toho, na akej pozícii hráč hrá. Nastavenie tréningu a spôsob zlepšovania týchto atribútov sú podrobne popísané v časti návodu <a class="navod" href="index.php?navod=trening">Tréning</a>.
+                    <br><br><br><br><br>
                     <u> Ďalšie atribúty </u>, ktoré priamo ovplyvňujú výkon hráča na zápase, ale menia sa podľa iných pravidiel ako predchádzajúca skupina :
-                    <br><br><br>
+                    <br><br>
                     <b> Energia </b> 
                     <br> 
                     Na zápase sa hráč unavuje podľa času stráveného na ľade, preto sa mu znižuje energia. Brankár sa na zápase unavuje podľa počtu striel na bránu. Strata energie každého hráča ovplyvňuje jeho výkon takto - ak hráč
@@ -58,9 +58,9 @@
                     <br>
                     V detailom pohľade na zápas je možné sledovať energiu hráčov tesne pred zápasom a tesne po zápase v stĺpci Ene.
                     <br>
-                    Rýchlosť ubúdania energie je odteraz priamo ovplyvnená <a href="index.php?navod=pokrocile_taktiky"> úrovňou agresivity</a>. 
+                    Rýchlosť ubúdania energie je odteraz priamo ovplyvnená <a class="navod" href="index.php?navod=pokrocile_taktiky#agresivita">úrovňou agresivity</a>. 
                     <br><br><br>
-                    <b> Forma, skúsenosť </b>
+                    <b id="forma" class="kotva"> Forma, skúsenosť </b>
                     <br> 
                     Vysoká forma a skúsenosť spôsobujú, že hráč bude efektívne a správne využívať všetky svoje schopnosti. Naopak v prípade nízkej formy a skúsenosti je vyššia šanca, že hráč bude "kaziť, čo sa dá".
                     <br><br> 
@@ -70,13 +70,13 @@
                     <ul>
                         <li> ľahký alebo stredne ťažký tréning (týka sa iba hráčov, ktorí nehrajú zápas) </li>
                         <li> dobrý výkon hráča na zápase </li>
-                        <li> vyradenie hráča zo zostavy červenou rukou <img class="icons" src="./icons/cervena_ruka.png" > (<a href="https://www.hockeyarena.net/sk/index.php?index.php&p=public_shop.php">možnosť iba pre Sponzorský Balík</a> ), hráč musí mať odohraté min polovicu 
+                        <li> vyradenie hráča zo zostavy červenou rukou <img class="icons" src="./icons/cervena_ruka.png" > (<a class="arena" href="https://www.hockeyarena.net/sk/index.php?index.php&p=public_shop.php">iba pre Sponzorský balík</a> ), hráč musí mať odohraté min polovicu 
                             zápasov aktuálneho kola, jeden zápas zastaví klesanie, popr. začne stúpať, dva zápasy sú potrebné aby hráčovi klesajúca forma začala stúpať. Toto platí v ligových zápasoch (v zápasoch Playoff aj v zápasoch o záchranu), zápasoch Národného pohára (NP), Svetovej ligy (SL) a Pohára národných šampiónov (PNŠ). 
                             Upozorňujeme, že zmenu červenou rukou treba uskutočniť až po prepočte (cca po 22:20), v opačnom prípade sa zmeny červenou rukou anulujú.  </li>
                     </ul>
-                    <br><br>
+                    <br>
                     Zraneným hráčom klesá forma pomaly počas celej doby trvania zranenia.
-                    <br><br><br> 
+                    <br><br>
                     Skúsenosť získavajú hráči iba na zápasoch. Najviac skúsenosti je možné získať počas dôležitých zápasov, napríklad v playoff alebo v reprezentácii. 
                     <br>
                     Skúsenosť hráčov na zápase bude ovplyvnená časom stráveným na ľade. Náhodný faktor pre pribúdanie skúsenosti bol mierne znížený. Skúsenosť hráčov na zápase sa bude zvyšovať rýchlejšie vo vyšších ligách a pomalšie v nižších ligách. 

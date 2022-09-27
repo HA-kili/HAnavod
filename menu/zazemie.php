@@ -5,12 +5,12 @@
                     <ul>
                         <li> zníženie úrovne zázemia trvá niekoľko dní </li>
                         <li> zvýšenie úrovne zázemia, po znížení, trvá iba 1 deň. Netýka sa to zvyšovania maximálnej úrovne zázemia výskumom </li>
-                        <li> jednotlivé úrovne, denné náklady, sezónne náklady a počet dní výskumu nájdete v Menu <a href="https://www.hockeyarena.net/sk/index.php?p=manager_stadium.inc">Mužstvo - Štadión</a>  , keď kliknete na červený otáznik <img class="icons" src="./icons/otaznik2.png" > </li>
+                        <li> jednotlivé úrovne, denné náklady, sezónne náklady a počet dní výskumu nájdete v Menu <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=manager_stadium.inc">Mužstvo - Štadión</a>, keď kliknete na červený otáznik <img class="icons" src="./icons/otaznik2.png" > </li>
                     </ul>
                     <br>
                     <b> Tréningové priestory </b> 
                     <br> 
-                    Zvyšujú rýchlosť tréningu hráčov (viac v sekcii <a href="index.php?navod=trening">Tréning</a> )
+                    Zvyšujú rýchlosť tréningu hráčov (viac v sekcii <a class="navod" href="index.php?navod=trening">Tréning</a> )
                     <br><br>
                     <b> Regeneračné priestory </b>
                     <br> 
@@ -18,7 +18,7 @@
                     <br><br>
                     <b> Juniorská prípravka</b>
                     <br> 
-                    V juniorskej prípravke sa sústreďujú všetky mladé hokejové talenty a pripravujú sa na svoj vstup do seniorského mužstva. Tých, ktorí dosiahnu dostatočný vek a schopnosti, je možné v okne <a href="https://www.hockeyarena.net/sk/index.php?p=manager_youth_school_form.php">Mužstvo - Juniorská prípravka</a> vybrať 
+                    V juniorskej prípravke sa sústreďujú všetky mladé hokejové talenty a pripravujú sa na svoj vstup do seniorského mužstva. Tých, ktorí dosiahnu dostatočný vek a schopnosti, je možné v menu <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=manager_youth_school_form.php">Mužstvo - Juniorská prípravka</a> vybrať 
                     a zaradiť do seniorského mužstva. Manažér mužstva môže rozhodnúť, ktorí budú v mužstve pokračovať a ktorí nie.
                     <br><br>
                     <u> Akých dobrých hráčov vlastne môžem dostať z juniorskej prípravky a od čoho to závisí ? </u>
@@ -40,8 +40,8 @@
                     <img class="icons" src="./icons/nechytatelna_strela.png" > - znamená presnú hodnotu. 
                     <br><br>
                     <u> Prieskum zápasu</u> - aktivuje sa kliknutím na linku 'Preskúmaj!' v okne zápasu a výsledok je prehľad umiestnenia gólových striel. Takýto prieskum stojí manažéra 2 prieskumy z juniorskej prípravky a bude uchovaný 70 dní. 
-                    <a class="novinky" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=6675"><img class="icons" src="./icons/novinka.png"></a>
-                    Po preskúmaní zápasu sa už nebude zobrazovať kam mužstvá mierili strely, v prípade že ani jedno z mužstiev nie je vlastnené skúmajúcim manažérom. <a class="novinky" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=12258"><img class="icons" src="./icons/novinka.png"></a>
+                    <a class="novinka" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=6675"><img class="icons" src="./icons/novinka.png"></a>
+                    Po preskúmaní zápasu sa už nebude zobrazovať kam mužstvá mierili strely, v prípade že ani jedno z mužstiev nie je vlastnené skúmajúcim manažérom. <a class="novinka" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=12258"><img class="icons" src="./icons/novinka.png"></a>
                     <br><br>
                     <u> Prieskum hráča</u> - v prípade špeciálneho záujmu o niektorého hráča je možné zadať v oddelení prieskumu (alebo na karte hráča) jeho dôkladné preskúmanie. Po ukončení dôkladného prieskumu budú k dispozícii niektoré atribúty hráča, ktoré boli dovtedy skryté a u cudzích
                     hráčov aj ich schopnosti. Takto je možné preskúmať 3 hráčov za deň. Hráča je možné (okrem dôkladného prieskumu za peniaze) preskúmať aj okamžite, čo stojí manažéra 3 prieskumy z juniorskej prípravky. Tento prieskum je možné uskutočniť na karte hráča po kliknutí na kvalitu/potenciál. 
@@ -49,9 +49,9 @@
                     <br>
                     Dôkladný prieskum hráča bude uchovaný 2 reálne roky, čo v časopriestore HA znamená cca 10,5 sezóny (ráta sa od nasledujúceho dňa a končí po prepočte). 
                     <br>
-                    V prípade, že chcete vedieť, aké hodnoty kvality a potenciálu ukazuje Vášmu hráčovi, keby nebol preskúmaný, tak viete kliknúť na kvalitu/potenciál na karte hráča a tieto hodnoty Vám ukáže. Toto samozrejme platí iba pre tých manažérov, čo majú <a href="https://www.hockeyarena.net/sk/index.php?index.php&p=public_shop.php"> sponzorský balík </a> .
+                    V prípade, že chcete vedieť, aké hodnoty kvality a potenciálu ukazuje Vášmu hráčovi, keby nebol preskúmaný, tak viete kliknúť na kvalitu/potenciál na karte hráča a tieto hodnoty Vám ukáže. Toto samozrejme platí iba pre tých manažérov, čo majú <a class="arena" href="https://www.hockeyarena.net/sk/index.php?index.php&p=public_shop.php">Sponzorský balík </a>.
                     <br><br>
-                    <b> !!! Nie je možné z Ačka preskúmať zápas, v ktorom sa nachádza jeden z tímov z ligy, v ktorej sa nachádza manažérov B tím a naopak !!! </b> <a class="novinky" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=11907"><img class="icons" src="./icons/novinka.png"></a>
+                    <b> !!! Nie je možné z Ačka preskúmať zápas, v ktorom sa nachádza jeden z tímov z ligy, v ktorej sa nachádza manažérov B tím a naopak !!! </b> <a class="novinka" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=11907"><img class="icons" src="./icons/novinka.png"></a>
                     <br><br><br>
                     <u> Vlastných hráčov bez skúmania vidí manažér v rôznych rokoch nasledovne: </u> 
                     <br> 17 rokov 
@@ -77,7 +77,7 @@
                     <br> U cudzích hráčov bude vidieť presné hodnoty KVALITY a POTENCIÁLU až od veku 29+. V prípade, že chcetet vedieť aj lojalitu, je potrebné hráča preskúmať. 
                     Ale aj v tomto prípade uvidíte iba kladnú (+) alebo zápornú (-) hodnotu, nie presné číslo.  
                     <br><br>
-                    <u> POČET VOĽNÝCH PRIESKUMOV V JUNIORSKEJ PRÍPRAVKE PODĽA VYBUDOVANÉHO ZÁZEMIA ,,PRIESKUM,,. </u>
+                    <u> POČET VOĽNÝCH PRIESKUMOV V JUNIORSKEJ PRÍPRAVKE PODĽA VYBUDOVANÉHO ZÁZEMIA "PRIESKUM". </u>
                     <br>
                     <br><b> 0 % </b> = počet prieskumov za jeden týždeň = <b><u> 0 </u></b>
                     <br><b> 1 % až 18 % </b> = počet prieskumov za jeden týždeň = <b><u> 1 </u></b>

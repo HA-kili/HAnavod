@@ -12,7 +12,7 @@
                     Toto nastavenie znamená, že hráč bude 40% možného času na tréning venovať zlepšovaniu atribútu útok, 30% času venuje streľbe a 30%
                     času sile. 
                     <br><br>
-                    Pri samotnom vykonaní tréningového režimu ovplyvňuje celkový čas tréningu jednotlivých atribútov aj nastavenie intenzity tréningu. Tú je možné zmeniť v menu <a href="https://www.hockeyarena.net/sk/index.php?p=manager_training_schedules_form.php">Hráči - Režimy</a> a platí iba pre hráčov, ktorí nehrajú zápas. Hráči,
+                    Pri samotnom vykonaní tréningového režimu ovplyvňuje celkový čas tréningu jednotlivých atribútov aj nastavenie intenzity tréningu. Tú je možné zmeniť v menu <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=manager_training_schedules_form.php">Hráči - Režimy</a> a platí iba pre hráčov, ktorí nehrajú zápas. Hráči,
                     ktorí hrajú zápas, si intenzitu tréningu po zápase zvolia automaticky, podľa aktuálnej únavy.
                     <br><br>
                     <u> Ak je nastavená intenzita tréningu 80 % </u>

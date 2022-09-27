@@ -1,16 +1,16 @@
 
                 <div class="section-name"> Sponzor / reklamný partneri v lige </div>
                     <br> 
-                    Manažéri majú možnosť pre svoje mužstvá získavať <a href="https://www.hockeyarena.net/sk/index.php?p=manager_league_sponsors.inc">reklamných partnerov</a>  a tým pádom nový zdroj príjmu. Na začiatku týždňa sa v každej lige objavia firmy, ktoré majú záujem o reklamnú spoluprácu, tým že si kúpia niektorý z reklamných formátov mužstva. Firmy
+                    Manažéri majú možnosť pre svoje mužstvá získavať <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=manager_league_sponsors.inc">reklamných partnerov</a>  a tým pádom nový zdroj príjmu. Na začiatku týždňa sa v každej lige objavia firmy, ktoré majú záujem o reklamnú spoluprácu, tým že si kúpia niektorý z reklamných formátov mužstva. Firmy
                     ponúkajú určitý maximálny objem peňazí, ktoré sú ochotné týždenne platiť. Zmluvu nakoniec podpíšu s mužstvom ktoré ponúkne svoj reklamný priestor za najnižšiu cenu. Minimálna ponuka ligovému sponzorovi predstavuje 66% najvyššej
                     možnej ponuky. 
                     <br><br>
-                    Je možnosť zasielať hromadné ponuky pre sponzorov, ale iba ak máš <a href="https://www.hockeyarena.net/sk/index.php?index.php&p=public_shop.php"> sponzorský balík </a>. 
+                    Je možnosť zasielať hromadné ponuky pre sponzorov, ale iba ak máš <a class="arena" href="https://www.hockeyarena.net/sk/index.php?index.php&p=public_shop.php">Sponzorský balík </a>. 
                     <br><br> 
-                    Nieje možné posielať ponuky na nové zmluvy pre ligových sponzorov v prípade ak mužstvo ešte má platnú zmluvu rovnakého typu/umiestnenia min. 2 týždne. <a class="novinky" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=12915"><img class="icons" src="./icons/novinka.png"></a>
+                    Nieje možné posielať ponuky na nové zmluvy pre ligových sponzorov v prípade ak mužstvo ešte má platnú zmluvu rovnakého typu/umiestnenia min. 2 týždne. <a class="novinka" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=12915"><img class="icons" src="./icons/novinka.png"></a>
                     <br><br> 
-                    Existuje možnosť okamžite vymazať existujúcu reklamnú zmluvu. <a class="novinky" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=13377"><img class="icons" src="./icons/novinka.png"></a>
-                    <br><br>
+                    Existuje možnosť okamžite vymazať existujúcu reklamnú zmluvu. <a class="novinka" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=13377"><img class="icons" src="./icons/novinka.png"></a>
+                    <br><br><br>
                     <i><u> Príklad : </u>
                     <br> 
                     Každý týždeň máš možnosť jednať o zmluvách s reklamnými partnermi pre mužstvo. Na rozdiel od iných aukcií, ponúkaš najnižšiu sumu, za ktorú si ochotný poskytovať tvoj reklamný priestor pre konkrétneho partnera. Napríklad,

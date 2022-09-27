@@ -10,7 +10,7 @@
                     <span class="red">Jednorazový poplatok za kompletné tréningové sústredenie hráča závisí od .....................</span>
                     <br><br>
                     Manažér ďalej môže jeden krát za určité obdobie (podľa úrovne oddelenia prieskumu) zmeniť vybranému hráčovi jeho počiatočnú pozíciu v mužstve a tak ovplyvniť jeho počiatočné rozdelenie atribútov. 
-                    <a class="novinky" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=10672"><img class="icons" src="./icons/novinka.png"></a>
+                    <a class="novinka" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=10672"><img class="icons" src="./icons/novinka.png"></a>
                     <br>
                     100% oddelenie prieskumu = 35 dní
                     <br><br>
@@ -18,8 +18,8 @@
                     povýšenia je preskúmanie hráča s veľkou presnosťou. Takto povýšený hráč do juniorskej prípravky (JP) dostane 35 bodov do IS a počas sezóny toto IS nerastie. 
                     <br><br>
                     Existuje viac ako 5% šanca, že do juniorky pribudne zahraničný hráč. 
-                    <a class="novinky" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=10821"><img class="icons" src="./icons/novinka.png"></a>
-                    <a class="novinky" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=12201"><img class="icons" src="./icons/novinka.png"></a>
+                    <a class="novinka" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=10821"><img class="icons" src="./icons/novinka.png"></a>
+                    <a class="novinka" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=12201"><img class="icons" src="./icons/novinka.png"></a>
                     <br><br><br>
                     <b> Hráči, ktorí dosiahnu vek 20 rokov a stále sa nachádzajú v juniorskej prípravke, odídu automaticky do hokejového dôchodku. </b>
                     <br><br>
@@ -53,9 +53,9 @@
                     Nedraftovaný hráč z juniorskej prípravky bude mať počiatočnú skúsenosť podobne ako jeho draftovaný kamarát. 
                     <br><br>
                     <b> Počiatočné IŠ hráčov z juniorky bude závisieť od aktuálneho dňa v sezóne. </b> Tým pádom bude trošku výhodnejšie povyšovať hráčov počas celej sezóny. Týka sa to iba juniorov vo veku 17, 18 a 19 rokov. 
-                    <a class="novinky" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=12769"><img class="icons" src="./icons/novinka.png"></a> 
+                    <a class="novinka" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=12769"><img class="icons" src="./icons/novinka.png"></a> 
                     <br><br><br><br>
-                    <u> Zverejňujeme ako sa kombinuje talent hráča a možné doplnkové atribúty pri narodení hráča. Hráč má jeden hlavný atribút (talent), jeden alebo dva doplnkové atribúty, vo výnimočných prípadoch iba hlavný atribút : </u> <a class="novinky" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=11907"><img class="icons" src="./icons/novinka.png"></a>
+                    <u> Zverejňujeme ako sa kombinuje talent hráča a možné doplnkové atribúty pri narodení hráča. Hráč má jeden hlavný atribút (talent), jeden alebo dva doplnkové atribúty, vo výnimočných prípadoch iba hlavný atribút : </u> <a class="novinka" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=11907"><img class="icons" src="./icons/novinka.png"></a>
                     <br><br> 
                     brána + rýchlosť, nahrávka, sebaovládanie 
                     <br><br> 
@@ -83,7 +83,7 @@
                     <br> 
                     sebaovládanie obrancovia + obrana, nahrávka, sila 
                     <br><br><br><br>
-                    <b>Maximálny počet hráčov v <a href="https://www.hockeyarena.net/sk/index.php?p=manager_youth_school_form.php">juniorskej prípravke</a> je 39. To znamená, že ak už máte v juniorskej prípravke 19/20 hráčov, viete pozvať do prípravky ešte ďalších 20 hráčov z juniorských súťaží alebo z mládežníckych úrovní. 
+                    <b>Maximálny počet hráčov v <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=manager_youth_school_form.php">juniorskej prípravke</a> je 39. To znamená, že ak už máte v juniorskej prípravke 19/20 hráčov, viete pozvať do prípravky ešte ďalších 20 hráčov z juniorských súťaží alebo z mládežníckych úrovní. 
                     Ak ale máte v juniorskej prípravke plný stav 20/20, tak ďalších hráčov už povyšovať nieje možné !!! </b>
                     <br><br>
                     <img class="images" src="./images/juniori.png">

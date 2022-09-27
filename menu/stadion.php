@@ -9,15 +9,15 @@
                     Minimálne rozšírenie štadióna je 100 miest. 
                     <br> 
                     Názov štadióna je možné zmeniť raz za sezónu v
-                    menu <a href="https://www.hockeyarena.net/sk/index.php?p=manager_settings_form.php">Manažér - Nastavenia</a>. 
+                    menu <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=manager_settings_form.php">Manažér - Nastavenia</a>. 
                     <br><br> 
                     Všetky nasledujúce časti zázemia majú pozitívny vplyv na rôzne časti hry. Vybudovanie kvalitného zázemia je preto jedna z najdôležitejších podmienok každého úspešného mužstva. Zlepšovanie zázemia prebieha
                     vždy v krokoch po 1%, pričom na vyšších úrovniach sa zvyšuje čas, ktorý je potrebný na dokončenie. Čas výskumu pri jednotlivých úrovniach ako aj denné náklady si viete pozrieť v 
-                    menu <a href="https://www.hockeyarena.net/sk/index.php?p=manager_stadium.inc">Mužstvo - Štadión</a> po kliknutí na <img class="icons" src="./icons/otaznik2.png" > . 
+                    menu <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=manager_stadium.inc">Mužstvo - Štadión</a> po kliknutí na <img class="icons" src="./icons/otaznik2.png" > . 
                     <br><br>         
                     Po zvolení možnosti "Postav" sa zobrazí okno s cenou zvoleného zlepšenia. 
                     <br><br>
-                    <p class="red"> Voľba <a href="https://www.hockeyarena.net/sk/index.php?p=manager_stadium_demolish_form.php">"Zbúraj"</a>  pri kapacite štadióna umožňuje stornovať požadovanú časť hľadiska a určitá časť finančných 
+                    <p class="red"> Voľba <u>"Zbúraj"</u>  pri <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=manager_stadium.inc">kapacite štadióna</a> umožňuje stornovať požadovanú časť hľadiska a určitá časť finančných 
                     prostriedkov sa vráti do pokladnice mužstva. Táto návratka tvorí asi 50% pôvodných nákladov. </p>
                     <br> 
                     V prípade akútneho nedostatku financií alebo príliš vysokých nákladov je možné hodnoty zázemia znížiť až na 0 pomocou voľby <img class="icons" src="./icons/hore_dole_sipka.png" >. Zmena na nižšiu úroveň bude trvať

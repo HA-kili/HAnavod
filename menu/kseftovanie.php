@@ -3,14 +3,14 @@
                     <br>
                     Každú sezónu sa spočíta pre mužstvo celkový zisk (alebo strata) z predaja hráčov, ktorí boli predaní skôr než za 4 sezóny (280 dní) od ich získania do týmu. Z tejto celkovej čiastky se odpočíta suma, ktorá je nastavená ako
                     tzv. „tolerovaný zisk na trhu“ - ten se líši podľa ligovej úrovne, napr. pre 3. ligu je 150 000 000, pre 2. ligu 172 500 000, pre 1. ligu 195 000 000. Výška tolerovaného zisku aktuálne platná pre tvoj tým je zobrazená v záložke
-                    <a href="https://www.hockeyarena.net/sk/index.php?p=manager_economy_reform.php&action=team"> ´Zisk na trhu - sezóna´</a> .
+                    <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=manager_economy_reform.php&action=team"> ´Zisk na trhu - sezóna´</a>.
                     <br><br> 
                     Výsledná suma sa stáva celkovým <u> „kšeftárskym ziskom“ </u> sezóny a nezapočítávajú sa do nej teda hráči predaní skôr ako 70 dní od ich získania do týmu, ani hráči predaní po viac než 280 dňoch v týmu.
                     <br><br> 
                     Celkový kšeftársky zisk sezóny sa pripočíta (keď je väčší ako nula), alebo odpočíta od sumy - 'Zisk na trhu'. Tá je pre mužstvo vedená od začiatku jeho existence a započítavajú sa do nej všetky sezóny s výnimkou aktuálne prebiehajúcej
                     a predchádzajúcej sezóny. Tj. ako posledná sa do úvahy berie sezóna o 2 nižšia, než je aktuálna. Aktualizacia 'Zisku na trhu' prebehne vždy pri prepočtu na novú sezónu, kedy se pripočíta ďaľšia uzavrená sezóna.
                     <br><br> 
-                    Manažér sa stáva kšeftárom, keď je 'Zisk na trhu' väčší ako nula. V tom prípade sa mu zvyšujú <a href="https://www.hockeyarena.net/sk/index.php?p=manager_economy_reform.php&action=info">poplatky</a>  za niektoré funkcie v hre, viď zoznam nižšie. 
+                    Manažér sa stáva kšeftárom, keď je 'Zisk na trhu' väčší ako nula. V tom prípade sa mu zvyšujú <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=manager_economy_reform.php&action=info">poplatky</a>  za niektoré funkcie v hre, viď zoznam nižšie. 
                     Zisk na trhu sa kšeftárovi znižuje vždy, keď zaplatí jeden z uvedených poplatkov, a to presne o sumu zvýšenia poplatkov – tato aktualizacia 'Zisku na trhu' prebehne okamžite po zaplatení daného poplatku. Manažér prestane byť kšeftárom, keď zisk na trhu znovu klesne pod nulu.
                     <br><br>
                     <table class="cups">

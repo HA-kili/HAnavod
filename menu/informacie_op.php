@@ -27,5 +27,5 @@
                         <li> je rozdiel denných príjmov (príjem z darčekov, ligový sponzori, vstupné) a denných výdavkov. </li>
                     </ul>
                     <br><br>
-                    Všetky tieto informácie nájdete na stránke v Menu <a href="https://www.hockeyarena.net/sk/index.php?p=manager_scouting_form.php"> Mužstvo - Oddelenie prieskumu </a> . 
+                    Všetky tieto informácie nájdete na stránke v Menu <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=manager_scouting_form.php"> Mužstvo - Oddelenie prieskumu </a> . 
                     <br><br>

@@ -1,9 +1,9 @@
 
                 <div class="section-name"> Pokročilé zápasové taktiky </div>
                     <br>
-                    Pripravili sme úplne nový systém nastavenia taktiky na zápas (<a href="https://www.hockeyarena.net/sk/index.php?p=guide.gui&a=disp&type=section&id=5">pokročilé zápasové taktiky</a>), kde je možné ovplyvniť viaceré taktické nastavenia aj počas zápasu, podľa aktuálneho skóre alebo iných udalostí. Všetky potrebné informácie
-                    nájdete v menu <a href="https://www.hockeyarena.net/sk/index.php?p=manager_tactics_adv.inc&tactics_id=65824&return_url=manager_tactics_form.php&tactics_id=65824&desc=%3Cb%3ETu+si+m%C3%B4%C5%BEe%C5%A1+nastavi%C5%A5+v%C5%A1eobecn%C3%A9+parametre+z%C3%A1pasu.+M%C3%B4%C5%BEe%C5%A1+ma%C5%A5+ulo%C5%BEen%C3%BDch+celkovo+5+r%C3%B4znych+nastaven%C3%AD.%3C/b%3E">Mužstvo - Nastavenie zápasu - Nastavenie taktiky</a> .
-                    Taktiku je možné nastaviť pre konkrétny zápas, alebo si prednastaviť zápasové profily, pre ligové, priateľské alebo iné zápasy, ktoré sa potom automaticky použijú pre všetky zápasy toho typu. <a class="novinky" href="https://www.hockeyarena.net/sk/index.php?p=guide.gui&a=disp&type=section&id=5"><img class="icons" src="./icons/novinka.png"></a>
+                    Pripravili sme úplne nový systém nastavenia taktiky na zápas (<a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=guide.gui&a=disp&type=section&id=5">pokročilé zápasové taktiky</a>), kde je možné ovplyvniť viaceré taktické nastavenia aj počas zápasu, podľa aktuálneho skóre alebo iných udalostí. Všetky potrebné informácie
+                    nájdete v menu <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=manager_tactics_adv.inc&tactics_id=65824&return_url=manager_tactics_form.php&tactics_id=65824&desc=%3Cb%3ETu+si+m%C3%B4%C5%BEe%C5%A1+nastavi%C5%A5+v%C5%A1eobecn%C3%A9+parametre+z%C3%A1pasu.+M%C3%B4%C5%BEe%C5%A1+ma%C5%A5+ulo%C5%BEen%C3%BDch+celkovo+5+r%C3%B4znych+nastaven%C3%AD.%3C/b%3E">Mužstvo - Nastavenie zápasu - Nastavenie taktiky</a>.
+                    Taktiku je možné nastaviť pre konkrétny zápas, alebo si prednastaviť zápasové profily, pre ligové, priateľské alebo iné zápasy, ktoré sa potom automaticky použijú pre všetky zápasy toho typu. <a class="novinka" href="https://www.hockeyarena.net/sk/index.php?p=guide.gui&a=disp&type=section&id=5"><img class="icons" src="./icons/novinka.png"></a>
                     <br><br>
                     Taktické akcie menia taktické nastavenia v priebehu zápasu podľa jednej alebo dvoch zvolených podmienok.
                     <br><br><br>
@@ -14,7 +14,7 @@
                     <b><h1> Striedanie brankára </b></h1> 
                     Tréner má tiež možnosť vystriedať brankára za náhradného podľa zvolených podmienok.
                     <br><br><br>
-                    <b><h1> Zmeniť čas na ľade </b></h1>
+                    <h1><b id="icetime" class="kotva"> Zmeniť čas na ľade </b></h1>
                     Zmení čas, po ktorom sa na ľade striedajú formácie. Pôvodne nastavený čas je možné zistiť v obrazovke zápasu v štatistike formácií.
                     <br><br><br>
                     <b><h1> Kopírovať súperove formácie </b></h1>
@@ -38,16 +38,16 @@
                     <br>
                     3. tretina - 0:0 </p>
                     <br><br><br>              
-                    <b><h1> Agresivita </b></h1> 
+                    <b id="agresivita" class="kotva"><h1> Agresivita </b></h1> 
                     Manažér má možnosť počas zápasu meniť agresivitu podľa zvolených podmienok. Agresivita v spojení so silou a sebaovládaním hráča môže mať pozitívny vplyv na celkovú prevahu formácie na ľade, ale pri nízkom sebaovládaní
-                    hráčov spôsobuje častejšie vylučovanie. Úroveň agresivity ovplyvňuje aj rýchlosť ubúdania energie hráčov : <a class="novinky" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=10941"><img class="icons" src="./icons/novinka.png"></a>
+                    hráčov spôsobuje častejšie vylučovanie. Úroveň agresivity ovplyvňuje aj rýchlosť ubúdania energie hráčov : <a class="novinka" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=10941"><img class="icons" src="./icons/novinka.png"></a>
                     <br>
                     <br> Nízka - spotreba energie: 100% 
                     <br> Stredná - spotreba energie: 102% 
                     <br> Vysoká - spotreba energie: 105% 
                     <br> Rež a rúbaj - spotreba energie: 111%
                     <br><br>
-                    Viac info v sekcii <a href="index.php?navod=hra_telom">Hra telom</a> .
+                    Viac info v sekcii <a class="navod " href="index.php?navod=hra_telom">Hra telom</a> .
                     <br><br><br>
                     <b><h1> Mierenie streľby </b></h1>
                     Manažér môže nastaviť dve zmeny mierenia streľby na bránu počas zápasu. 
@@ -89,5 +89,5 @@
                     potvrdiť tlačítkom <img class="icons" src="./icons/zelena_fajfka.png"> . </b>
                     <br><br><br>
                     <b> Jednotlivé taktické nastavenia je možné vytvárať aj mazať !!! Prednastavené sú “Doma“ a “Priateľské“
-                    – Menu <a href="https://www.hockeyarena.net/sk/index.php?p=manager_tactics_form.php">Mužstvo - Nastavenia zápasu</a> </b> .
+                    – Menu <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=manager_tactics_form.php">Mužstvo - Nastavenia zápasu</a> </b>.
                     <br><br>

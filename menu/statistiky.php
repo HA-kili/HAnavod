@@ -3,18 +3,18 @@
                     <br>
                     Štatistiky sa dajú sledovať buď :
                     <ul>
-                        <li> ligové (<a href="https://www.hockeyarena.net/sk/index.php?p=manager_league_statistics.php&type=sco">Menu - Liga - Štatistiky</a>) </li>
-                        <li> týmové (<a href="https://www.hockeyarena.net/sk/index.php?p=sponsor_teams_statistics.php">Menu - Mužstvo - Štatistiky</a>) </li>
-                        <li> hráčske kariérne (<a href="https://www.hockeyarena.net/sk/index.php?p=sponsor_lifetime_stats.inc">Menu - Hráči - Štatistiky</a>) </li>
+                        <li> ligové v menu (<a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=manager_league_statistics.php&type=sco">Liga - Štatistiky</a>) </li>
+                        <li> týmové v menu (<a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=sponsor_teams_statistics.php">Mužstvo - Štatistiky</a>) </li>
+                        <li> hráčske kariérne v menu (<a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=sponsor_lifetime_stats.inc">Hráči - Štatistiky</a>) </li>
                     </ul>
                     <br><br>
-                    <h1> Ligové štatistiky sú tieto : </h1>
+                    <h1><b id="ligove_stat" class="kotva"> Ligové štatistiky sú tieto : </b></h1>
                     <br>
                     <i><u> Najlepší strelec (Góly) </u></i> - hodnotí sa poradie hráčov podľa počtu strelených gólov. Hodnotí sa TOP10 strelcov. 
                     <br><br>
                     <i><u> Kanadské bodovanie produktivity (Body) </u></i> - hodnotí sa poradie hráčov podľa počtu strelených gólov a nahrávok na góly.  
-                    Koncosezónne štatistiky hráča sa budú ukladať pre všetkých hráčov v hre, ale viditeľné budú iba pre manažérov so <a href="https://www.hockeyarena.net/sk/index.php?index.php&p=public_shop.php">sponzorským balíkom</a>. 
-                    <a class="novinky" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=12344"><img class="icons" src="./icons/novinka.png" ></a>
+                    Koncosezónne štatistiky hráča sa budú ukladať pre všetkých hráčov v hre, ale viditeľné budú iba pre manažérov so <a class="arena" href="https://www.hockeyarena.net/sk/index.php?index.php&p=public_shop.php">Sponzorským balíkom</a>. 
+                    <a class="novinka" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=12344"><img class="icons" src="./icons/novinka.png" ></a>
                     <br><br>
                     <i><u> Najlepší obranca (Body obrana) </u></i> - hodnotí sa poradie obrancov podľa počtu strelených gólov a nahrávok na góly. Do tejto kategórie sa počíta každý hráč, ktorý všetky ligové zápasy odohral na pozícii obrancu. 
                     V štatistike bodovania obrancov sa bude vyhodnocovať TOP20 najlepších hráčov. 
@@ -33,8 +33,8 @@
                     <br><br> 
                     <u><i> Shutout-y </i></u> - nevyhodnocuje sa pri hviezdach. 
                     <br><br><br>
-                    <b> Umiestnenie v týchto hodnoteniach je jedna z podmienok na to, aby sa dal hráčovi <a href="index.php?navod=darovanie_dresu"> darovať dres </a>. </b> 
-                    <a class="novinky" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=12972"><img class="icons" src="./icons/novinka.png"></a>
+                    <b> Umiestnenie v týchto hodnoteniach je jedna z podmienok na to, aby sa dal hráčovi <a class="navod" href="index.php?navod=darovanie_dresu"> darovať dres</a>. </b> 
+                    <a class="novinka" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=12972"><img class="icons" src="./icons/novinka.png"></a>
                     <br><br>
                     <br><br><br>
                     <h1> Týmové štatistiky sú tieto : </h1>
@@ -52,5 +52,6 @@
                     <br><br><br>
                     <h1> Hráčske kariérne štatistiky : </h1>
                     <br>
-                    Tu je možné sledovať kariérne štatistiky hráča, ktoré sa nebudú nulovať. Jediná výnimka bude ak hráč strávi čas v mužstve bez <a href="https://www.hockeyarena.net/sk/index.php?index.php&p=public_shop.php">sponzorského balíka</a> .  
-                    Kariérne štatistiky je možné prezerať aj jednotlivo u cudzích hráčov. V kariérnych štatistikách sa už dá zobraziť aj vlastné mužstvo. <a class="novinky" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=11235"><img class="icons" src="./icons/novinka.png"></a>
+                    Tu je možné sledovať kariérne štatistiky hráča, ktoré sa nebudú nulovať. Jediná výnimka bude ak hráč strávi čas v mužstve bez <a class="arena" href="https://www.hockeyarena.net/sk/index.php?index.php&p=public_shop.php">Sponzorského balíka</a>.  
+                    Kariérne štatistiky je možné prezerať aj jednotlivo u cudzích hráčov. V kariérnych štatistikách sa už dá zobraziť aj vlastné mužstvo. <a class="novinka" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=11235"><img class="icons" src="./icons/novinka.png"></a>
+                    <br><br>

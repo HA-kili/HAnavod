@@ -13,10 +13,10 @@
                     <br><br> 
                     Zraneným hráčom sa dĺžka zranenia mení (zmenšuje) každý deň po prepočte, čiže po 22:00 hod. 
                     <br><br> 
-                    Celková dĺžka zranenia hráča za sezónu sa zobrazuje v sekcii <a href="https://www.hockeyarena.net/sk/index.php?p=manager_team_statistics.php#x"> Menu - Hráči - Štatistiky</a> 
-                    (iba pre <a href="https://www.hockeyarena.net/sk/index.php?index.php&p=public_shop.php">sponzorský balík</a>). <a class="novinky" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=13519"><img class="icons" src="./icons/novinka.png"></a>
+                    Celková dĺžka zranenia hráča za sezónu sa zobrazuje v menu <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=manager_team_statistics.php#x">Hráči - Štatistiky</a> 
+                    (iba pre <a class="arena" href="https://www.hockeyarena.net/sk/index.php?index.php&p=public_shop.php">Sponzorský balík</a>). <a class="novinka" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=13519"><img class="icons" src="./icons/novinka.png"></a>
                     <br><br> 
-                    Zranenie hráča je možné zmenšiť pomocou dresu “Zranenie“ – sekcia <a href="index.php?navod=specialne_dresy">Dresy</a>
+                    Zranenie hráča je možné zmenšiť pomocou dresu "Zotavenie" (mesiac Jún) – sekcia <a class="navod" href="index.php?navod=specialne_dresy">Dresy</a>.
                     <br><br>
                     Maximálna doba zranenia hráča je 12 dní. 
                     <br><br>

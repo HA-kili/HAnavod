@@ -7,8 +7,8 @@
                     <br><br>
                     Vyhodnotenie prebehne vždy v sobotu na začiatku prepočtu a víťazní hráči získajú zvýšený hviezdny štatút. 
                     Informácia o tom, že sa hráč stal hviezdou týždňa sa objaví v novinkách mužstva, manažéri 
-                    so <a href="https://www.hockeyarena.net/sk/index.php?index.php&p=public_shop.php"> sponzorským balíkom </a>  navyše 
-                    uvidia v okne <a href="https://www.hockeyarena.net/sk/index.php?p=public_standings.inc"> Liga - Tabuľky </a> aktuálne 
+                    so <a class="arena" href="https://www.hockeyarena.net/sk/index.php?index.php&p=public_shop.php">Sponzorským balíkom </a>  navyše 
+                    uvidia v menu <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=public_standings.inc">Liga - Tabuľky </a> aktuálne 
                     hviezdy týždňa. 
                     <br><br>
                     Pri brankároch sa berie do úvahy ten brankár, na ktorého v rámci jedného zápasu a jedného mužstva išlo viac striel. 

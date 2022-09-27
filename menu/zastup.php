@@ -1,9 +1,9 @@
 
                 <div class="section-name"> Zástup </div>
                     <br>
-                    V sekcii <a href="https://www.hockeyarena.net/sk/index.php?p=manager_settings_form.php">Manažér - Nastavenie</a>  je možnosť 
+                    V menu <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=manager_settings_form.php">Manažér - Nastavenie</a>  je možnosť 
                     nastaviť iného manažéra, ktorý pri Vašej absencii bude dohliadať na chod Vášho mužstva. Zástupca manažéra sa môže prihlásiť do 
-                    Vášho mužstva použitím Vášho nick-u a jeho hesla. <a class="novinky" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=7659"><img class="icons" src="./icons/novinka.png"></a>
+                    Vášho mužstva použitím Vášho nick-u a jeho hesla. <a class="novinka" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=7659"><img class="icons" src="./icons/novinka.png"></a>
                     <br><br>
                     Zástupca nebude mať samozrejme k dispozícii všetky funkcie, ale iba tie najdôležitejšie pre chod mužstva. 
                     <br><br>

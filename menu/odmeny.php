@@ -1,7 +1,7 @@
 
                 <div class="section-name"> Odmeny </div>
                     <br>
-                    V Sekcii <a href="https://www.hockeyarena.net/sk/index.php?p=manager_league_bonuses.php">Liga - Odmeny</a> je možné nájsť výšku odmien za umiestnenie mužstva :
+                    V Menu <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=manager_league_bonuses.php">Liga - Odmeny</a> je možné nájsť výšku odmien za umiestnenie mužstva :
                     <br><br> 
                     <ul> 
                         <li> <u> po základnej časti </u> - budú vyplatené v utorok po prepočte

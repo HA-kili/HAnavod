@@ -1,10 +1,10 @@
 
                 <div class="section-name"> Kalendár </div>
                     <br>
-                    Kalendár sa nachádza v menu <a href="https://www.hockeyarena.net/sk/index.php?p=manager_calendar.php">Mužstvo - Kalendár</a>. 
+                    Kalendár sa nachádza v menu <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=manager_calendar.php">Mužstvo - Kalendár</a>. 
                     <br> <br>
                     Kalendár zobrazuje odohrané zápasy a plánované zápasy. Deň dnešného zápasu je označený <b>hrubým písmom</b>. Ak sa v danom dni nachádza Voľno alebo ikonka 
-                    plánovača <a href="https://www.hockeyarena.net/sk/index.php?index.php&p=public_shop.php">(pre Sponzorský balík)</a> , znamená to, že v tento deň nemáš 
+                    plánovača <a class="arena" href="https://www.hockeyarena.net/sk/index.php?index.php&p=public_shop.php">(pre Sponzorský balík)</a> , znamená to, že v tento deň nemáš 
                     naplánovaný zápas. Na tento deň je možné dohodnúť priateľský zápas kliknutím na ikonku <img class="icons" src="./icons/kalendar.png" >
                     <br><br> 
                     Naplánovaný zápas je možné stornovať kliknutím na ikonku koša <img class="icons" src="./icons/kos.gif" > , avšak <u>najneskôr</u> 3 dni pred zápasom.

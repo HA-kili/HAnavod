@@ -6,12 +6,12 @@
                 <br><br> 
                 Zakúpením sponzorského balíka nám pomáhaš ďalej vyvíjať a zlepšovať Hockey Arenu.
                 <br><br>
-                <a href="https://www.hockeyarena.net/sk/index.php?p=public_payment_form.php">Kúpiť sponzorský balík. </a>
+                <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=public_payment_form.php">Kúpiť sponzorský balík. </a>
                 <br><br>
                 <b>Logo mužstva </b>
                 <br> 
-                Ak sa chceš prezentovať pekným <a href="https://www.hockeyarena.net/sk/index.php?p=sponsor_logo_admin.php">logom</a> , môžeš k svojmu mužstvu nahrať obrázok, ktorý sa bude zobrazovať ako logo mužstva v detailnom okne. Logo je možné podľa potreby ľubovoľne meniť.
-                <u> Maximálna veľkosť loga je 51200 bajtov, šírka 400 pixelov, výška 200 pixelov. </u> Každý deň je možné zahlasovať za jedno logo a víťazné sa zobrazuje na hlavnej stránke ako logo dňa! Poradie hlasovenia je možné vidieť <a href="https://www.hockeyarena.net/sk/index.php?p=sponsor_logo_competition.php&action=rank"> tu </a>. 
+                Ak sa chceš prezentovať pekným <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=sponsor_logo_admin.php">logom</a> , môžeš k svojmu mužstvu nahrať obrázok, ktorý sa bude zobrazovať ako logo mužstva v detailnom okne. Logo je možné podľa potreby ľubovoľne meniť.
+                <u> Maximálna veľkosť loga je 51200 bajtov, šírka 400 pixelov, výška 200 pixelov. </u> Každý deň je možné zahlasovať za jedno logo a víťazné sa zobrazuje na hlavnej stránke ako logo dňa! Poradie hlasovenia je možné vidieť <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=sponsor_logo_competition.php&action=rank"> tu </a>. 
                 <br><br>
                 <b> Automatické ponuky na trhu </b> 
                 <br> 
@@ -33,18 +33,18 @@
                 <br>
                 <br><b> Web stránka mužstva </b> 
                 <br> 
-                K mužstvu je možné zadať adresu na <a href="https://www.hockeyarena.net/sk/index.php?p=sponsor_main_form.php">web stránku</a> mužstva. Táto linka sa zobrazuje v detailnom okne mužstva každému, kto si ho zobrazí.
+                K mužstvu je možné zadať adresu na <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=sponsor_main_form.php">web stránku</a> mužstva. Táto linka sa zobrazuje v detailnom okne mužstva každému, kto si ho zobrazí.
                 <br><br>
                 <b> Tlačové správy mužstva </b> 
                 <br> 
-                Ak chceš informovať svojich fanúšikov o najnovších udalostiach v mužstve alebo o plánovaných zmenách, môžeš použiť <a href="https://www.hockeyarena.net/sk/index.php?p=sponsor_press_admin.php">tlačové správy</a>. Tieto správy sa zobrazujú v okne mužstva, ale aj v okne ligových
+                Ak chceš informovať svojich fanúšikov o najnovších udalostiach v mužstve alebo o plánovaných zmenách, môžeš použiť <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=sponsor_press_admin.php">tlačové správy</a>. Tieto správy sa zobrazujú v okne mužstva, ale aj v okne ligových
                 tabuliek. Správy je možné vytvárať, editovať aj vymazať.
                 <br><br>
                 <b> Sledovanie</b> 
                 <br> 
-                Môžeš sledovať vybraných hráčov – ich aktuálne mužstvo, ligu a ďalšie vlastnosti. Všetky tieto informácie sú dostupné prehľadne v jednom okne a to v Menu <a href="https://www.hockeyarena.net/sk/index.php?p=sponsor_tracking_form.php&action=players">Hráči - Sledovanie</a>. 
+                Môžeš sledovať vybraných hráčov – ich aktuálne mužstvo, ligu a ďalšie vlastnosti. Všetky tieto informácie sú dostupné prehľadne v jednom okne a to v Menu <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=sponsor_tracking_form.php&action=players">Hráči - Sledovanie</a>. 
                 Sledovanie vlastných hráčov teraz počíta priebežné náklady na plat a podpisové bonusy hráča počas jeho kariéry. Stačí začať sledovať vlastného hráča a systém sa o to postará automaticky. Náklady sa zobrazujú na karte hráča aj v zozname sledovaných hráčov. 
-                <a class="novinky" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=11351"><img class="icons" src="./icons/novinka.png"></a>
+                <a class="novinka" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=11351"><img class="icons" src="./icons/novinka.png"></a>
                 <br><br>
                 <b> Poznámky </b> 
                 <br> 
@@ -52,7 +52,7 @@
                 <br><br>
                 <b> Služba e-mailových notifikácií </b> 
                 <br> 
-                Je možné nastaviť si automatické <a href="https://www.hockeyarena.net/sk/index.php?p=sponsor_main_form.php">e-mailové upozornenie</a>  na tieto udalosti : 
+                Je možné nastaviť si automatické <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=sponsor_main_form.php">e-mailové upozornenie</a>  na tieto udalosti : 
                 <ul>
                     <li> výsledky zápasov </li>
                     <li> výzva na priateľský zápas </li>
@@ -62,38 +62,38 @@
                 <b> Iné výhody sponzorského balíka : </b> 
                 <ul>
                     <li> Na trhu je možné filtrovať hráčov podľa IŠ. </i>
-                    <li> V Menu <a href="https://www.hockeyarena.net/sk/index.php?p=manager_team_statistics.php"> Hráči - Štatistiky </a> môže sponzor jednoducho zoraďovať hráčov podľa jednotlivých stĺpcov, navyše sa mu v tomto okne zobrazuje aj prehľadná tabuľka štatistík hráčov v jeho mužstve. </li>
-                    <li> V Menu <a href="https://www.hockeyarena.net/sk/index.php?p=public_managers_statistics.php">Manažér - TOP </a> je meno manažéra zvýraznené červenou farbou. Ak sa nenachádza v poradí top 100, je zobrazená v spodnej časti okna jeho pozícia v rebríčku. </li>
+                    <li> V Menu <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=manager_team_statistics.php"> Hráči - Štatistiky </a> môže sponzor jednoducho zoraďovať hráčov podľa jednotlivých stĺpcov, navyše sa mu v tomto okne zobrazuje aj prehľadná tabuľka štatistík hráčov v jeho mužstve. </li>
+                    <li> V Menu <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=public_managers_statistics.php">Manažér - TOP </a> je meno manažéra zvýraznené červenou farbou. Ak sa nenachádza v poradí top 100, je zobrazená v spodnej časti okna jeho pozícia v rebríčku. </li>
                     <li> V zozname hráčov cudzieho mužstva sú hráči na trhu indikovaní červenou farbou. </li>
                     <li> Zvýšený maximálny počet znakov poštovej správy na 2000. </li>
                     <li> Zvýšený maximálny počet poštových správ za deň na 30.</li>
-                    <li> Prepínanie zostáv <a href="https://www.hockeyarena.net/sk/index.php?p=manager_settings_form.php">L1 - L4</a> </li>
+                    <li> Prepínanie zostáv <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=manager_settings_form.php">L1 - L4</a> </li>
                     <li> Vyradenie hráča červenou rukou <img class="icons" src="../icons/cervena_ruka.png" > kvoli zlepšeniu formy </li>
-                    <li> Zmena <a href="https://www.hockeyarena.net/sk/index.php?p=manager_settings_form.php">nicku</a> 1* za HA kariéru (okrem členov HA týmu) </li>
-                    <li> Pod <a href="https://www.hockeyarena.net/sk/index.php?p=public_standings.inc">ligovou tabuľkou </a> sa zobrazuju 3 hviezdy týždňa : brankár – útočník - obranca </li>
-                    <li> Všetkých hráčov z juniorky je možné vidieť v Menu <a href="https://www.hockeyarena.net/sk/index.php?p=sponsor_tracking_nurselings.php"> Hráči - Sledovanie - Odchovanci</a>    </li>
-                    <li> Nové obrazovky pre manažérov sa nachádzajú v menu <a href="https://www.hockeyarena.net/sk/index.php?p=sponsor_league_injured_players.php"> Liga - Hráči </a> </li>
+                    <li> Zmena <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=manager_settings_form.php">nicku</a> 1* za HA kariéru (okrem členov HA týmu) </li>
+                    <li> Pod <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=public_standings.inc">ligovou tabuľkou </a> sa zobrazuju 3 hviezdy týždňa : brankár – útočník - obranca </li>
+                    <li> Všetkých hráčov z juniorky je možné vidieť v menu <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=sponsor_tracking_nurselings.php"> Hráči - Sledovanie - Odchovanci</a>    </li>
+                    <li> Nové obrazovky pre manažérov sa nachádzajú v menu <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=sponsor_league_injured_players.php"> Liga - Hráči </a> </li>
                     <ul>
                         <li> Zranení hráči - zoznam aktuálne zranených hráčov v tvojej lige. </li>
                         <li> Hráči na trhu - zoznam hráčov na trhu z mužstiev v tvojej lige. </li>
                         <li> Nové posily - noví hráči prichádzajúci do mužstiev v tvojej lige. </li>
                     </ul>
                     <li> Možnosť vidieť históriu svojich zápasov s inými mužstvami, po kliknutí na súpera a kolonku História  </li>
-                    <li> Tvorba <a href="https://www.hockeyarena.net/sk/index.php?p=hotlinks.php&action=add">rýchlych odkazov</a>  </li>
-                    <li> Sledovanie svojich <a href="https://www.hockeyarena.net/sk/index.php?p=sponsor_tracking_form.php&action=friends">priateľov</a>  </li>
-                    <li> Štatistiky <a href="https://www.hockeyarena.net/sk/index.php?p=manager_top_salary.php">TOP10</a>  a <a href="https://www.hockeyarena.net/sk/index.php?p=manager_top_teams_league.php">TOP16</a>  </li>
-                    <li> Možnostť tipovať v stávkovej kancelárie v menu <a href="https://www.hockeyarena.net/sk/index.php?p=sponsor_betting_office.php">Liga - Stávková kancelária</a>  </li>
+                    <li> Tvorba <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=hotlinks.php&action=add">rýchlych odkazov</a>  </li>
+                    <li> Sledovanie svojich <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=sponsor_tracking_form.php&action=friends">priateľov</a>  </li>
+                    <li> Štatistiky <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=manager_top_salary.php">TOP10</a>  a <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=manager_top_teams_league.php">TOP16</a>  </li>
+                    <li> Možnostť tipovať v stávkovej kancelárie v menu <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=sponsor_betting_office.php">Liga - Stávková kancelária</a>  </li>
                     <li> Možnosť priradiť hráčom automatický tréning na karte hráča </li>
                     <li> Možnosť upraviť čas uzávierky svojich predávaných hráčov </li>
-                    <li> <a href="https://www.hockeyarena.net/sk/index.php?p=manager_league_statistics.php&type=sco">Ligové</a>  a <a href="https://www.hockeyarena.net/sk/index.php?p=manager_team_statistics.php">tímové</a>  štatistiky hráčov, Zoznam podobných obchodov pre hráča </li>
+                    <li> <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=manager_league_statistics.php&type=sco">Ligové</a>  a <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=manager_team_statistics.php">tímové</a>  štatistiky hráčov, Zoznam podobných obchodov pre hráča </li>
                     <li> Na karte hráča je vidieť známku a ligovú známku </li>
                     <li> Je možné si pozrieť ako hráča vidia ostatné mužstvá – kliknutím na linku <u> Kvalita/Potenciál </u> z karty hráča. </li>
                     <li> Nová sponzorská funkcia, ktorá zobrazí sumár všetkých preskúmaných aj nepreskúmaných zápasov týkajúcich sa jedného gólmana, stačí kliknúť na linku prieskum pri slabom mieste z karty hráča. </li>
-                    <li> Hromadné odoslanie ponúk <a href="https://www.hockeyarena.net/sk/index.php?p=manager_league_sponsors.inc">sponzorom</a> . </li> 
+                    <li> Hromadné odoslanie ponúk <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=manager_league_sponsors.inc">sponzorom</a> . </li> 
                     <li> Vymeniť hráča vo všetkých formáciách. </li> 
                     <li> Presun hráča do U23 mužstva alebo späť do hlavného mužstva bude možný so sponzorským balíkom raz za 24h </li>
                     <li> Zrušené U23 mužstvo (z dôvodu nedostatku hráčov alebo na žiadosť manažéra) bude možné znovuzaložiť najskôr po 2 dňoch. </li>
-                    <li> V menu <a href="https://www.hockeyarena.net/sk/index.php?p=manager_team_statistics.php">Hráči - Štatistiky</a>  sa už zobrazuje celková dĺžka zranenia hráča za sezónu. </li>
+                    <li> V menu <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=manager_team_statistics.php">Hráči - Štatistiky</a>  sa už zobrazuje celková dĺžka zranenia hráča za sezónu. </li>
                     <li> iné </li>
                 </ul>
                 <br><br>
