@@ -14,5 +14,6 @@
                         <li> zachovanie štatistík hráčov U23 pri presunoch do A mužstva a späť</li>
                         <li> možnosť pozvať hráča do reprezentácie priamo z karty hráča</li>
                         <li> zmeniť bodovanie v súťažiach ako reprezentácia, Svetová liga a Pohár národných šampiónov (bod za remízu, prípadne tri body za výhru</li>
+                        <li> pri zániku mužstva hodiť všetkých hráčov na trh, nie iba repre hráčov</li>
                     </ul>
                     <br><br>
