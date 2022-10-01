@@ -5,12 +5,13 @@
                     Typ dresu sa bude meniť každý mesiac. Dres bude po aktivácii možné znovu deaktivovať najskôr po 14 dňoch. 
                     Dresy je možné aktivovať / prepínať na karte hráča, po kliknutí na fotku hráča - platí iba 
                     so <a class="arena" href="https://www.hockeyarena.net/sk/index.php?index.php&p=public_shop.php"> Sponzorským balíkom</a>. 
+                    <br><br>
                     Bez Sponzorského balíka je tieto zmeny možné robiť cez menu <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=manager_jersey.inc"> Hráči - Dres</a>,  
                     kde sa nachádza zoznam všetkých hráčov, ktorí vlastnia dres. Po kliknutí na hráča sa ukážu dresy, kde je následne možné robiť zmeny. 
-                    <br>
-                    Mužstvá, ktoré už vlastnia daný dres, nemôžu získať znovu ten istý dres počas akcie. Platí to aj v prípade, že hráč, ktorý získa dres, bude predaný do iného mužstva 
-                    alebo poslaný do "dôchodku". 
-                    <br><br><br>
+                    <br><br>
+                    <b> Mužstvá, ktoré už vlastnia daný dres, nemôžu získať znovu ten istý dres počas akcie. Platí to aj v prípade, že hráč, ktorý získa dres, bude predaný do iného mužstva 
+                    alebo poslaný do "dôchodku". </b>
+                    <br><br><br><br>
                     <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=14096"><u> 31.07.2022 - August: Streľba na terč </u></a>
                     <br> Bonus : zvýšenie brány o 10
                     <br> Pri deaktivácii : zodpovedajúce zníženie brány
