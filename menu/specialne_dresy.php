@@ -29,20 +29,21 @@
                     <br><br>
                     <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=13920"><u> 09.12.2021 - December : Veselé sviatky </u></a>
                     <br> Bonus: zvýšenie potenciálu hráča o jeden level 
-                    <br> (Tento dres sa nedá aktivovať z -12% na -6% a pri horších potenciáloch. Posledný krát sa dá dres aktivovať z -6% na 0%)
                     <br> Pri deaktivácii : zodpovedajúce zníženie potenciálu hráča o jeden level
+                    <br> <span class="poznamka_dres"> * (Tento dres sa nedá aktivovať z -12% na -6% a pri horších potenciáloch. Posledný krát sa dá dres aktivovať z -6% na 0%) </span>
                     <br><br>
                     <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=13807"><u> 03.11.2021 - November: Legendy </u></a>
                     <br> Bonus: zvýšenie nahrávky +15, aktuálne zranenie -1 deň
                     <br> Pri deaktivácii : zodpovedajúce zníženie nahrávky
                     <br><br>
-                    <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=13720"><u> 06.10.2021 - Október: Halloween kúzla/maškrty </u></a>
+                    <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=13720"><u> 06.10.2021 - Október: Halloween kúzla (maškrty) </u></a>
                     <br> Bonus: zvýšenie sebaovládania (rýchlosti) o 10 bodov
                     <br> Pri deaktivácii : zodpovedajúce zníženie atribútu
                     <br><br>
                     <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=13661"><u> 03.09.2021 - September: Šťastný služobník </u></a>
-                    <br> Bonus: Lojalita +3 (zvýši o 3 stupne), skúsenosť -80, nedá sa aktivovať, ak je hráč na trhu
+                    <br> Bonus: Lojalita +3 (zvýši o 3 stupne), skúsenosť -80
                     <br> Pri deaktivácii : zodpovedajúce zníženie lojality a zvýšenie skúsenosti
+                    <br> <span class="poznamka_dres"> * (Tento dres sa nedá aktivovať, ak je hráč na trhu) </span>
                     <br><br>
                     <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=13605"><u> 05.08.2021 – August: Streľba na terč </u></a>
                     <br> Bonus: Brána +10 
@@ -78,8 +79,8 @@
                     <br><br>
                     <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=13002"><u> 01.12.2020 - December: Veselé sviatky! </u></a>
                     <br> Bonus: zvýšenie potenciálu hráča o jeden level 
-                    <br> (Tento dres sa nedá aktivovať z -12% na -6% a pri horších potenciáloch. Posledný krát sa dá dres aktivovať z -6% na 0%)
                     <br> Pri deaktivácii : zodpovedajúce zníženie potenciálu hráča o jeden level
+                    <br> <span class="poznamka_dres"> * (Tento dres sa nedá aktivovať z -12% na -6% a pri horších potenciáloch. Posledný krát sa dá dres aktivovať z -6% na 0%) </span>
                     <br><br>
                     <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=12943"><u> 03.11.2020 - November: Hokejové legendy </u></a>
                     <br> Bonus: nahrávka +10, aktuálne zranenie -1 deň
@@ -90,8 +91,9 @@
                     <br> Pri deaktivácii : zodpovedné zníženie sebaovládania
                     <br><br>
                     <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=12799"><u> 03.09.2020 - September - Šťastný služobník </u></a>
-                    <br> Bonus: Lojalita +3 (zvýši o 3 stupne), skúsenosť -30, nedá sa aktivovať, ak je hráč na trhu
+                    <br> Bonus: Lojalita +3 (zvýši o 3 stupne), skúsenosť -30 
                     <br> Pri deaktivácii : zodpovedné zníženie lojality a zvýšenie skúsenosti
+                    <br> <span class="poznamka_dres"> * (Tento dres sa nedá aktivovať, ak je hráč na trhu) </span>
                     <br><br>
                     <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=12741"><u> 28.07.2020 - August: Streľba na terč </u></a>
                     <br> Bonus: Brána +10 
