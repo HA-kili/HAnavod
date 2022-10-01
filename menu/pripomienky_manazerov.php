@@ -15,5 +15,6 @@
                         <li> možnosť pozvať hráča do reprezentácie priamo z karty hráča</li>
                         <li> zmeniť bodovanie v súťažiach ako reprezentácia, Svetová liga a Pohár národných šampiónov (bod za remízu, prípadne tri body za výhru</li>
                         <li> pri zániku mužstva hodiť všetkých hráčov na trh, nie iba repre hráčov</li>
+                        <li> na karte repre mužstva pridať kolonku s PP/PK úspešnosťou v danej sezóne</li>
                     </ul>
                     <br><br>
