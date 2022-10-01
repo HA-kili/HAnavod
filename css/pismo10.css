@@ -102,3 +102,8 @@ a.addons {
 .kotva {
     padding-top: 65px;
 }
+
+/* poznamka k dresom */
+.poznamka_dres {
+    color: grey;
+}
