@@ -15,7 +15,7 @@
                     Výška atribútu závisí od kvality hráča. Totižto hráč si vie vytrénovať atribút max. do výšky 2,5* násobku kvality. Potom sa tréning daného atribútu výrazne spomalí.
                     <a class="novinka" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=11707"><img class="icons" src="./icons/novinka.png"></a>
                     <br><br>
-                    Výraznejšie skoky tréningov (smerom dole) nájdete <a class="navod" href="./images/pokles_treningov.jpg">tu</a>.
+                    Výraznejšie skoky tréningov (smerom dole) nájdete - <a class="navod" href="./images/pokles_treningov.jpg">tu</a>.
                     <br><br>
                     <b> Maximálna výška každého atribútu je 255. Prípadné aktivovanie dresu, ktorý má zvýšiť atribút hráča o 10 bodov, sa tento atribút aj napriek tomu nenavýši. </b>
                     <br><br><br>
@@ -43,9 +43,9 @@
                     <br><br>
                     Príklad : 
                     <br>
-                    Zvolená <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=manager_lines_form_new.php"> taktika formácie</a>  bude "Protiútoky". Čiže taktické profily hráčov na krídle sú Rýchly (RÝC), na centri Tvorca (TVO) alebo Nahrávač (NAH) a u obrancov je to Nahrávač (NAH) 
+                    Zvolená <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=manager_lines_form_new.php"> taktika formácie</a>  bude "Protiútoky". Čiže <a class="navod" href="index.php?navod=takticke_profily">taktické profily hráčov</a> na krídle sú Rýchly (RÝC), na centri Tvorca (TVO) alebo Nahrávač (NAH) a u obrancov je to Nahrávač (NAH) 
                     alebo čistý (ČIS). V ďalšej tabuľke nižšie už vidíme ako tieto taktické profily hráčov trénovať. Samozrejme toto sú hlavné atribúty a okrem nich treba hráčom dotrénovať aj 
-                    vedľajšie atribúty ako napr. sebaovládanie hráčov kvoli vylučovaniu. Popis jednotlivých atribútov nájdete <a class="navod" href="index.php?navod=zakladne_atributy"> tu</a>.
+                    vedľajšie atribúty ako napr. sebaovládanie hráčov kvoli vylučovaniu. Popis jednotlivých atribútov nájdete v návode - <a class="navod" href="index.php?navod=zakladne_atributy"> tu</a>.
                     <br><br>
                     PS: Hráč v zápase využíva všetky svoje atribúty, a preto je normálne, keď natrénuje iný atribút ako má nastavený v tréningovom režime. </i>
                     <br><br>
