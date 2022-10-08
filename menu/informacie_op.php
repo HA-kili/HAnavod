@@ -3,12 +3,15 @@
                     <br>
                     <h1> Motivácia na dnešný zápas </h1> 
                     <ul>
-                        <li> odhad motivácie mužstva na dnešný zápas. Motivácia je ovplyvnená týmito faktormi : motivačná odmena, roztlieskávačky, domáce prostredie, nálada v mužstve, dôležitosť zápasu. </li>
+                        <li> odhad motivácie mužstva na dnešný zápas. Motivácia je ovplyvnená týmito faktormi : 
+                            <a class="navod" href="index.php?navod=motivacna_odmena">motivačná odmena</a>, roztlieskávačky, domáce prostredie, 
+                            <a class="navod" href="index.php?navod=nalada_muzstve">nálada v mužstve</a>, 
+                            <a class="navod" href="index.php?navod=dolezitost_zapasu">dôležitosť zápasu</a>. </li>
                     </ul>
                     <br>
                     <h1> Cena vstupenky na dnešný zápas </h1> 
                     <ul>
-                        <li> odhad ideálnej ceny vstupenky na dnešný zápas. Zobrazuje sa, iba ak sa dnešný zápas hrá doma. </li>
+                        <li> odhad ideálnej <a class="navod" href="index.php?navod=cena_vstupenky">ceny vstupenky</a> na dnešný zápas. Zobrazuje sa, iba ak sa dnešný zápas hrá doma. </li>
                     </ul>
                     <br>
                     <h1> Sila mužstva </h1> 

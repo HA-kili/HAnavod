@@ -20,7 +20,7 @@
                     alebo v brankároch treba potvrdiť stlačením tlačidla “Uložiť zmeny“ . So <a class="arena" href="https://www.hockeyarena.net/sk/index.php?index.php&p=public_shop.php">Sponzorským balíkom </a> môžeš jednoducho prepínať medzi prednastavenými zostavami, čo si vieš nastaviť v menu <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=manager_settings_form.php">Manažér – Nastavenia</a>. 
                     To, ktorá zostava L1-L4 nastúpi na zápas, si nastavuješ v menu <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=manager_tactics_form.php">Mužstvo - Nastavenie zápasu</a>. 
                 
-                    <br><br> <br>
+                    <br><br><br><br>
                     Ďalšie nastavenie sa týka <b><u><i>náhradníkov</i></u></b>. Toto nastavenie sa vykonáva v podmenu <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=manager_subs_form_new.php">Náhradníci</a>. Je možné samostatne zvoliť náhradníkov na pozíciu center, krídlo a obranca. Nového náhradníka pridáte kliknutím na tlačidlo
                     “Pridať“ v príslušnej časti. Podobným spôsobom ako brankára je zo zoznamu hráčov možné vybrať maximálne 12 náhradníkov každého typu. <a class="novinka" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=11628"><img class="icons" src="./icons/novinka.png"></a> Následne sa vám všetci objavia v zozname náhradníkov. Tu im opäť treba nastaviť prioritu. Ten s najvyššou
                     prioritou bude ako prvý zaskakovať za vypadnutého hráča vo formácii. Ako vlastne fungujú náhradníci? Veľmi jednoducho. Ak vypadne niekto z formácie a nemôže hrať (napríklad zranenie, reprezentačné povinnosti alebo vyradenie hráča červenou

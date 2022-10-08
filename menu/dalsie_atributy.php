@@ -1,5 +1,5 @@
 
-                <div class="section-name"> Ďalšie atribúty hráča </div>
+                <div class="section-name"> Ďalšie atribúty </div>
                     <br>
                     <b> Vek</b> 
                     <br> Vek hráča sa zvyšuje o jeden rok na konci každej sezóny. Keď hráč dosiahne svoj vekový horizont, jeho hlavné atribúty začnú pomaly klesať.
@@ -98,7 +98,7 @@
                     podmienku 20 odohraných zápasov a 300 minút za sezónu (rátajú sa zápasy základnej časti a playoff, playout nie). <a class="novinka" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=9340"><img class="icons" src="./icons/novinka.png"></a> 
                     <span class="red">Výšku vernostného bonusu ovplyvňuje ekonomická úroveň mužstva a aktuálna lojalita hráča.</span> <a class="novinka" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=8741"><img class="icons" src="./icons/novinka.png"></a>
                     <br><br>
-                    <p class="oprava_lojality"> <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=13835"><u> Oprava lojality - dočasné riešenie </u> </a> (ukončené)
+                    <p class="oprava_lojality"><a class="arena"><u> Oprava lojality - dočasné riešenie </u></a> (ukončené) <a class="novinka" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=13835"><img class="icons" src="./icons/novinka.png"></a> 
                     <br> 
                     Táto zdarma možnosť bude k dispozícii od 5.12.2021 a bude k dispozícii minimálne dve sezóny a maximálne do odvolania. 
                     <br>

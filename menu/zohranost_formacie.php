@@ -12,7 +12,7 @@
                     <br>
                     Túto odpoveď nájdete v <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=manager_discussion_posts.php&table_id=451201&last_seen=0"> rýchlych radách</a> v červenej téme. 
                     <br><br>
-                    <u> Maximálna zohranosť</u> formácie závisí vždy od aktuálne nastavenej <a class="navod" href="index.php?navod=takticke_moznosti">taktiky</a> pre formáciu a od výkonnosti jednotlivých hráčov vo formácii na ich pozíciách vo formácii (Taktické profily).
+                    <u> Maximálna zohranosť</u> formácie závisí vždy od aktuálne nastavenej <a class="navod" href="index.php?navod=takticke_moznosti">taktickej možnosti formácie</a> a od výkonnosti jednotlivých hráčov vo formácii na ich pozíciách vo formácii (Taktické profily).
                     <br><br>
                     Nemusíte sa báť, že sa zníži zohranosť formácie pri zmene jej taktiky – mení sa len maximálna zohranosť a aktuálna zohranosť bude klesať postupne počas nasledujúcich dní, ak bude maximálna zohranosť nižšia než aktuálna. 
                     Spomalili sme zhoršenie aktuálnej zohranosti formácie, ktorej zohranosť je vyššia ako jej maximálna zohranosť, približne z 10% za zápas, na 3% na zápas. <a class="novinka" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=13892"><img class="icons" src="./icons/novinka.png"></a>

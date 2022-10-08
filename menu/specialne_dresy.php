@@ -1,5 +1,5 @@
 
-                <div class="section-name"> <b></b> Špeciálne dresy hráčov </div>
+                <div class="section-name"> <b></b> Špeciálne dresy </div>
                     <br>
                     Každú sobotu (v pripade možnosti získania dresu) budú môcť hráči na základe určitých podmienok získať <b> špeciálny dres</b>, ktorý dá hráčovi rôzne bonusy. 
                     Typ dresu sa bude meniť každý mesiac. Dres bude po aktivácii možné znovu deaktivovať najskôr po 14 dňoch. 

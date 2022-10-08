@@ -1,5 +1,5 @@
 
-                <div class="section-name"> Životnosť a sledovanie hráčov </div>
+                <div class="section-name"> Životnosť a sledovanie </div>
                     <br>
                     <h1>Životnosť hráčov</h1>
                     Hráči vo veku 35 a viac s IŠ 8 a menej, v mužstvách <b> bez  <a class="arena" href="https://www.hockeyarena.net/sk/index.php?index.php&p=public_shop.php">Sponzorského balíka</a></b> , budú na konci každej sezóny automaticky poslaní do dôchodku. 
