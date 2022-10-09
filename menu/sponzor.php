@@ -1,5 +1,5 @@
 
-                <div class="section-name"> Sponzor / reklamný partneri v lige </div>
+                <div class="section-name"> Sponzor / zoznam reklamných partnerov v lige </div>
                     <br> 
                     Manažéri majú možnosť pre svoje mužstvá získavať <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=manager_league_sponsors.inc">reklamných partnerov</a>  a tým pádom nový zdroj príjmu. Na začiatku týždňa sa v každej lige objavia firmy, ktoré majú záujem o reklamnú spoluprácu, tým že si kúpia niektorý z reklamných formátov mužstva. Firmy
                     ponúkajú určitý maximálny objem peňazí, ktoré sú ochotné týždenne platiť. Zmluvu nakoniec podpíšu s mužstvom ktoré ponúkne svoj reklamný priestor za najnižšiu cenu. Minimálna ponuka ligovému sponzorovi predstavuje 66% najvyššej

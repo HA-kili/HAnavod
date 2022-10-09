@@ -1,6 +1,8 @@
 
                 <div class="section-name"> Informácie o mužstve </div>
                     <br>
+                    V menu <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=manager_summary.php">Mužstvo - Info</a> nájdete nasledujúce informácie o mužstve : 
+                    <br><br>
                     <b><h1> ID mužstva </h1></b> - ID mužstva v databáze hry
                     <br><br>
                     <b><h1> Manažér </h1></b> - meno manažéra mužstva, po <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=manager_summary.php">kliknutí</a> sa zobrazí detailná informácia o manažérovi 
