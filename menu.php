@@ -59,11 +59,11 @@
                     </li>
                     <li><a data-submenu="submfor" class=" dropdown-btn " onclick="return false;" href="index.php?navod=nastavenie_zostavy">Formácie a taktiky</a>
                         <ul class="sub  submfor <?php active(explode(",", "nastavenie_zostavy,specialne_formacie,zohranost_formacie,najazdy,takticke_specializacie,takticke_profily,takticke_moznosti"))?>">
-                            <li><a class="level1" href="index.php?navod=nastavenie_zostavy">Nastavenie zostavy (formácií) a náhradníkov</a></li>
+                            <li><a class="level1" href="index.php?navod=nastavenie_zostavy">Zostava a náhradníci</a></li>
                             <li><a class="level1" href="index.php?navod=specialne_formacie">Špec. formácie (PP/PK)</a></li>
                             <li><a class="level1" href="index.php?navod=zohranost_formacie">Zohranosť formácie</a></li>
                             <li><a class="level1" href="index.php?navod=najazdy">Nájazdy </a></li>
-                            <li><a class="level1" href="index.php?navod=takticke_specializacie">Taktické špecializácie formácií </a></li>
+                            <li><a class="level1" href="index.php?navod=takticke_specializacie">Taktiky formácií </a></li>
                             <li><a class="level1" href="index.php?navod=takticke_profily">Taktické profily hráčov</a></li>
                             <li><a class="level1" href="index.php?navod=takticke_moznosti">Taktické možnosti formácií </a></li>
                         </ul>
@@ -110,7 +110,7 @@
                         <ul class="sub  submfinance <?php active(explode(",", "financie,hotovost,sponzor,odmeny,kseftovanie"))?>">
                             <li><a class="level1" href="index.php?navod=financie">Základné informácie </a></li>
                             <li><a class="level1" href="index.php?navod=hotovost">Hotovosť v hornej lište</a></li>
-                            <li><a class="level1" href="index.php?navod=sponzor">Sponzor / reklamný partneri v lige </a></li>
+                            <li><a class="level1" href="index.php?navod=sponzor">Sponzor (zoznam)</a></li>
                             <li><a class="level1" href="index.php?navod=odmeny">Odmeny </a></li>
                             <li><a class="level1" href="index.php?navod=kseftovanie">Kšeftovanie</a></li>
                         </ul>
