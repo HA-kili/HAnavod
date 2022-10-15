@@ -12,6 +12,10 @@
                     <b> Mužstvá, ktoré už vlastnia daný dres, nemôžu získať znovu ten istý dres počas akcie. Platí to aj v prípade, že hráč, ktorý získa dres, bude predaný do iného mužstva 
                     alebo poslaný do "dôchodku". </b>
                     <br><br><br><br>
+                    <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=14151"><u> 13.10.2022 - Október: Halloween kúzla (maškrty) </u></a>
+                    <br> Bonus: zvýšenie sebaovládania (rýchlosti) o 10 bodov
+                    <br> Pri deaktivácii : zodpovedajúce zníženie atribútu
+                    <br><br>
                     <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=public_ha_news.php&id=14096"><u> 31.07.2022 - August: Streľba na terč </u></a>
                     <br> Bonus : zvýšenie brány o 10
                     <br> Pri deaktivácii : zodpovedajúce zníženie brány

@@ -9,8 +9,8 @@
                     <ul>
                         <li> zavedenie filtru na hráčsku známku v menu <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=manager_player_market_form.php"> Hráči - Trh</a></li>
                         <li> automatické plánovanie zápasov pre reprezentáciu (tak ako je to pri mužstve), aby manažér nemusel prehladávať 46 mužstiev, že ktoré má voľný termín</li>
-                        <li> v zozname <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=sponsor_tracking_form.php&action=players">Hráči - Sledovanie</a> rozdeliť hráčov na sledovanie vlastných hráčov 
-                             kvoli nákladom a sledovanie cudzích hráčov na trhu </li>
+                        <li> v zozname <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=sponsor_tracking_form.php&action=players">Hráči - Sledovanie</a> rozdeliť hráčov do skupín na sledovanie vlastných hráčov 
+                             kvoli nákladom, sledovanie cudzích hráčov na trhu, sledovanie hráčov kvoli potrebám reprezentácie a pod. </li>
                         <li> zachovanie štatistík hráčov U23 pri presunoch do A mužstva a späť</li>
                         <li> možnosť pozvať hráča do reprezentácie priamo z karty hráča</li>
                         <li> zmeniť bodovanie v súťažiach ako reprezentácia, Svetová liga a Pohár národných šampiónov (bod za remízu, prípadne tri body za výhru</li>

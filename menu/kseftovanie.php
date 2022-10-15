@@ -13,52 +13,47 @@
                     Manažér sa stáva kšeftárom, keď je 'Zisk na trhu' väčší ako nula. V tom prípade sa mu zvyšujú <a class="arena" href="https://www.hockeyarena.net/sk/index.php?p=manager_economy_reform.php&action=info">poplatky</a>  za niektoré funkcie v hre, viď zoznam nižšie. 
                     Zisk na trhu sa kšeftárovi znižuje vždy, keď zaplatí jeden z uvedených poplatkov, a to presne o sumu zvýšenia poplatkov – tato aktualizacia 'Zisku na trhu' prebehne okamžite po zaplatení daného poplatku. Manažér prestane byť kšeftárom, keď zisk na trhu znovu klesne pod nulu.
                     <br><br>
-                    <table class="cups">
-                        <tbody>
-                            <tr>
-                                <td>Zisk na trhu</td>
-                                <td>1 000 000 000</td>
-                                <td>500 000 000</td>
-                                <td>100 000 000</td>
-                            </tr>
-                            <tr>
-                                <td>Predaj hráča</td>
-                                <td>5% - 14% z výslednej ceny</td>
-                                <td></td>
-                                <td></td>
-                            </tr>
-
-                            <tr>
-                                <td>Kľúčový hráč</td>
-                                <td>200 000 000</td>
-                                <td>100 000 000</td>
-                                <td>20 000 000</td>
-                            </tr>
-                            <tr>
-                                <td>Vernostný bonus</td>
-                                <td>135 000 000</td>
-                                <td>67 500 000</td>
-                                <td>13 500 000</td>
-                            </tr>
-                            <tr>
-                                <td>Tréningové sústredenie</td>
-                                <td>60 000 000</td>
-                                <td>30 000 000</td>
-                                <td>6 000 000</td>
-                            </tr>
-                            <tr>
-                                <td>Dôkladný prieskum hráča</td>
-                                <td>4 000 000</td>
-                                <td>5 000 000</td>
-                                <td>500 000</td>
-                            </tr>
-                            <tr>
-                                <td>Zvýšenie prevádzkových nákladov štadiónu</td>
-                                <td> <b>platí pre zázemie nad 100%</b> </td>
-                                <td></td>
-                                <td></td>
-                            </tr>
-                        </tbody>
+                    <table class="tabulka">
+                        <tr>
+                            <td class="nadpis" colspan="4"><b> Kšeftárske EXTRA poplatky </b></td>
+                        </tr>
+                        <tr class="modre">
+                            <td class="popis">Zisk na trhu</td>
+                            <td class="tab">1 000 000 000</td>
+                            <td class="tab">500 000 000</td>
+                            <td class="tab">100 000 000</td>
+                        </tr>
+                        <tr>
+                            <td class="popis">Predaj hráča</td>
+                            <td class="tab" colspan="3">5% - 14% z výslednej ceny</td>
+                        </tr>
+                        <tr>
+                            <td class="popis">Kľúčový hráč</td>
+                            <td class="tab">200 000 000</td>
+                            <td class="tab">100 000 000</td>
+                            <td class="tab">20 000 000</td>
+                        </tr>
+                        <tr>
+                            <td class="popis">Vernostný bonus</td>
+                            <td class="tab">135 000 000</td>
+                            <td class="tab">67 500 000</td>
+                            <td class="tab">13 500 000</td>
+                        </tr>
+                        <tr>
+                            <td class="popis">Tréningové sústredenie</td>
+                            <td class="tab">60 000 000</td>
+                            <td class="tab">30 000 000</td>
+                            <td class="tab">6 000 000</td>
+                        </tr>
+                        <tr>
+                            <td class="popis">Dôkladný prieskum hráča</td>
+                            <td class="tab">4 000 000</td>
+                            <td class="tab">2 000 000</td>
+                            <td class="tab">500 000</td>
+                        </tr>
+                        <tr>
+                            <td class="tab" colspan="4">Zvýšenie prevádzkových nákladov štadióna <b>platí pre zázemie nad 100%</b> </td>
+                        </tr>
                     </table>
 
                     <br><br> 
@@ -66,9 +61,9 @@
                     <br><br> 
                     Cena 1 - nákupná cena hráča
                     <br><br> 
-                    Cena 2 - prodejná cena hráča
+                    Cena 2 - predajná cena hráča
                     <br><br> 
-                    Zisk hrubý – rozdiel medzi nákupnov a predejnou cenou hráča
+                    Zisk hrubý – rozdiel medzi nákupnou a predajnou cenou hráča
                     <br><br> 
                     Zisk (strata) z predaje hráča, upravená podľa koeficientu dĺžky pôsobenia v týme – čím se dĺžka vlastníctva hráča viac blíži k hranici 280 dní v týme, tím menšia čásť zisku sa do 'Zisku na trhu' započítáva. 
                     Presný vzorec pre výpočet je:
@@ -77,15 +72,15 @@
                     <br><br> 
                     Zvýšenie celkového zisku na trhu XX.sezóna – celkový kšeftársky zisk sezóny, ktorý sa pri veľkom prepočtu pripočíta k 'Zisku na trhu'
                     <br><br><br>
-                    <b> Obecné informácie: </b>
+                    <b> Všeobecné informácie: </b>
                     <br><br> 
-                    <i> Prečo bol status kšeftára zavedený?
+                    <i><u> Prečo bol status kšeftára zavedený? </u>
                     <br><br> 
                     Jedná se o systémový nástroj, ktorý má za účel obmedzit nadmerné obchodovánie s hráčmi za účelom zisku. „Kšeftovánie“ s hráčmi nieje na HA zakázané, ak dosiahnu však zisky mužstva z predeje hráčov, ktorí sú v týme krátku dobu (menej
                     ako 4 sezony), určité hranice, je manažér obmedzený navýšením poplatkov za niektoré funkcie v hre a ďalej „zdanením“ predaje takýchto hráčov až do 14% predajnej čiastky. Zmyslom je zachovať konkurencieschopnost i pre manažérov, ktorých herná
                     stratégia nieje primárne zameřaná na obchodovanie s hráčmi. 
                     <br><br><br> 
-                    Ako sa dá statusu kšeftára zbaviť?
+                    <u> Ako sa dá statusu kšeftára zbaviť? </u>
                     <br><br> 
                     Pri každom prepočte na novú sezónu sa čiastka celkového 'Zisku na trhu' aktualizuje o ďalší uzavretú sezónu – jedná sa vždy o predminulú sezónu, tj. aktuálnu sezónu minus 2 (napr. v prebiehajúcej 90. sezóne je poslednou započítanou
                     88. sezóna). Pokiaľ manažér prestane byť aktívny na trhu, za každú uzavrenú sezónu bez zisku z predaje hráčov sa mu odpočíta čiastka „tolerovaného zisku“ (líši sa podľa ligovej úrovne). Kšeftársky status sa dá teda stratiť obyčajnou neaktivitou
