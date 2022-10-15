@@ -107,3 +107,31 @@ a.addons {
 .poznamka_dres {
     color: grey;
 }
+
+/*kseftovanie - ohranicenie tabulky*/
+table.tabulka {
+    border: 1px solid;
+    width: 100%;
+    background-color: #daebf5;
+}
+td.nadpis {
+    border: 1px solid;
+    border-color: #111;
+    background-color: #125a9b;
+    text-align: center;
+    color:#f9f7f7;
+}
+td.popis {
+    border: 1px solid;
+    border-color: #111;
+    width: 40%;
+}
+td.tab {
+    border: 1px solid;
+    border-color: #111;
+    width: 20%;
+    text-align: center;
+}
+tr.modre {
+    color: blue;
+}
