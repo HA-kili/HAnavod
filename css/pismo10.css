@@ -29,6 +29,9 @@ h6 {
 .oprava_lojality {
     color: darkgray;
 }
+.lojalita {
+    color: grey;
+}
 
 
 
@@ -103,8 +106,12 @@ a.addons {
     padding-top: 65px;
 }
 
-/* poznamka k dresom */
-.poznamka_dres {
+/* poznamka k dresom a štatistikám */
+.poznamka,
+.poznamka_dres, 
+.podmienky_stat,
+.darovanie_dresu,
+.trh_s_dresmi {
     color: grey;
 }
 
