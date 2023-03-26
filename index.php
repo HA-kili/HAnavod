@@ -14,13 +14,6 @@
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"
         integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous">
         
-        if ( empty($_REQUEST["navod"]) ) {
-        $_REQUEST["navod"] = "home";
-        }
-        if ( empty($_GET["navod"]) ) {
-        $_GET["navod"] = "home";
-        }
-
     </script>
 
 </head>
@@ -73,7 +66,7 @@
         <div class="contentCol">
             <div class="advTop"></div>
             <?php
-                include('menu/' . $_REQUEST['navod'] . '.php');
+                include('menu/' . $_GET['navod'] . '.php');
             ?>
             <a class="post" title="Napíš kili | HLP" href="https://www.hockeyarena.net/sk/index.php?p=manager_mail_new_mail_form.php&whom=kili">
                 <img class="icon" src="./images/obalka.png" alt="">
