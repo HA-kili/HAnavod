@@ -13,6 +13,14 @@
 
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"
         integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous">
+        
+        if ( empty($_REQUEST["navod"]) ) {
+        $_REQUEST["navod"] = "home";
+        }
+        if ( empty($_GET["navod"]) ) {
+        $_GET["navod"] = "home";
+        }
+
     </script>
 
 </head>
@@ -65,7 +73,7 @@
         <div class="contentCol">
             <div class="advTop"></div>
             <?php
-                include('menu/' . $_GET['navod'] . '.php');
+                include('menu/' . $_REQUEST['navod'] . '.php');
             ?>
             <a class="post" title="Napíš kili | HLP" href="https://www.hockeyarena.net/sk/index.php?p=manager_mail_new_mail_form.php&whom=kili">
                 <img class="icon" src="./images/obalka.png" alt="">
@@ -77,10 +85,10 @@
     <footer class="footer">
         <div class="copyright">
             <div class="copyright2">
-                <a>© 2021 - 2022 HOCKEY ARENA NAVOD
+                <a>© 2021 - 2023 HOCKEY ARENA NAVOD
                     <br> created by &nbsp; &nbsp;
                         <a class="znaky" href="https://www.hockeyarena.net/sk/index.php?p=manager_manager_info.php&id=37083"> k&nbsp;i&nbsp;l&nbsp;i&nbsp;|&nbsp;HLP </a>
-                    <br> version 2.30
+                    <br> version 2.40
                 </a>
             </div>
         </div>
